@@ -23,5 +23,8 @@ Ingredients
 Directions
  - Combine chicken, poblano peppers, tomatillos, onion, Anaheim peppers, Serrano peppers, garlic, cumin, and a big pinch of salt in a pressure cooker.
  - Heat over high heat until gently sizzling, then seal pressure cooker, bring to high pressure, and cook for 15 minutes. Release pressure.
- - Using tongs, transfer chicken pieces to a bowl and set aside. Add cilantro and fish sauce to remaining contents of pressure cooker. Blend with an immersion blender or in a countertop blender and season to taste with salt. Return chicken to sauce, discarding skin and bones and shredding if desired.
+ - Using tongs, transfer chicken pieces to a bowl and set aside.
+ - Add cilantro and fish sauce to remaining contents of pressure cooker.
+ - Blend with an immersion blender or in a countertop blender and season to taste with salt.
+ - Return chicken to sauce, discarding skin and bones and shredding if desired.
  - Transfer to a serving platter, garnish with chopped cilantro, and serve immediately with tortillas and lime wedges.
