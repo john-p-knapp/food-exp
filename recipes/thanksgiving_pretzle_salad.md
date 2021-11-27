@@ -1,25 +1,25 @@
-Ashley's Jello Pretzle Dish
+# Ashley's Jello Pretzle Dish 
 
-Ingredients
-- 2 c crushed pretzles
-- 3/4 c butter, melted
-- 3 tbsp sugar
-- 8 oz cream cheese, softened
-- 1 c sugar
-- 8 oz cool whip
-- 6 oz strawberry Jell
-- o2 c boiling water
-- 20 oz frozen strawberries
+### Ingredients: 
+* 2 cup pretzles
+* 0.75 cup butter
+* 3 tbl sugar
+* 8 oz cream cheese
+* 1 cup sugar
+* 8 oz cool whip
+* 6 oz strawberry jello
+* 2 cup boiling water
+* 20 oz frozen strawberries
 
-Directions
-- Preheat oven to 400F
-- Stir together pretzles and butter, 3 tbsp sugar.
-- Press into bottom of 9x13 baking dish
-- Bake 8-10 miutes; and cool
-- Cream the cream cheese and 1 c sugar
-- Fold in cool whip
-- Spread mixture on the cooled crust
-- Dissolve jello in boiling water
-- Stir in  frozen strawberries and allow mixture to partially set
-- Pour jello mixture on top of cream cheese layer
-- Refrigerate until set
+### Directions: 
+1. Preheat oven to 400F 
+2. Stir together **2 cup pretzles** crushed and **0.75 cup butter** melted, **3 tbl sugar** . 
+3. Press into bottom of 9x13 baking dish 
+4. Bake 8-10 minutes, and cool 
+5. Cream the **8 oz cream cheese** softened and **1 cup sugar** 
+6. Fold in **8 oz cool whip** 
+7. Spread mixture on the cooled crust 
+8. Dissolve **6 oz strawberry jello** in **2 cup boiling water** 
+9. Stir in **20 oz frozen strawberries** and allow mixture to partially set 
+10. Pour jello mixture on top of cream cheese layer 
+11. Refrigerate until set 
