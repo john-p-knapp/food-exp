@@ -1,7 +1,7 @@
 # Chicken Chile Verde 
 
 ### Ingredients: 
-* 2 item Serrano or jalapeno peppers
+* 2 Serrano or jalapeno peppers
 * 1 lbs poblano peppers
 * 6 oz Anaheim or Cubanelle peppers
 * 12 oz tomatillos
@@ -9,16 +9,16 @@
 * 3 lbs bone-in, skin-on chicken thighs and drumsticks
 * 6 cloves garlic
 * 1 tbl whole cumin seeds
-*   salt
+*  salt
 * 1/2 cup fresh cilantro leaves
 * 1 tbl Asian Fish Sauce
-*   salt
-*   fresh corn tortillas
-*   lime wedges
+*  salt
+*  fresh corn tortillas
+*  lime wedges
 
 ### Directions: 
 #### prep'd veg
-1. Seed and roughly chop **2 item Serrano or jalapeno peppers** , **1 lbs poblano peppers** and **6 oz Anaheim or Cubanelle peppers** 
+1. Seed and roughly chop **2 Serrano or jalapeno peppers** , **1 lbs poblano peppers** and **6 oz Anaheim or Cubanelle peppers** 
 2. Husk and quater **12 oz tomatillos** 
 3. Roughly chop **10 oz white onion** 
 

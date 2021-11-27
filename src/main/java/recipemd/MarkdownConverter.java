@@ -55,8 +55,10 @@ public class MarkdownConverter extends RecipeMarkupBaseListener {
 			write("* ");
 			write(i.amount);
 			write(" ");
-			write(i.unit);
-			write(" ");
+			if (i.unit != null && !i.unit.equalsIgnoreCase("item")) {
+				write(i.unit);
+				write(" ");
+			}
 			write(i.name);
 			write("\n");
 		}
@@ -107,12 +109,16 @@ public class MarkdownConverter extends RecipeMarkupBaseListener {
 		i.name = getText(ctx.ingredient);
 		i.amount = ctx.amount.getText();
 		i.unit = ctx.unit.getText();
+
 		ingredientList.add(i);
+
 		bufferDirections("**");
 		bufferDirections(ctx.amount.getText());
 		bufferDirections(" ");
-		bufferDirections(ctx.unit.getText());
-		bufferDirections(" ");
+		if (!i.unit.equalsIgnoreCase("item")) {
+			bufferDirections(ctx.unit.getText());
+			bufferDirections(" ");
+		}
 		bufferDirections(getText(ctx.ingredient));
 		bufferDirections("** ");
 	}
