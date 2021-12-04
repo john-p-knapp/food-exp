@@ -7,7 +7,7 @@ compRef: DOLLAR LBRACKET name+=WORD+ RBRACKET;
 
 instruction: HASH (measuredAddition|addition|compRef|dirText)+ ;
 
-measuredAddition: LBRACKET amount=NUMBER unit=('item'|'tsp'|'tbl'|'cup'|'lbs'|'oz'|'dash'|'cloves') ingredient+=WORD+ RBRACKET;
+measuredAddition: LBRACKET amount=NUMBER unit=('item'|'tsp'|'tbl'|'cup'|'lbs'|'oz'|'ml'|'g'|'dash'|'cloves') ingredient+=WORD+ RBRACKET;
 addition: LBRACKET ingredient+=WORD+ RBRACKET;
 
 note : STAR dirText ;
@@ -35,7 +35,7 @@ WORD : (LETTER|DIGIT|PUNC)+ ;
 WS : [ \n\r\t]+ -> skip ;
 
 fragment PUNC
-	: ['.,():/-];
+	: ['.,():/\-;];
 fragment LETTER
 	: [a-zA-Z_];
 

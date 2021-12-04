@@ -11,7 +11,7 @@
 * 1 medium onion
 * 1 large stem fresh basil
 * 1 tbl fish sauce
-* 0.25 cup basil
+* 0.5 cup basil
 
 ### Directions: 
 1. Adjust oven rack to lower position and preheat oven to 300F (165C). 
@@ -21,7 +21,7 @@
 5. Add tomatoes, **1 medium carrot** cut into large chunks, **1 medium onion** split in half, and **1 large stem fresh basil** . Stir to combine. Season lightly with salt and pepper. Bring to a simmer over high heat. 
 6. Cover Dutch oven with lid slightly ajar and transfer to oven. Cook, stirring once every 1 to 2 hours, until reduced by about half and darkened to a deep red, 5 to 6 hours (reduce oven temperature if the sauce is bubbling too rapidly or the browned bits begin to turn too dark). 
 7. Remove from oven. Using tongs, discard onion halves, carrots, and basil stems. 
-8. Add reserved tomatoes to sauce and stir to combine. Add **1 tbl fish sauce** , if using. Season generously with salt and pepper and stir in **0.25 cup basil** , minced along with additional olive oil as desired. 
+8. Add reserved tomatoes to sauce and stir to combine. Add **1 tbl fish sauce** , if using. Season generously with salt and pepper and stir in **0.5 cup basil** , minced along with additional olive oil as desired. 
 * https://www.seriouseats.com/the-best-slow-cooked-italian-american-tomato-sauce-red-sauce-recipe 
 * Active: 20 mins 
 * Total: 6 hrs 
