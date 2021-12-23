@@ -9,4 +9,4 @@ TITLE Moroccan Vegetable Stew
 # Ladle about 3 cups of the vegetable mixture into a blender. Holding lid down with a towel and taking care to avoid steam, whirl until smooth. Return puree to slow-cooker and stir to blend. Ladle stew into a tureen or individual bowls.
 
 * Yield: Makes 12 cups; 6 to 8 servings
-LINK https://www.myrecipes.com/recipe/moroccan-vegetable-stew
+* https://www.myrecipes.com/recipe/moroccan-vegetable-stew

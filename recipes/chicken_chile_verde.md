@@ -33,7 +33,7 @@
 10. Transfer to a serving platter, garnish with chopped cilantro, and serve immediately with **fresh corn tortillas** and **lime wedges** . 
 
 
-https://www.seriouseats.com/pressure-cooker-fast-and-easy-chicken-chile-verde-recipe
+* https://www.seriouseats.com/pressure-cooker-fast-and-easy-chicken-chile-verde-recipe 
 * Active: 10 mins 
 * Total: 30 mins 
 * Serves: 4 to 6 servings 

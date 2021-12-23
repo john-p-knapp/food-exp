@@ -14,5 +14,4 @@ TITLE Santa Fe Meatloaf
 # Bake at 350F for 1 hour until a thermometer registers 155F.
 # Let stand 10 minutes.
 
-* Source
-LINK https://www.myrecipes.com/recipe/santa-fe-meat-loaf-0
+* https://www.myrecipes.com/recipe/santa-fe-meat-loaf-0
