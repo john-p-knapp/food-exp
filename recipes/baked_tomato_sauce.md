@@ -15,7 +15,7 @@
 
 ### Directions: 
 1. Adjust oven rack to lower position and preheat oven to 300F (165C). 
-2. Place **112 oz whole peeled tomatoes** in a large bowl. Using your hands, crush the tomatoes by squeezing them in your fingers until pieces no larger than 1/2-inch remain. Transfer 3 cups of crushed tomatoes to a sealed container and reserve in the refrigerator until step 4. 
+2. Place **112 oz whole peeled tomatoes** in a large bowl. Using your hands, crush the tomatoes by squeezing them in your fingers until pieces no larger than 1/2-inch remain. Transfer 3 cups of crushed tomatoes to a sealed container and reserve in the refrigerator. 
 3. Heat **0.25 cup extra-virgin olive oil** and **4 tbl butter** over medium heat in a large Dutch oven until butter is melted. Add **8 cloves garlic** , minced and cook, stirring, until softened and fragrant but not browned, about 2 minutes. 
 4. Add **1 tsp red pepper flakes** and **1 tbl dried oregano** and cook, stirring, until fragrant, about 1 minute. 
 5. Add tomatoes, **1 medium carrot** cut into large chunks, **1 medium onion** split in half, and **1 large stem fresh basil** . Stir to combine. Season lightly with salt and pepper. Bring to a simmer over high heat. 
