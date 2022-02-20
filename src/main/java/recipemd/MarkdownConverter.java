@@ -119,7 +119,19 @@ public class MarkdownConverter extends RecipeMarkupBaseListener {
 			bufferDirections(ctx.unit.getText());
 			bufferDirections(" ");
 		}
+		
+		if (getText(ctx.prep).length() > 0) {
+			bufferDirections(getText(ctx.prep));
+			bufferDirections(" ");
+		}
+		
 		bufferDirections(getText(ctx.ingredient));
+		
+		if (getText(ctx.postprep).length() > 0) {
+			bufferDirections(" ");
+			bufferDirections(getText(ctx.postprep));
+		}
+		
 		bufferDirections("** ");
 	}
 
