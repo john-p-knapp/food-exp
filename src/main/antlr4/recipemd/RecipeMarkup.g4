@@ -2,7 +2,7 @@ grammar RecipeMarkup ;
 
 recipe: titleEntry (linkEntry|note|compDef|instruction)+ ;
 
-compDef: LBRACE LBRACKET name+=WORD+ RBRACKET instruction+ RBRACE;
+compDef: LBRACE LBRACKET name+=WORD+ RBRACKET (instruction|note)+ RBRACE;
 compRef: DOLLAR LBRACKET name+=WORD+ RBRACKET;
 
 instruction: HASH (measuredAddition|addition|compRef|dirText)+ ;

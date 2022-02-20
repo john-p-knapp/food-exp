@@ -26,9 +26,9 @@
 2. With blender running stream in **30 ml olive oil** 
 3. Season with **black pepper** and **salt** 
 4. Transfer to a sealed container and refrigerate until ready to use. 
-
-
 * Sauce will be quite loose at this point, but will thicken as it sits. 
+
+
 #### Chicken
 5. spatchcock **1 chicken** 
 6. Combine **20 g kosher salt** , **15 g cumin** , **15 g paprika** , **2.5 g pepper** , **3 cloves garlic** minced, **30 ml vinegar** , **30 ml vegetable oil** 
