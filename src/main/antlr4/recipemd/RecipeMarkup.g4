@@ -28,14 +28,15 @@ RBRACE: '}';
 DOLLAR: '$';
 STAR: '*';
 HASH : '#';
-NUMBER : ( DIGIT+ (. DIGIT+)?) ;
+NUMBER : ( DIGIT+ (. DIGIT+)?) | (DIGIT+ '/' DIGIT+);
+
 WORD : (LETTER|DIGIT|PUNC)+ ;
 
 
 WS : [ \n\r\t]+ -> skip ;
 
 fragment PUNC
-	: ['.,():/\-;];
+	: ['.,():/\-;&];
 fragment LETTER
 	: [a-zA-Z_];
 

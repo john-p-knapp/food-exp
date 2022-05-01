@@ -2,7 +2,7 @@
 
 ### Ingredients: 
 * 2 cup pretzles
-* 0.75 cup butter
+* 3/4 cup butter
 * 3 tbl sugar
 * 8 oz cream cheese
 * 1 cup sugar
@@ -13,7 +13,7 @@
 
 ### Directions: 
 1. Preheat oven to 400F 
-2. Stir together **2 cup pretzles** crushed and **0.75 cup butter** melted, **3 tbl sugar** . 
+2. Stir together **2 cup pretzles** crushed and **3/4 cup butter** melted, **3 tbl sugar** . 
 3. Press into bottom of 9x13 baking dish 
 4. Bake 8-10 minutes, and cool 
 5. Cream the **8 oz cream cheese** softened and **1 cup sugar** 

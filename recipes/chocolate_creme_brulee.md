@@ -5,7 +5,7 @@
 * 6 oz sugar
 * 3.5 cup heavy cream
 * 8 oz dark chocolate
-* 0.5 cup heavy cream
+* 1/2 cup heavy cream
 
 ### Directions: 
 1. Set water bath for 182F 
@@ -14,7 +14,7 @@
 4. Heat **3.5 cup heavy cream** to 160F 
 5. Temper eggs by slowly whisking in hot cream. 
 6. Finely chop **8 oz dark chocolate** . 
-7. Heat **0.5 cup heavy cream** to 160F 
+7. Heat **1/2 cup heavy cream** to 160F 
 8. Pour cream over chocolate. Let stand until chocolate softens. 
 9. Stir to combine. 
 10. Combine egg and chocolate mixtures. 

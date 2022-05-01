@@ -1,0 +1,19 @@
+TITLE Sage Lemon Butter Chicken Piccata with Mashed Cauliflower
+
+{[Mashed Cauliflower]
+# Cut [1 head cauliflower] into florets.
+# Steam cauliflower in a large pot for 15 minutes
+# Add [3 cloves garlic], smashed and steam until tender.
+# Add [3 oz goat cheese] and [4 tbl salted butter]
+# Puree until smooth and keep warm.
+}
+
+{[Chicken Piccata]
+# Pound [1.5 lbs boneless skinless chicken breasts] to a uniform thickness. Season with [salt] and [pepper].
+# Saute chicken over high heat with [3 tbl olive oil] until done. Remove to a plate and keep warm.
+# In the same skillet add [4 tbl salted butter], [12 item fresh sage leaves], and [1 item lemon (sliced thinly)]. Saute until sage is crisp and lemons are nicely browned. Remove sage and lemon to reserved chicken.
+# In the same skillet, add [1.5 cup cherry tomatoes] and [2 tbl fresh thyme leaves]. Cook until tomatoes burst.
+# Deglaze with [1/2 cup dry white wine], add [1/2 cup fresh fresh lemon juice], and [2 tbl capers].
+# Return chicken and lemons to pan and warm through.
+# Top with [1/4 cup grated parmesan] if desired.
+}
