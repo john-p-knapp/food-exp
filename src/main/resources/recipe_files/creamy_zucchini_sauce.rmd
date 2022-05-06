@@ -1,0 +1,15 @@
+TITLE Creamy Zucchini Sauce
+{[ Zucchini]
+# Preheat the oven to 400F.
+# Mix [2 lbs zucchini cubed], [3 tbl olive oil], and [1 tbl paprika]. Add [salt] and [pepper] to taste.
+# Spread onto a large baking tray. Bake for about 20 minutes, until soft and slightly browned.
+}
+{[Pasta, optional]
+# Prepare [pasta] or other base of choice if desired.
+}
+{[Sauce]
+# Combine: [1 cup sour cream], [2 cloves garlic [minced]], [1 tbl tomato paste], and [2 tbl [chopped] basil] in a medium skillet, stir, and bring to a simmer. Turn off the heat.
+# Add the baked zucchini to the cream-sauce and mix everything well.
+# Serve over $[pasta], if desired.
+# Garnish with chopped herbs, if desired.
+}

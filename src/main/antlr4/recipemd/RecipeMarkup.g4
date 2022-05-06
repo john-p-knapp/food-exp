@@ -37,6 +37,7 @@ WS : [ \n\r\t]+ -> skip ;
 
 fragment PUNC
 	: ['.,():/\-;&];
+
 fragment LETTER
 	: [a-zA-Z_];
 
