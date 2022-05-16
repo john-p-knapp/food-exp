@@ -15,7 +15,7 @@
 * 1/2 tsp black pepper
 * 12 oz jarred roasted red peppers
 * 1/4 cup extra-virgin olive oil
-* 2 tbl harissa (I use Mina brand)
+* 2 tbl harissa
 * 1/2 tbl minced fresh garlic
 * 1/2 tsp each kosher salt and black pepper
 
@@ -29,7 +29,7 @@
 
 
 #### Roasted Red Pepper Sauce
-6. Combine and puree until smooth: **12 oz jarred roasted red peppers** , **1/4 cup extra-virgin olive oil** , **2 tbl harissa (I use Mina brand)** , **1/2 tbl minced fresh garlic** , **1/2 tsp each kosher salt and black pepper** . 
+6. Combine and puree until smooth: **12 oz jarred roasted red peppers** , **1/4 cup extra-virgin olive oil** , **2 tbl harissa** , **1/2 tbl minced fresh garlic** , **1/2 tsp each kosher salt and black pepper** . 
 
 
 7. Serve **Lentil Meatballs** with **Roasted Red Pepper Sauce** . Garnish with fresh chopped parsley, if desired. 

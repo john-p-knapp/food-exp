@@ -1,0 +1,32 @@
+TITLE Pumpkin Ramen
+
+# Bring a medium saucepan of salted water to a boil.
+# Roughly chop [16 oz baby bok choy].
+
+{[Broth]
+# Chop [2 oz fresh ginger] into large chunks.
+# Heat vegetable oil in a large saucepan over medium-high heat. Add chopped ginger and cook until fragrant.
+# Add white [6 tbl white miso paste], [1/2 cup pumpkin puree], and [28 oz coconut milk] to the saucepan with the ginger. # Bring to a boil, reduce heat to low, and let broth simmer until you're ready to serve.
+}
+
+{[Kale chips]
+# Preheat the oven to 300F.
+# Destem [8 oz Lacinato kale] and tare into large pieces.
+# Rub with [vegetable oil], [salt], and [pepper] and spread on a baking sheet.
+# Roast until crispy, 15 to 20 minutes.
+}
+
+{[Garnish]
+# Thinly slice [3 cloves garlic].
+# Thinly slice [2 item thai chile].
+# Heat [oil] in a small pan. Add sliced garlic and cook, shaking the pan occasionally, until garlic is golden brown and toasted.
+# Add [6 tbl pumpkin seeds] and cook until seeds are toasted.
+# Add sliced thai chile, a pinch of salt, and remove from heat.
+}
+{[Final Assembly]
+# Remove ginger pieces from $[Broth].
+# Add bok choy to $[Broth] and simmer for 3 minutes.
+# Meanwhile cook [20 oz fresh ramen noodles] according to package directions, (al dente).
+# Drain noodles and portion into bowls.
+# Top with $[Broth], $[Kale chips], and $[Garnish]. Serve immediately.
+}

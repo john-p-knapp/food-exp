@@ -1,0 +1,13 @@
+TITLE Chicken and Tapenade Sandwiches
+
+{[Tapenade]
+# In a small bowl combine: [1.5 cup diced seeded tomato], [2 tbl [finely chopped] pitted kalamata olives], [1 tbl [chopped] fresh basil], [1 tbl [chopped] fresh flat-leaf parsley], [2 tbl balsamic vinegar], [1 tsp chopped fresh oregano], [1/2 tsp minced garlic], and [2 tsp olive oil].
+# Let stand 15 minutes.
+# Add [1 oz crumbled feta cheese]. Adjust [salt] and [pepper]; stir gently to combine.
+}
+{[Sandwiches]
+# Prepare grill
+# Brush chicken evenly with  [1 tbl olive oil], and sprinkle with [salt] and [pepper].
+# Grill chicken. Let stand 5 minutes before slicing thinly.
+# Arrange sliced chicken evenly on bottom halves of rolls. Top each serving with one-fourth of tomato mixture, and cover with top halves of rolls. Serve immediately.
+}
