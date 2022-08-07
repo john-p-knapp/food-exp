@@ -17,10 +17,12 @@
 *  pepper
 
 ### Directions: 
+
 #### Tapenade
 1. In a small bowl combine: **1.5 cup diced seeded tomato** , **2 tbl finely chopped pitted kalamata olives** , **1 tbl chopped fresh basil** , **1 tbl chopped fresh flat-leaf parsley** , **2 tbl balsamic vinegar** , **1 tsp chopped fresh oregano** , **1/2 tsp minced garlic** , and **2 tsp olive oil** . 
 2. Let stand 15 minutes. 
 3. Add **1 oz crumbled feta cheese** . Adjust **salt** and **pepper** ; stir gently to combine. 
+
 
 
 #### Sandwiches

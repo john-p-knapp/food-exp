@@ -1,5 +1,7 @@
 TITLE Baked Tomato Sauce
 
+
+
 # Adjust oven rack to lower position and preheat oven to 300F (165C).
 
 # Place [112 oz whole peeled tomatoes] in a large bowl. Using your hands, crush the tomatoes by squeezing them in your fingers until pieces no larger than 1/2-inch remain. Transfer 3 cups of crushed tomatoes to a sealed container and reserve in the refrigerator.
@@ -16,9 +18,9 @@ TITLE Baked Tomato Sauce
 
 # Add reserved tomatoes to sauce and stir to combine. Add [1 tbl fish sauce], if using. Season generously with salt and pepper and stir in [1/2 cup basil], minced along with additional olive oil as desired.
 
-* https://www.seriouseats.com/the-best-slow-cooked-italian-american-tomato-sauce-red-sauce-recipe
+LINK https://www.seriouseats.com/the-best-slow-cooked-italian-american-tomato-sauce-red-sauce-recipe
 
 * Active: 20 mins
 * Total: 6 hrs
-* Serves: 6 to 8 servings
-* Makes: 2 quarts
+
+TAGS vegetarian

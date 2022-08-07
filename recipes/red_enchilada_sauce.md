@@ -12,10 +12,12 @@
 *  salt
 
 ### Directions: 
+
 #### Prepare Chilies
 * Skip if using pre-ground guajillo. 
 1. Preheat oven to 350F. Place **4 guajillo chiles** on a baking sheet and heat in oven until puffed up and aromatic, about 3-5 minutes. 
 2. Remove from the oven and allow to cool. Stem and seed chiles; tear into pieces. 
+
 
 
 #### Make Sauce

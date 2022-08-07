@@ -20,6 +20,7 @@
 *  crushed peanuts
 
 ### Directions: 
+
 #### Shredded Chicken
 1. Poach and shred **1.5 lbs chicken** . 
 

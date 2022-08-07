@@ -11,6 +11,7 @@
 * 3 eggs
 
 ### Directions: 
+
 #### blond roux
 1. Make white sauce with **8 tbl butter** , **3 tbl flour** , and **3/4 cup milk** . 
 

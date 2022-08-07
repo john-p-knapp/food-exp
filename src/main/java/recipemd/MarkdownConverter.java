@@ -14,11 +14,13 @@ import recipemd.RecipeMarkupParser.AdditionContext;
 import recipemd.RecipeMarkupParser.CompDefContext;
 import recipemd.RecipeMarkupParser.CompRefContext;
 import recipemd.RecipeMarkupParser.DirTextContext;
+import recipemd.RecipeMarkupParser.ImageEntryContext;
 import recipemd.RecipeMarkupParser.InstructionContext;
 import recipemd.RecipeMarkupParser.LinkEntryContext;
 import recipemd.RecipeMarkupParser.MeasuredAdditionContext;
 import recipemd.RecipeMarkupParser.NoteContext;
 import recipemd.RecipeMarkupParser.RecipeContext;
+import recipemd.RecipeMarkupParser.TagEntryContext;
 import recipemd.RecipeMarkupParser.TitleEntryContext;
 
 public class MarkdownConverter extends RecipeMarkupBaseListener {
@@ -32,10 +34,35 @@ public class MarkdownConverter extends RecipeMarkupBaseListener {
 	List<Ingredient> ingredientList = new ArrayList<>();
 	AtomicInteger step = new AtomicInteger();
 	private final Writer writer;
-	StringBuilder directions = new StringBuilder();
+	StringBuilder buffer;
 
 	public MarkdownConverter(Writer writer) {
 		this.writer = writer;
+	}
+
+	@Override
+	public void enterAddition(AdditionContext ctx) {
+		Ingredient i = new Ingredient();
+		i.name = getText(ctx.ingredient);
+		ingredientList.add(i);
+		write("**");
+		write(getText(ctx.ingredient));
+		write("** ");
+	}
+
+	@Override
+	public void enterCompDef(CompDefContext ctx) {
+		startBuffering();
+		write("\n#### ");
+		write(getText(ctx.name));
+		write("\n");
+	}
+
+	@Override
+	public void enterCompRef(CompRefContext ctx) {
+		write("**");
+		write(getText(ctx.name));
+		write("** ");
 	}
 
 	@Override
@@ -43,64 +70,31 @@ public class MarkdownConverter extends RecipeMarkupBaseListener {
 		ParseTree child;
 		for (int i = 0; i < ctx.getChildCount(); i++) {
 			child = ctx.getChild(i);
-			bufferDirections(child.getText());
-			bufferDirections(" ");
-		}
-	}
-
-	@Override
-	public void exitRecipe(RecipeContext ctx) {
-		write("### Ingredients: \n");
-		for (Ingredient i : ingredientList) {
-			write("* ");
-			write(i.amount);
+			write(child.getText());
 			write(" ");
-			if (i.unit != null && !i.unit.equalsIgnoreCase("item")) {
-				write(i.unit);
-				write(" ");
-			}
-			write(i.name);
-			write("\n");
 		}
-		write("\n");
-		write("### Directions: \n");
-		write(directions.toString());
-		flush();
 	}
 
 	@Override
-	public void enterCompDef(CompDefContext ctx) {
-		bufferDirections("#### ");
-		bufferDirections(getText(ctx.name));
-		bufferDirections("\n");
-	}
-
-	@Override
-	public void exitCompDef(CompDefContext ctx) {
-		bufferDirections("\n\n");
-	}
-
-	@Override
-	public void enterCompRef(CompRefContext ctx) {
-		bufferDirections("**");
-		bufferDirections(getText(ctx.name));
-		bufferDirections("** ");
-	}
-
-	@Override
-	public void exitCompRef(CompRefContext ctx) {
-
+	public void enterImageEntry(ImageEntryContext ctx) {
+		write("![image](");
+		write(ctx.path.getText());
+		write(")\n");
+		super.enterImageEntry(ctx);
 	}
 
 	@Override
 	public void enterInstruction(InstructionContext ctx) {
-		bufferDirections(String.valueOf(step.incrementAndGet()));
-		bufferDirections(". ");
+		startBuffering();
+		write(String.valueOf(step.incrementAndGet()));
+		write(". ");
 	}
 
 	@Override
-	public void exitInstruction(InstructionContext ctx) {
-		bufferDirections("\n");
+	public void enterLinkEntry(LinkEntryContext ctx) {
+		write("* ");
+		write(ctx.url.getText());
+		write("\n");
 	}
 
 	@Override
@@ -112,52 +106,44 @@ public class MarkdownConverter extends RecipeMarkupBaseListener {
 
 		ingredientList.add(i);
 
-		bufferDirections("**");
-		bufferDirections(ctx.amount.getText());
-		bufferDirections(" ");
+		write("**");
+		write(ctx.amount.getText());
+		write(" ");
 		if (!i.unit.equalsIgnoreCase("item")) {
-			bufferDirections(ctx.unit.getText());
-			bufferDirections(" ");
+			write(ctx.unit.getText());
+			write(" ");
 		}
-		
+
 		if (getText(ctx.prep).length() > 0) {
-			bufferDirections(getText(ctx.prep));
-			bufferDirections(" ");
+			write(getText(ctx.prep));
+			write(" ");
 		}
-		
-		bufferDirections(getText(ctx.ingredient));
-		
+
+		write(getText(ctx.ingredient));
+
 		if (getText(ctx.postprep).length() > 0) {
-			bufferDirections(" ");
-			bufferDirections(getText(ctx.postprep));
+			write(" ");
+			write(getText(ctx.postprep));
 		}
-		
-		bufferDirections("** ");
-	}
 
-	@Override
-	public void exitMeasuredAddition(MeasuredAdditionContext ctx) {
-
-	}
-
-	@Override
-	public void enterAddition(AdditionContext ctx) {
-		Ingredient i = new Ingredient();
-		i.name = getText(ctx.ingredient);
-		ingredientList.add(i);
-		bufferDirections("**");
-		bufferDirections(getText(ctx.ingredient));
-		bufferDirections("** ");
+		write("** ");
 	}
 
 	@Override
 	public void enterNote(NoteContext ctx) {
-		bufferDirections("* ");
+		write("* ");
 	}
 
 	@Override
-	public void exitNote(NoteContext ctx) {
-		bufferDirections("\n");
+	public void enterTagEntry(TagEntryContext ctx) {
+
+		ParseTree child;
+		write("Tags: ");
+		for (int i = 1; i < ctx.getChildCount(); i++) {
+			child = ctx.getChild(i);
+			write(" #");
+			write(child.getText());
+		}
 	}
 
 	@Override
@@ -172,14 +158,52 @@ public class MarkdownConverter extends RecipeMarkupBaseListener {
 
 	}
 
-	private void write(String text) {
-		try {
-			if (text != null) {
-				writer.write(text);
+	@Override
+	public void exitCompDef(CompDefContext ctx) {
+		write("\n\n");
+	}
+
+	@Override
+	public void exitCompRef(CompRefContext ctx) {
+
+	}
+
+	@Override
+	public void exitInstruction(InstructionContext ctx) {
+		write("\n");
+	}
+
+	@Override
+	public void exitMeasuredAddition(MeasuredAdditionContext ctx) {
+
+	}
+
+	@Override
+	public void exitNote(NoteContext ctx) {
+		write("\n");
+	}
+
+	@Override
+	public void exitRecipe(RecipeContext ctx) {
+		stopBuffering();
+		write("### Ingredients: \n");
+		for (Ingredient i : ingredientList) {
+			write("* ");
+			write(i.amount);
+			write(" ");
+			if (i.unit != null && !i.unit.equalsIgnoreCase("item")) {
+				write(i.unit);
+				write(" ");
 			}
-		} catch (IOException e) {
-			e.printStackTrace();
+			write(i.name);
+			write("\n");
 		}
+		write("\n");
+		write("### Directions: \n");
+		write(buffer.toString());
+		
+
+		flush();
 	}
 
 	private void flush() {
@@ -188,16 +212,6 @@ public class MarkdownConverter extends RecipeMarkupBaseListener {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
-	}
-
-	private void bufferDirections(String text) {
-		directions.append(text);
-	}
-
-	@Override
-	public void enterLinkEntry(LinkEntryContext ctx) {
-		bufferDirections(ctx.url.getText());
-		bufferDirections("\n");
 	}
 
 	private String getText(List<Token> tokens) {
@@ -212,5 +226,35 @@ public class MarkdownConverter extends RecipeMarkupBaseListener {
 			}
 		}
 		return sb.toString();
+	}
+
+	boolean buffering = false;
+
+	private void startBuffering() {
+
+		if (buffering == false) {
+			buffering = true;
+			buffer = new StringBuilder();
+		}
+
+	}
+
+	private void stopBuffering() {
+		buffering = false;
+		
+	}
+
+	private void write(String text) {
+		try {
+			if (text != null) {
+				if (buffering) {
+					buffer.append(text);
+				} else {
+					writer.write(text);
+				}
+			}
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
 	}
 }
