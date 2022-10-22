@@ -20,12 +20,14 @@
 * 1/4 cup grated parmesan
 
 ### Directions: 
+
 #### Mashed Cauliflower
 1. Cut **1 head cauliflower** into florets. 
 2. Steam cauliflower in a large pot for 15 minutes 
 3. Add **3 cloves garlic** , smashed and steam until tender. 
 4. Add **3 oz goat cheese** and **4 tbl salted butter** 
 5. Puree until smooth and keep warm. 
+
 
 
 #### Chicken Piccata

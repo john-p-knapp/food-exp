@@ -13,14 +13,17 @@
 * 2 tbl basil
 
 ### Directions: 
+
 #### Zucchini
 1. Preheat the oven to 400F. 
 2. Mix **2 lbs zucchini cubed** , **3 tbl olive oil** , and **1 tbl paprika** . Add **salt** and **pepper** to taste. 
 3. Spread onto a large baking tray. Bake for about 20 minutes, until soft and slightly browned. 
 
 
+
 #### Pasta, optional
 4. Prepare **pasta** or other base of choice if desired. 
+
 
 
 #### Sauce

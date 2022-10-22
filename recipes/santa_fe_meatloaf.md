@@ -17,6 +17,7 @@
 
 ### Directions: 
 1. Preheat oven to 350F. 
+
 #### Chopped Veg
 2. Finely chop **1/2 cup chopped onion** , **1/2 cup red bell pepper** , and **4 cloves garlic** 
 

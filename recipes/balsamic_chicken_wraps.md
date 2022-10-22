@@ -19,9 +19,11 @@
 *  asiago cheese
 
 ### Directions: 
+
 #### Marinade
 1. In a marinating dish or plastic bag combine: **1/2 cup minced fresh parsley** , **1 tbl dried Italian seasoning** , **2 tbl olive oil** , **2 tbl balsamic vinegar** , **1 tsp black pepper** , **2 cloves garlic , minced** . 
 2. Trim **2 lbs boneless skinless chicken breasts** and merinate for 2 hours. 
+
 
 
 #### Tuscan White Beans
@@ -29,6 +31,7 @@
 4. Reduce heat to medium-low. 
 5. Add **1 tbl chopped fresh rosemary** , **28 oz cannellini beans rinsed and drained** , **2 cup dry white wine** , **1.5 tsp grated lemon rind** , **1 tsp black pepper** . Simmer 30 minutes or until thick. 
 6. Stir in **1/2 cup minced fresh parsley** . 
+
 
 
 #### Grill

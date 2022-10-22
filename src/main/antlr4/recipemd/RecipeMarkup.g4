@@ -1,25 +1,27 @@
 grammar RecipeMarkup ;
 
-recipe: titleEntry (linkEntry|note|compDef|instruction)+ ;
+recipe: titleEntry (linkEntry|note|compDef|instruction|tagEntry|imageEntry)+ ;
 
-compDef: LBRACE LBRACKET name+=WORD+ RBRACKET (instruction|note)+ RBRACE;
-compRef: DOLLAR LBRACKET name+=WORD+ RBRACKET;
+compDef: LBRACE LBRACKET name+=WORD+ RBRACKET (instruction|note|imageEntry)+ RBRACE;
 
-instruction: HASH (measuredAddition|addition|compRef|dirText)+ ;
+instruction: HASH (dirText|measuredAddition|addition|compRef)+ ;
 
 measuredAddition: LBRACKET amount=NUMBER unit=('item'|'tsp'|'tbl'|'cup'|'lbs'|'oz'|'ml'|'g'|'dash'|'cloves'|'head') (LBRACKET prep+=WORD+ RBRACKET)? ingredient+=WORD+ (LBRACKET postprep+=WORD+ RBRACKET)? RBRACKET;
 addition: LBRACKET ingredient+=WORD+ RBRACKET;
 
-note : STAR dirText ;
-
-
+compRef: DOLLAR LBRACKET name+=WORD+ RBRACKET;
+note : STAR dirText;
 titleEntry: TITlE name=WORD+;
 linkEntry: LINK url=WORD;
+imageEntry: IMAGE path=WORD;
+tagEntry: TAGS tags=WORD+;
 dirText: (NUMBER|WORD)+;
 
 // Lexer
 TITlE: 'TITLE';
 LINK: 'LINK';
+IMAGE: 'IMAGE';
+TAGS: 'TAGS';
 
 LBRACKET: '[';
 RBRACKET: ']';
