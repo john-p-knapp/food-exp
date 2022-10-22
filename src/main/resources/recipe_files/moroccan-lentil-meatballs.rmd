@@ -1,0 +1,15 @@
+TITLE Moroccan Lentil Meatballs
+
+{[Lentil Meatballs]
+# Preheat oven to 350F.
+# Cook [1/2 cup dried lentils].
+# In a food processor combine: [3/4 cup breadcrumbs], [1/2 cup [roughly chopped] red onion], [1/4 cup fresh parsley], [1 item egg], [2 tbl tomato paste], [1 tsp soy saue ], [1.5 tsp minced fresh garlic], [1 tsp dried oregano], [1 tsp smoked paprika], [1/2 tsp salt], [1/2 tsp black pepper], [2 tbl olive oil ]
+# Process until well combined.
+# Roll or scoop into 1 inch ball and bake for 12-15 minutes.
+}
+
+
+{[Roasted Red Pepper Sauce]
+# In a blender combine: [12 oz roasted red peppers], [1/4 cup extra-virgin olive oil], [2 tbl harissa ], [1/2 tbl minced fresh garlic], [1/2 tsp each kosher salt and black pepper]
+# Blend until smooth.
+}
