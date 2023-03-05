@@ -1,4 +1,4 @@
-# thai_pineapple_peanut_chicken_satay 
+# Thai Pineapple Peanut Chicken Satay 
 
 ### Ingredients: 
 * 1/3 cup pineapple juice
@@ -14,6 +14,12 @@
 * 2 lbs chicken
 * 3 tbl olive oil
 * 1/4 cup Thai Peanut Pineapple Sauce
+* 1/3 cup coconut milk
+* 1/4 tsp cornstarch
+* 1/3 cup crunchy peanut butter
+*  Freshly squeezed lime juice
+*  crushed peanuts
+*  green onions
 
 ### Directions: 
 
@@ -23,4 +29,8 @@
 
 2. Chop **2 lbs chicken** into bite size pieces. 
 3. Marinate chicken for 1-4 hours in **3 tbl olive oil** , **1/4 cup Thai Peanut Pineapple Sauce** . 
-4. In a small pot combine remaining **Thai Peanut Pineapple Sauce** , 1/3 
+4. In a small pot combine remaining **Thai Peanut Pineapple Sauce** , **1/3 cup coconut milk** , **1/4 tsp cornstarch** . 
+5. Bring to a boil and simmer for 1 minute. 
+6. Stir in **1/3 cup crunchy peanut butter** and keep warm. 
+7. Grill chcken. 
+8. Garnish with **Freshly squeezed lime juice** , **crushed peanuts** , **green onions** . 
