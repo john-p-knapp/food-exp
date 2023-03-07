@@ -17,8 +17,8 @@
 * 4 tbl tahini paste
 * 2 oz dark chocolate squares
 * 1/2 onion
-* 1 bell pepper
-* 1 small zucchini
+* 1 red bell pepper
+* 1 cup zucchini
 * 4 cloves garlic
 * 1/2 tsp salt
 * 1 cup corn
@@ -44,7 +44,7 @@
 
 #### Filling
 7. In a large skillet over medium-high heat, saute the **1/2 onion diced** until starting to soften. 
-8. Lower heat to medium and add **1 bell pepper , diced small** , **1 small zucchini diced small** , **4 cloves garlic minced** , **1/2 tsp salt** , and cook until tender. 
+8. Lower heat to medium and add **1 red bell pepper , diced small** , **1 cup zucchini diced small** , **4 cloves garlic minced** , **1/2 tsp salt** , and cook until tender. 
 9. Add the **1 cup corn** , heat through. Set aside. 
 10. When the sweet potatoes are tender and cool enough to handle, using a knife, split lengthwise, careful to not go all the way through. Push the two pointy ends together like you would a coin purse, revealing the fleshy insides. Using a spoon, scoop out about a half of a cup, out of each sweet potato and place this in a medium bowl. You should have roughly 2 cups or a bit more. Add the cooked veggies and mix. 
 11. Add **1/2 tsp cumin** , **1/2 tsp coriander** , **1/2 tsp chipotle powder** , **1 cup Mexican cheese** , **2 cup Mole Sauce** 

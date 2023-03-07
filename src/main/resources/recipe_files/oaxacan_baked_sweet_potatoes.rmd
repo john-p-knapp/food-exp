@@ -6,13 +6,13 @@ TITLE Oaxacan Baked Sweet Potatoes
 # Combine in a blender: [15 oz crushed tomatos], [4 cloves garlic], [1/2 item onion [rough diced]], [1/2 cup water], [1 tbl soy sauce ], [1 item chipotle chili], [1 tbl adobo sauce ], [2 tsp chili powder], [2 tsp cumin], [2 tsp coriander], [1/2 tsp pepper], [1/2 tsp salt]. Blend until smooth.
 # Place this Mole sauce in a medium pot, bring it to a simmer over medium-low heat, cover and cook over medium-low heat.
 # Cook until flavors meld and the onion is tempered.
-# Stir in [4 tbl tahini paste ] and [2 oz dark chocolate squares] stir until melted and combined. Taste, adjust salt and sweetness.  Turn heat off and set aside.
+# Stir in [4 tbl tahini paste ] and [2 oz dark chocolate squares] stir until melted and combined. Taste, adjust salt and sweetness. Turn heat off and set aside.
 }
 {[Filling]
 # In a large skillet over medium-high heat, saute the [1/2 item onion [ diced]] until starting to soften.
-# Lower heat to medium and add [1 item bell pepper[, diced small]], [1 item small zucchini [diced small]], [4 cloves garlic [minced]], [1/2 tsp salt], and cook until tender.
-# Add the [1 cup corn], heat through.  Set aside.
-# When the sweet potatoes are tender and cool enough to handle, using a knife, split lengthwise, careful to not go all the way through. Push the two pointy ends together like you would a coin purse, revealing the fleshy insides. Using a spoon, scoop out about a half of a cup, out of each sweet potato and place this in a medium bowl. You should have roughly 2 cups or a bit more.  Add the cooked veggies and mix.
+# Lower heat to medium and add [1 item red bell pepper[, diced small]], [1 cup zucchini [diced small]], [4 cloves garlic [minced]], [1/2 tsp salt], and cook until tender.
+# Add the [1 cup corn], heat through. Set aside.
+# When the sweet potatoes are tender and cool enough to handle, using a knife, split lengthwise, careful to not go all the way through. Push the two pointy ends together like you would a coin purse, revealing the fleshy insides. Using a spoon, scoop out about a half of a cup, out of each sweet potato and place this in a medium bowl. You should have roughly 2 cups or a bit more. Add the cooked veggies and mix.
 # Add [1/2 tsp cumin], [1/2 tsp coriander], [1/2 tsp chipotle powder], [1 cup Mexican cheese], [2 cup Mole Sauce ]
 # Spoon the filling back into the sweet potatoes, mounding them up a bit. Brush skins with a little olive oil.
 # Reduce heat to 375F until warmed through, 25 minutes.

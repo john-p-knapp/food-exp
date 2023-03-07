@@ -14,12 +14,12 @@
 * 1/2 cup BBQ Sauce
 * 2 jalapenos
 * 2 cup corn
-* 1/3 cup fresh cilantro
-* 1/4 cup fresh basil
+* 1/3 cup cilantro
+* 1/4 cup basil
 * 2 tbl lime juice
 * 1 tbl lemon juice
 * 1 tbl apple cider vinegar
-* 1/3 cup crumbled feta cheese
+* 1/3 cup feta cheese
 
 ### Directions: 
 
@@ -36,7 +36,7 @@
 
 
 #### Corn and Feta Salsa
-5. In a medium bowl combine: **2 diced jalapenos** , **2 cup cooked corn** , **1/3 cup chopped fresh cilantro** **1/4 cup chopped fresh basil** , **2 tbl lime juice** , **1 tbl lemon juice** , **1 tbl apple cider vinegar** , and **1/3 cup crumbled feta cheese** . 
+5. In a medium bowl combine: **2 diced jalapenos** , **2 cup cooked corn** , **1/3 cup chopped cilantro** **1/4 cup chopped basil** , **2 tbl lime juice** , **1 tbl lemon juice** , **1 tbl apple cider vinegar** , and **1/3 cup crumbled feta cheese** . 
 
 
 6. Serve grilled chicken with the **Corn and Feta Salsa** . 

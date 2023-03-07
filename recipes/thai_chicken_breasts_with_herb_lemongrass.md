@@ -1,23 +1,23 @@
 # Thai Chicken Breasts with Herb Lemongrass 
 
 ### Ingredients: 
-* 1.25 cup fresh cilantro
+* 1.25 cup cilantro
 * 0.75 cup coconut milk
 * 1/4 cup lemongrass
-* 12 fresh basil leaves
+* 12 basil leaves
 * 3 Thai bird chiles
 * 3 cloves garlic
 * 1.5 tbl kosher salt
 * 2 tsp light brown sugar
-* 1.5 tsp freshly ground black pepper
+* 1.5 tsp black pepper
 * 5 lbs chicken breast
-* 1/4 cup fresh cilantro
+* 1/4 cup cilantro
 * 2 lime wedges
 
 ### Directions: 
 
 #### Marinade
-1. In a blender combine: **1.25 cup fresh cilantro** , **0.75 cup coconut milk** , **1/4 cup chopped lemongrass** , **12 fresh basil leaves** , **3 Thai bird chiles** , **3 cloves garlic** , **1.5 tbl kosher salt** , **2 tsp packed light brown sugar** , and **1.5 tsp freshly ground black pepper** . 
+1. In a blender combine: **1.25 cup cilantro** , **0.75 cup coconut milk** , **1/4 cup chopped lemongrass** , **12 basil leaves** , **3 Thai bird chiles** , **3 cloves garlic** , **1.5 tbl kosher salt** , **2 tsp packed light brown sugar** , and **1.5 tsp black pepper** . 
 2. Puree until smooth. 
 
 
@@ -28,4 +28,4 @@
 5. Grill chicken. 
 
 
-6. Sprinkle with **1/4 cup chopped fresh cilantro** and serve with **2 lime wedges** . 
+6. Sprinkle with **1/4 cup chopped cilantro** and serve with **2 lime wedges** . 

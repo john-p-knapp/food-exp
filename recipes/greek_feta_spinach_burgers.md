@@ -8,7 +8,7 @@
 * 1/2 cup mixed herbs, mint, parsley
 * 3 tbl grated onion
 * 2 cloves garlic
-* 1/2 cup crumbled feta
+* 1/2 cup [crumbled] feta
 *  olive oil
 * 1/2 lemon
 * 2 cup Romaine

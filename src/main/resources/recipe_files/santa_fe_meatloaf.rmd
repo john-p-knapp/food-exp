@@ -1,10 +1,10 @@
 TITLE Santa Fe Meatloaf
 # Preheat oven to 350F.
 {[Chopped Veg]
-# Finely chop [1/2 cup chopped onion], [1/2 cup red bell pepper], and [4 cloves garlic]
+# Finely chop [1/2 cup [chopped] onion], [1/2 cup red bell pepper], and [4 cloves garlic]
 }
 # Saute $[Chopped Veg] until tender.
-# Stir in [1 tsp chili powder], [1/2 tsp ground cumin],
+# Stir in [1 tsp chili powder], [1/2 tsp cumin],
 # Stir in [1 tbl chipotle chile in adobo sauce] minced; saute 30 seconds. Remove from pan; cool.
 # Combine onion mixture, [1.5 lbs ground turkey breast], [3/4 cup breadcrumbs], [1/2 cup chunky salsa], [1 tsp dried oregano], [1 item eggs] beaten in a large bowl.
 # Place half of turkey mixture in an 8 x 4-inch loaf pan coated with cooking spray.

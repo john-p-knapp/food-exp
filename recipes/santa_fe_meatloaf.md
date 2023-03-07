@@ -1,11 +1,11 @@
 # Santa Fe Meatloaf 
 
 ### Ingredients: 
-* 1/2 cup chopped onion
+* 1/2 cup onion
 * 1/2 cup red bell pepper
 * 4 cloves garlic
 * 1 tsp chili powder
-* 1/2 tsp ground cumin
+* 1/2 tsp cumin
 * 1 tbl chipotle chile in adobo sauce
 * 1.5 lbs ground turkey breast
 * 3/4 cup breadcrumbs
@@ -23,7 +23,7 @@
 
 
 3. Saute **Chopped Veg** until tender. 
-4. Stir in **1 tsp chili powder** , **1/2 tsp ground cumin** , 
+4. Stir in **1 tsp chili powder** , **1/2 tsp cumin** , 
 5. Stir in **1 tbl chipotle chile in adobo sauce** minced; saute 30 seconds. Remove from pan; cool. 
 6. Combine onion mixture, **1.5 lbs ground turkey breast** , **3/4 cup breadcrumbs** , **1/2 cup chunky salsa** , **1 tsp dried oregano** , **1 eggs** beaten in a large bowl. 
 7. Place half of turkey mixture in an 8 x 4-inch loaf pan coated with cooking spray. 

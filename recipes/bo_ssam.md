@@ -11,7 +11,7 @@
 * 3/4 tsp sherry vinegar
 *  salt
 * 2 tbl ssamjang
-* 1 tbl cochujang
+* 1 tbl gochujang
 * 1 tbl sherry vinegar
 * 1 tbl neutral oil
 * 2 cup white rice
@@ -33,7 +33,7 @@
 
 
 #### Ssam Sauce
-4. Strig together **2 tbl ssamjang** , **1 tbl cochujang** , **1 tbl sherry vinegar** , and **1 tbl neutral oil** . 
+4. Strig together **2 tbl ssamjang** , **1 tbl gochujang** , **1 tbl sherry vinegar** , and **1 tbl neutral oil** . 
 
 
 

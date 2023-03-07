@@ -2,15 +2,15 @@ TITLE Balsamic Chicken Wraps with Tuscan White Beans
 
 {[Marinade]
 
-# In a marinating dish or plastic bag combine: [1/2 cup minced fresh parsley], [1 tbl dried Italian seasoning], [2 tbl olive oil], [2 tbl balsamic vinegar], [1 tsp black pepper], [2 cloves garlic [, minced]].
+# In a marinating dish or plastic bag combine: [1/2 cup [minced] parsley], [1 tbl dried Italian seasoning], [2 tbl olive oil], [2 tbl balsamic vinegar], [1 tsp black pepper], [2 cloves garlic [, minced]].
 # Trim [2 lbs boneless skinless chicken breasts] and merinate for 2 hours.
 }
 {[Tuscan White Beans]
 
 # Suatue [1.5 cup [chopped] onion] until tender.
 # Reduce heat to medium-low.
-# Add [1 tbl [chopped] fresh rosemary], [28 oz cannellini beans [rinsed and drained]], [2 cup dry white wine], [1.5 tsp [grated] lemon rind], [1 tsp black pepper]. Simmer 30 minutes or until thick.
-# Stir in [1/2 cup [minced] fresh parsley].
+# Add [1 tbl [chopped] rosemary], [28 oz cannellini beans [rinsed and drained]], [2 cup dry white wine], [1.5 tsp [grated] lemon rind], [1 tsp black pepper]. Simmer 30 minutes or until thick.
+# Stir in [1/2 cup [minced] parsley].
 
 }
 {[Grill]

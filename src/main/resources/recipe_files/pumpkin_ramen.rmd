@@ -4,7 +4,7 @@ TITLE Pumpkin Ramen
 # Roughly chop [16 oz baby bok choy].
 
 {[Broth]
-# Chop [2 oz fresh ginger] into large chunks.
+# Chop [2 oz ginger] into large chunks.
 # Heat vegetable oil in a large saucepan over medium-high heat. Add chopped ginger and cook until fragrant.
 # Add white [6 tbl white miso paste], [1/2 cup pumpkin puree], and [28 oz coconut milk] to the saucepan with the ginger. # Bring to a boil, reduce heat to low, and let broth simmer until you're ready to serve.
 }
@@ -26,7 +26,7 @@ TITLE Pumpkin Ramen
 {[Final Assembly]
 # Remove ginger pieces from $[Broth].
 # Add bok choy to $[Broth] and simmer for 3 minutes.
-# Meanwhile cook [20 oz fresh ramen noodles] according to package directions, (al dente).
+# Meanwhile cook [20 oz ramen noodles] according to package directions, (al dente).
 # Drain noodles and portion into bowls.
 # Top with $[Broth], $[Kale chips], and $[Garnish]. Serve immediately.
 }

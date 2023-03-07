@@ -1,7 +1,7 @@
 # New Orleans Style Barbecued Shrimp with Cane Syrup Glaze 
 
 ### Ingredients: 
-* 1/2 cup sliced green onions
+* 1/2 cup green onions
 * 1/2 cup golden cane syrup
 * 2 tbl butter
 * 1 tbl hot sauce
