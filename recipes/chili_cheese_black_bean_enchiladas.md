@@ -13,7 +13,6 @@
 * 2 oz extra sharp cheddar cheese
 * 1/2 cup enchilada sauce
 * 12 corn tortillas
-* 1/3 cup black bean mixture
 * 3/4 cup enchilada sauce
 
 ### Directions: 

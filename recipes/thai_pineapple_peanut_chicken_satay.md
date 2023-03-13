@@ -13,7 +13,6 @@
 * 1/4 tsp black pepper
 * 2 lbs chicken
 * 3 tbl olive oil
-* 1/4 cup Thai Peanut Pineapple Sauce
 * 1/3 cup coconut milk
 * 1/4 tsp cornstarch
 * 1/3 cup crunchy peanut butter

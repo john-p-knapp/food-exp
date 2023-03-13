@@ -18,6 +18,7 @@ import recipemd.RecipeMarkupParser.ImageEntryContext;
 import recipemd.RecipeMarkupParser.InstructionContext;
 import recipemd.RecipeMarkupParser.LinkEntryContext;
 import recipemd.RecipeMarkupParser.MeasuredAdditionContext;
+import recipemd.RecipeMarkupParser.MeasuredCompRefContext;
 import recipemd.RecipeMarkupParser.NoteContext;
 import recipemd.RecipeMarkupParser.RecipeContext;
 import recipemd.RecipeMarkupParser.TagEntryContext;
@@ -60,9 +61,13 @@ public class MarkdownConverter extends RecipeMarkupBaseListener {
 
 	@Override
 	public void enterCompRef(CompRefContext ctx) {
-		write("**");
-		write(getText(ctx.name));
-		write("** ");
+		if (skipRef) {
+			skipRef = false;
+		} else {
+			write("**");
+			write(getText(ctx.name));
+			write("** ");
+		}
 	}
 
 	@Override
@@ -127,6 +132,26 @@ public class MarkdownConverter extends RecipeMarkupBaseListener {
 		}
 
 		write("** ");
+	}
+
+	private boolean skipRef;
+
+	@Override
+	public void enterMeasuredCompRef(MeasuredCompRefContext ctx) {
+		skipRef = true;
+
+		write("**");
+		write(ctx.amount.getText());
+		write(" ");
+		if (!ctx.unit.getText().equalsIgnoreCase("item")) {
+			write(ctx.unit.getText());
+			write(" ");
+		}
+
+		write(getText(ctx.compRef().name));
+
+		write("** ");
+		super.enterMeasuredCompRef(ctx);
 	}
 
 	@Override
@@ -201,7 +226,6 @@ public class MarkdownConverter extends RecipeMarkupBaseListener {
 		write("\n");
 		write("### Directions: \n");
 		write(buffer.toString());
-		
 
 		flush();
 	}
@@ -241,7 +265,7 @@ public class MarkdownConverter extends RecipeMarkupBaseListener {
 
 	private void stopBuffering() {
 		buffering = false;
-		
+
 	}
 
 	private void write(String text) {

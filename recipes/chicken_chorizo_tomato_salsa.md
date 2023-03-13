@@ -2,7 +2,7 @@
 
 ### Ingredients: 
 * 4 oz Mexican pork chorizo
-* 24 oz boneless skinless chicken breast
+* 24 oz chicken breast
 *  salt
 *  pepper
 * 1/4 tsp cumin
@@ -17,7 +17,7 @@
 ### Directions: 
 1. In a large pan, brown **4 oz Mexican pork chorizo** and stir to crumble. 
 2. Remove chorizo with a slotted spoon and leave the remaining oil. 
-3. Sprinkle **24 oz boneless skinless chicken breast** with **salt** , **pepper** , and **1/4 tsp cumin** . 
+3. Sprinkle **24 oz chicken breast** with **salt** , **pepper** , and **1/4 tsp cumin** . 
 4. Add **1.5 tsp canola oil** to the pan and cook chicken. 
 5. Remove chicken from the pan. 
 6. Add **1 cup chopped tomato** , **1/4 cup chopped cilantro** , **2 tbl minced red onion** , **2 tbl lime juice** , and **1 tsp chopped seeded jalapeno** . 
