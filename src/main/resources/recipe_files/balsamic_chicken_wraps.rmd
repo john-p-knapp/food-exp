@@ -9,7 +9,7 @@ TITLE Balsamic Chicken Wraps with Tuscan White Beans
 
 # Suatue [1.5 cup [chopped] onion] until tender.
 # Reduce heat to medium-low.
-# Add [1 tbl [chopped] rosemary], [28 oz cannellini beans [rinsed and drained]], [2 cup dry white wine], [1.5 tsp [grated] lemon rind], [1 tsp black pepper]. Simmer 30 minutes or until thick.
+# Add [1 tbl [chopped] rosemary], [28 oz cannellini beans [rinsed and drained]], [2 cup white wine], [1.5 tsp [grated] lemon rind], [1 tsp black pepper]. Simmer 30 minutes or until thick.
 # Stir in [1/2 cup [minced] parsley].
 
 }
@@ -17,5 +17,5 @@ TITLE Balsamic Chicken Wraps with Tuscan White Beans
 # Prepare grill.
 # Remove chicken from marinade; discard remaining merinade.
 # Grill chicken; let stand for 5 minutes. Slice.
-# Serve chicken and beans on [flower tortillas] with a sprinkle of [asiago cheese].
+# Serve chicken and beans on [flour tortillas] with a sprinkle of [asiago cheese].
 }

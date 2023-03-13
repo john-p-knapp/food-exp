@@ -2,13 +2,13 @@ TITLE North African Spiced Shrimp and Chickpea Salad
 
 {[Chermoula]
 
-# Combine and blend until smooth: [1 cup cilantro], [1/2 cup mint leaves], Pinch of [red pepper flakes], [1 cloves garlic], [1 tsp Ras el Hanout], [1/4 cup olive oil], [1 tbl lemon juice].
+# Combine and blend until smooth: [1 cup cilantro], [1/2 cup mint], Pinch of [red pepper flakes], [1 cloves garlic], [1 tsp Ras el Hanout], [1/4 cup olive oil], [1 tbl lemon juice].
 
 }
 
 {[Chick Pea Salad]
 
-# In a bowl combine: [15 oz canned chick peas [rinsed]], [1 cup grape tomatoes [,quartered]] [1 cup [peeled, seeded and diced] cucumber], [1/8 cup [diced] shallot], [2 tbl mint[, chiffonade]], [2 tbl [chopped] parsley], [2 tsp olive oil], [1 tsp red wine vinegar], and a [1 dash Ras el Hanout].
+# In a bowl combine: [15 oz chick peas [rinsed]], [1 cup grape tomatoes [,quartered]] [1 cup [peeled, seeded and diced] cucumber], [1/8 cup [diced] shallot], [2 tbl mint[, chiffonade]], [2 tbl [chopped] parsley], [2 tsp olive oil], [1 tsp red wine vinegar], and a [1 dash Ras el Hanout].
 # Season with [salt] and [pepper].
 # Drizzle with [olive oil] and [vinegar].
 }

@@ -10,7 +10,7 @@
 * 8 oz ground turkey
 * 1.5 cup arinara sauce
 * 1/4 cup mozzarella cheese
-* 1 oz Parmesan cheese
+* 1 oz parmigiano
 
 ### Directions: 
 1. Preheat oven to 350F. 
@@ -21,5 +21,5 @@
 6. Add **1.5 cup arinara sauce** to the pan and simmer for 5 minutes. 
 7. Preheat oven to 425F. 
 8. Lightly oil a 9 x 13 baking dish. Spoon half of the sauce into the dish. Top evenly with squash mixture. Cover with remaining sauce. 
-9. Sprinkle evenly with remaining **1/4 cup mozzarella cheese** cheese and **1 oz Parmesan cheese** . 
+9. Sprinkle evenly with remaining **1/4 cup mozzarella cheese** cheese and **1 oz parmigiano** . 
 10. Bake for 25 minutes or until heated through and bubbling. 

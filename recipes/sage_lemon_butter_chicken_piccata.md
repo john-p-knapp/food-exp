@@ -14,10 +14,10 @@
 * 1 lemon
 * 1.5 cup cherry tomatoes
 * 2 tbl thyme
-* 1/2 cup dry white wine
+* 1/2 cup white wine
 * 1/2 cup lemon juice
 * 2 tbl capers
-* 1/4 cup grated parmesan
+* 1/4 cup parmigiano
 
 ### Directions: 
 
@@ -35,8 +35,8 @@
 7. Saute chicken over high heat with **3 tbl olive oil** until done. Remove to a plate and keep warm. 
 8. In the same skillet add **4 tbl salted butter** , **12 sage leaves** , and **1 lemon sliced thinly** . Saute until sage is crisp and lemons are nicely browned. Remove sage and lemon to reserved chicken. 
 9. In the same skillet, add **1.5 cup cherry tomatoes** and **2 tbl thyme** . Cook until tomatoes burst. 
-10. Deglaze with **1/2 cup dry white wine** , add **1/2 cup lemon juice** , and **2 tbl capers** . 
+10. Deglaze with **1/2 cup white wine** , add **1/2 cup lemon juice** , and **2 tbl capers** . 
 11. Return chicken and lemons to pan and warm through. 
-12. Top with **1/4 cup grated parmesan** if desired. 
+12. Top with **1/4 cup grated parmigiano** if desired. 
 
 

@@ -1,8 +1,8 @@
 # Momofuku's Bo Ssam Recipe 
 
 ### Ingredients: 
-* 1 bone-in pork butt
-* 1 cup white sugar
+* 1 pork shoulder
+* 1 cup sugar
 * 1 cup kosher salt
 * 2.5 cup scallions
 * 1/2 cup ginger
@@ -21,8 +21,8 @@
 
 ### Directions: 
 
-#### Pork Butt
-1. Place the **1 bone-in pork butt** in a large, shallow bowl. Mix **1 cup white sugar** and **1 cup kosher salt** together in another bowl, then rub the mixture all over the meat. Cover it with plastic wrap and place in the refrigerator for at least 6 hours, or overnight. 
+#### Pork Shoulder
+1. Place the **1 pork shoulder** in a large, shallow bowl. Mix **1 cup sugar** and **1 cup kosher salt** together in another bowl, then rub the mixture all over the meat. Cover it with plastic wrap and place in the refrigerator for at least 6 hours, or overnight. 
 2. When you're ready to cook, heat oven to 300F. Remove pork from refrigerator, brush any excess sugar mixture off the fat cap and discard any juices. Place the pork in a roasting pan and set in the oven and cook for approximately 6 hours, or until it collapses, yielding easily to the tines of a fork. (After the first hour, baste hourly with pan juices.) At this point, you may remove the meat from the oven and allow it to rest for up to an hour. 
 
 

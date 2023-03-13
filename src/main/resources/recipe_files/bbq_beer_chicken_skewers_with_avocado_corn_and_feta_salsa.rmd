@@ -1,7 +1,7 @@
 TITLE BBQ Beer Chicken Skewers with Avocado Corn and Feta Salsa
 
 {[BBQ Sauce]
-# In a medium pot combine: [1/2 cup beer], [3/4 cup ketchup], [1/2 cup honey], [2 tsp dijon mustard], [2 tsp Worcestershire sauce], [2 tsp chipotle chili powder], [1 tsp smoked paprika], [1 tsp garlic powder], and [salt].
+# In a medium pot combine: [1/2 cup beer], [3/4 cup ketchup], [1/2 cup honey], [2 tsp dijon mustard], [2 tsp Worcestershire sauce], [2 tsp chipotle powder], [1 tsp smoked paprika], [1 tsp garlic powder], and [salt].
 
 # Bring to a boil, reduce heat and simmer for 15 minutes. The sauce should thicken.
 }

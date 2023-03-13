@@ -8,7 +8,7 @@
 * 1/4 tsp black pepper
 * 2 cloves garlic
 * 28 oz fire roasted tomatoes
-* 2 cup chicken broth
+* 2 cup chicken stock
 *  salt
 
 ### Directions: 
@@ -23,7 +23,7 @@
 #### Make Sauce
 3. Heat **1 tbl olive oil** in a large saucepan over medium-high heat until shimmering. 
 4. Toast **1 oz guajillo chiles** , **1/4 tsp cumin** , and **1/4 tsp black pepper** , **2 cloves garlic** , until fragant. 
-5. Add **28 oz fire roasted tomatoes** and **2 cup chicken broth** ; simmer for 15 minutes. Season with **salt** to taste. 
+5. Add **28 oz fire roasted tomatoes** and **2 cup chicken stock** ; simmer for 15 minutes. Season with **salt** to taste. 
 6. Puree until smooth. Sieve if desired. 
 
 

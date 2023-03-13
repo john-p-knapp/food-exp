@@ -5,7 +5,7 @@
 * 1 small zucchini
 * 3 tbl cilantro
 * 3 tbl red wine vinegar
-* 1 tbl Sriracha sauce
+* 1 tbl Sriracha
 * 2 tbl peanut butter
 * 1 tsp cumin
 * 1 tsp garlic powder
@@ -19,7 +19,7 @@
 2. Grate and add **1 small zucchini** 
 3. Add **3 tbl cilantro** , finely chopped 
 4. Add **3 tbl red wine vinegar** 
-5. Add **1 tbl Sriracha sauce** 
+5. Add **1 tbl Sriracha** 
 6. Add **2 tbl peanut butter** 
 7. Add **1 tsp cumin** 
 8. Add **1 tsp garlic powder** 

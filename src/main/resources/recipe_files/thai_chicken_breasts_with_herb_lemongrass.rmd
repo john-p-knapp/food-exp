@@ -1,7 +1,7 @@
 TITLE Thai Chicken Breasts with Herb Lemongrass
 
 {[Marinade]
-# In a blender combine: [1.25 cup cilantro ], [0.75 cup coconut milk], [1/4 cup [chopped] lemongrass], [12 item basil leaves], [3 item Thai bird chiles], [3 cloves garlic], [1.5 tbl kosher salt], [2 tsp [packed] light brown sugar], and [1.5 tsp black pepper].
+# In a blender combine: [1.25 cup cilantro ], [0.75 cup coconut milk], [1/4 cup [chopped] lemongrass], [12 item basil leaves], [3 item Thai chiles], [3 cloves garlic], [1.5 tbl kosher salt], [2 tsp [packed] light brown sugar], and [1.5 tsp black pepper].
 # Puree until smooth.
 }
 {[Chicken]
