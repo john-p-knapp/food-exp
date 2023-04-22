@@ -1,0 +1,17 @@
+TITLE Black Eyed Peas with Herb Smash
+
+{[Peas]
+# In a large suacepan saute [1 item leek, thinly sliced] in [olive oil].
+# When the leeks are softened and sweet add [2 cloves garlic,thinly sliced] and [1/4 tsp chile powder].
+# Add [14 oz black eyed peas], [1 cup vegetable stock], and [1/16 tsp nutmeg]. 
+# Add juice of [1/2 item lemon] and add the lemon hull to the pot.
+# Simmer for 10 minutes.
+# Strip the leaves from [7 oz chard], chop, and add to the pot. 
+# Season with [salt] and [pepper].
+}
+
+{[Herb Smash]
+# In a food processor combine: [2 cup cilantro], [2 item green chiles], [2 cloves garlic], [1 oz shelled walnuts], [1 tbl honey], [1 tbl olive oil], [1/2 item lemon].
+# Pulse until smooth. 
+# Season with [salt] and [pepper].
+}
