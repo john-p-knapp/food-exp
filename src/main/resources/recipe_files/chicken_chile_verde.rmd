@@ -1,8 +1,8 @@
 TITLE Chicken Chile Verde
 
 {[prep'd veg]
-# Seed and roughly chop [2 item jalapeno peppers], [1 lbs poblano peppers] and [6 oz Anaheim peppers]
-# Husk and quater [12 oz tomatillos]
+# Seed and roughly chop [2 item jalapeno], [1 lbs poblano] and [6 oz anaheim]
+# Husk and quarter [12 oz tomatillos]
 # Roughly chop [10 oz white onion]
 }
 {[chile]
@@ -12,7 +12,7 @@ TITLE Chicken Chile Verde
 
 # Using tongs, transfer chicken pieces to a bowl and set aside.
 
-# Add [1/2 cup cilantro leaves] and [1 tbl Fish Sauce] to remaining contents of pressure cooker.
+# Add [1/2 cup cilantro] and [1 tbl Fish Sauce] to remaining contents of pressure cooker.
 
 # Blend with an immersion blender or in a countertop blender and season to taste with [salt].
 

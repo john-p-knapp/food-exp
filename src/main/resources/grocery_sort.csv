@@ -1,0 +1,239 @@
+beer,isle,2,19
+white wine,isle,2,19
+red wine,isle,2,19
+dried currants,isle,2,14
+pumpkin seeds,isle,2,14
+toasted almonds,isle,2,14
+pineapple juice,isle,2,13
+pretzles,isle,2,13
+all-purpose flour,isle,2,12
+baking powder,isle,2,12
+bay leaves,isle,2,12
+brown sugar,isle,2,12
+canola oil,isle,2,12
+cayanne pepper,isle,2,12
+chipotle powder,isle,2,12
+cinnamon,isle,2,12
+coconut oil,isle,2,12
+coriander,isle,2,12
+cornstarch,isle,2,12
+crushed red pepper,isle,2,12
+cumin,isle,2,12
+cumin seeds,isle,2,12
+dark chocolate,isle,2,12
+dark chocolate squares,isle,2,12
+dried basil,isle,2,12
+dried italian seasoning,isle,2,12
+dried oregano,isle,2,12
+dried thyme,isle,2,12
+dry basil,isle,2,12
+each kosher salt and black pepper,isle,2,12
+evaporated skim milk,isle,2,12
+fennel seeds,isle,2,12
+flour,isle,2,12
+garlic powder,isle,2,12
+hot paprika,isle,2,12
+kosher salt,isle,2,12
+light brown sugar,isle,2,12
+neutral oil,isle,2,12
+oatmeal,isle,2,12
+oil,isle,2,12
+olive oil,isle,2,12
+paprika,isle,2,12
+pepper,isle,2,12
+pumpkin puree,isle,2,12
+quick oats,isle,2,12
+red pepper flakes,isle,2,12
+salt,isle,2,12
+smoked paprika,isle,2,12
+strawberry jello,isle,2,12
+sugar,isle,2,12
+turmeric,isle,2,12
+vanilla bean,isle,2,12
+vegetable oil,isle,2,12
+cool whip,isle,2,11
+diced potato with onion,isle,2,11
+frozen chopped spinach,isle,2,11
+frozen soy crumbles,isle,2,11
+frozen strawberries,isle,2,11
+adobo sauce,isle,2,9
+coconut milk,isle,2,9
+extra-firm tofu,isle,2,9
+fish sauce,isle,2,9
+gochujang,isle,2,9
+green curry paste,isle,2,9
+harissa,isle,2,9
+kimchi,isle,2,9
+light soy sauce,isle,2,9
+ramen noodles,isle,2,9
+ras el hanout,isle,2,9
+red curry paste,isle,2,9
+silken tofu,isle,2,9
+soy sauce,isle,2,9
+sriracha,isle,2,9
+ssamjang,isle,2,9
+tahini paste,isle,2,9
+white rice,isle,2,9
+bottled salsa,isle,2,8
+chipotle chile in adobo sauce,isle,2,8
+chipotle chiles in adobo sauce,isle,2,8
+chipotle chile,isle,2,8
+chunky salsa,isle,2,8
+cooked lentils,isle,2,8
+corn tortillas,isle,2,8
+dried lentils,isle,2,8
+enchilada sauce,isle,2,8
+green chiles,isle,2,8
+guajillo chiles,isle,2,8
+salsa,isle,2,8
+breadcrumbs,isle,2,7
+crushed tomatoes,isle,2,7
+diced tomatoes,isle,2,7
+fire roasted tomatoes,isle,2,7
+golden cane syrup,isle,2,7
+pasta,isle,2,7
+penne pasta,isle,2,7
+stewed tomatoes,isle,2,7
+tomato paste,isle,2,7
+whole peeled tomatoes,isle,2,7
+black beans,isle,2,6
+cannellini beans,isle,2,6
+chickpeas,isle,2,6
+vegetable broth,isle,2,6
+apple cider vinegar,isle,2,5
+balsamic vinegar,isle,2,5
+bbq sauce,isle,2,5
+capers,isle,2,5
+crunchy peanut butter,isle,2,5
+dijon mustard,isle,2,5
+honey,isle,2,5
+hot sauce,isle,2,5
+ketchup,isle,2,5
+mayonnaise,isle,2,5
+peanut butter,isle,2,5
+red wine vinegar,isle,2,5
+roasted red peppers,isle,2,5
+sherry vinegar,isle,2,5
+vinegar,isle,2,5
+white balsamic vinegar,isle,2,5
+white vinegar,isle,2,5
+worcestershire sauce,isle,2,5
+ciabatta roll,bakery,5,0
+loaf focaccia,bakery,5,0
+rolls,bakery,5,0
+asiago cheese,dairy,3,0
+butter,dairy,3,0
+cheddar cheese,dairy,3,0
+cottage cheese,dairy,3,0
+cream cheese,dairy,3,0
+egg,dairy,3,0
+egg yolks,dairy,3,0
+eggs,dairy,3,0
+extra sharp cheddar cheese,dairy,3,0
+feta cheese,dairy,3,0
+flour tortillas,dairy,3,0
+fontina cheese,dairy,3,0
+goat cheese,dairy,3,0
+heavy cream,dairy,3,0
+large eggs,dairy,3,0
+mexican cheese,dairy,3,0
+milk,dairy,3,0
+monterey jack cheese,dairy,3,0
+mozzarella cheese,dairy,3,0
+parmigiano,dairy,3,0
+queso fresco,dairy,3,0
+ricotta cheese,dairy,3,0
+salted butter,dairy,3,0
+smoked gouda cheese,dairy,3,0
+sour cream,dairy,3,0
+white miso paste,dairy,3,0
+chicken,meat,4,0
+chicken breast,meat,4,0
+chicken breasts,meat,4,0
+chicken broth,meat,4,0
+chicken stock,isle,2,6
+chicken thighs,meat,4,0
+chili powder,isle,2,12
+extra-large shrimp,meat,4,0
+ground chicken,meat,4,0
+ground lamb,meat,4,0
+ground turkey,meat,4,0
+ground turkey breast,meat,4,0
+mexican pork chorizo,meat,4,0
+pancetta,meat,4,0
+pitted kalamata olives,meat,4,0
+pork shoulder,meat,4,0
+pork tenderloin,meat,4,0
+shrimp,meat,4,0
+sirloin steak,meat,4,0
+anaheim peppers,produce,1,0
+avocado,produce,1,0
+baby bok choy,produce,1,0
+baby spinach,produce,1,0
+basil,produce,1,0
+bibb lettuce,produce,1,0
+butternut squash,produce,1,0
+carrot,produce,1,0
+cauliflower,produce,1,0
+cauliflower florets,produce,1,0
+cherry tomatoes,produce,1,0
+cilantro,produce,1,0
+corn,produce,1,0
+cucumber,produce,1,0
+eggplant,produce,1,0
+garlic,produce,1,0
+ginger,produce,1,0
+grape tomatoes,produce,1,0
+green bell pepper,produce,1,0
+green onions,produce,1,0
+haricots verts,produce,1,0
+jalapeno,produce,1,0
+jalapenos,produce,1,0
+kale,produce,1,0
+lacinato kale,produce,1,0
+large leeks,produce,1,0
+lemon,produce,1,0
+lemon juice,produce,1,0
+lemon rind,produce,1,0
+lemongrass,produce,1,0
+lime juice,produce,1,0
+lime rind,produce,1,0
+lime wedges,produce,1,0
+lime zest,produce,1,0
+mint,produce,1,0
+mushrooms,produce,1,0
+onion,produce,1,0
+oregano,produce,1,0
+parsley,produce,1,0
+poblano peppers,produce,1,0
+red bell pepper,produce,1,0
+red onion,produce,1,0
+romaine,produce,1,0
+rosemary,produce,1,0
+sage,produce,1,0
+sage leaves,produce,1,0
+savoy cabbage,produce,1,0
+scallions,produce,1,0
+shallot,produce,1,0
+shallots,produce,1,0
+small zucchini,produce,1,0
+spaghetti squash,produce,1,0
+spinach,produce,1,0
+strawberries,produce,1,0
+sweet potato,produce,1,0
+sweet potatoes,produce,1,0
+thai chile,produce,1,0
+thyme,produce,1,0
+tomatillos,produce,1,0
+tomato,produce,1,0
+white onion,produce,1,0
+yellow bell pepper,produce,1,0
+zucchini,produce,1,0
+black pepper,isle,2,12
+lemon zest,produce,1,0
+dried Italian seasoning,isle,2,12
+cayenne,isle,2,12
+poblano,produce,1,0
+anaheim,produce,1,0
+basil leaves,produce,1,0
+marinara sauce,isle,2,7

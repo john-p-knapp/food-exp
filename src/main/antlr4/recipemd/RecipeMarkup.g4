@@ -4,9 +4,10 @@ recipe: titleEntry (linkEntry|note|compDef|instruction|tagEntry|imageEntry)+ ;
 
 compDef: LBRACE LBRACKET name+=WORD+ RBRACKET (instruction|note|imageEntry)+ RBRACE;
 
-instruction: HASH (dirText|measuredAddition|addition|compRef)+ ;
+instruction: HASH (dirText|measuredAddition|measuredCompRef|addition|compRef)+ ;
 
-measuredAddition: LBRACKET amount=NUMBER unit=('item'|'tsp'|'tbl'|'cup'|'lbs'|'oz'|'ml'|'g'|'dash'|'cloves'|'head') (LBRACKET prep+=WORD+ RBRACKET)? ingredient+=WORD+ (LBRACKET postprep+=WORD+ RBRACKET)? RBRACKET;
+measuredAddition: LBRACKET amount=NUMBER unit=('item'|'sprig'|'tsp'|'tbl'|'cup'|'lbs'|'oz'|'ml'|'g'|'dash'|'cloves'|'head') (LBRACKET prep+=WORD+ RBRACKET)? ingredient+=WORD+ (LBRACKET postprep+=WORD+ RBRACKET)? RBRACKET;
+measuredCompRef: LBRACKET amount=NUMBER unit=('item'|'sprig'|'tsp'|'tbl'|'cup'|'lbs'|'oz'|'ml'|'g'|'dash'|'cloves'|'head') compRef RBRACKET;
 addition: LBRACKET ingredient+=WORD+ RBRACKET;
 
 compRef: DOLLAR LBRACKET name+=WORD+ RBRACKET;

@@ -5,7 +5,7 @@
 * 3 cloves garlic
 * 3 oz goat cheese
 * 4 tbl salted butter
-* 1.5 lbs boneless skinless chicken breasts
+* 1.5 lbs chicken breasts
 *  salt
 *  pepper
 * 3 tbl olive oil
@@ -31,7 +31,7 @@
 
 
 #### Chicken Piccata
-6. Pound **1.5 lbs boneless skinless chicken breasts** to a uniform thickness. Season with **salt** and **pepper** . 
+6. Pound **1.5 lbs chicken breasts** to a uniform thickness. Season with **salt** and **pepper** . 
 7. Saute chicken over high heat with **3 tbl olive oil** until done. Remove to a plate and keep warm. 
 8. In the same skillet add **4 tbl salted butter** , **12 sage leaves** , and **1 lemon sliced thinly** . Saute until sage is crisp and lemons are nicely browned. Remove sage and lemon to reserved chicken. 
 9. In the same skillet, add **1.5 cup cherry tomatoes** and **2 tbl thyme** . Cook until tomatoes burst. 
