@@ -17,7 +17,7 @@
 * 1/4 tsp cornstarch
 * 1/3 cup crunchy peanut butter
 *  lime juice
-*  crushed peanuts
+*  peanuts
 *  green onions
 
 ### Directions: 
@@ -32,4 +32,4 @@
 5. Bring to a boil and simmer for 1 minute. 
 6. Stir in **1/3 cup crunchy peanut butter** and keep warm. 
 7. Grill chcken. 
-8. Garnish with **lime juice** , **crushed peanuts** , **green onions** . 
+8. Garnish with **lime juice** , **peanuts** , **green onions** . 

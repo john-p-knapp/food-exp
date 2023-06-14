@@ -6,8 +6,8 @@ compDef: LBRACE LBRACKET name+=WORD+ RBRACKET (instruction|note|imageEntry)+ RBR
 
 instruction: HASH (dirText|measuredAddition|measuredCompRef|addition|compRef)+ ;
 
-measuredAddition: LBRACKET amount=NUMBER unit=('item'|'sprig'|'tsp'|'tbl'|'cup'|'lbs'|'oz'|'ml'|'g'|'dash'|'cloves'|'head') (LBRACKET prep+=WORD+ RBRACKET)? ingredient+=WORD+ (LBRACKET postprep+=WORD+ RBRACKET)? RBRACKET;
-measuredCompRef: LBRACKET amount=NUMBER unit=('item'|'sprig'|'tsp'|'tbl'|'cup'|'lbs'|'oz'|'ml'|'g'|'dash'|'cloves'|'head') compRef RBRACKET;
+measuredAddition: LBRACKET amount=NUMBER unit=('item'|'sprig'|'tsp'|'tbl'|'cup'|'lbs'|'oz'|'ml'|'g'|'dash'|'cloves'|'head'|'gallon') (LBRACKET prep+=WORD+ RBRACKET)? ingredient+=WORD+ (LBRACKET postprep+=WORD+ RBRACKET)? RBRACKET;
+measuredCompRef: LBRACKET amount=NUMBER unit=('item'|'sprig'|'tsp'|'tbl'|'cup'|'lbs'|'oz'|'ml'|'g'|'dash'|'cloves'|'head'|'gallon') compRef RBRACKET;
 addition: LBRACKET ingredient+=WORD+ RBRACKET;
 
 compRef: DOLLAR LBRACKET name+=WORD+ RBRACKET;

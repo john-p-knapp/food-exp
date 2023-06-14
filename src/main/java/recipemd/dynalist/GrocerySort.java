@@ -24,7 +24,7 @@ public class GrocerySort implements Comparator<String> {
 			while (line != null) {
 				String[] split = line.split(",");
 				if (split.length != 4) {
-					System.out.println("split error");
+					System.out.println("split error: "+ line);
 				} else {
 					String key = split[0].toLowerCase();
 					dept.put(key, split[1]);

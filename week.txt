@@ -1,4 +1,5 @@
+always.rmd
+santa_fe_meatloaf.rmd
+thai_pineapple_peanut_chicken_satay.rmd
 bo_ssam.rmd
-bo_ssam.rmd
-butternut-squash-curry.rmd
-chicken_avocado_burgers.rmd
+spicy_tofu_burgers.rmd

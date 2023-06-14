@@ -4,8 +4,9 @@ import lombok.AllArgsConstructor;
 
 @AllArgsConstructor
 public class DocumentRequest {
-	String token;
-	String file_id;
+	
+	private String token;
+	private String file_id;
 
 	public String getJSON() {
 		StringBuffer buffer = new StringBuffer();
