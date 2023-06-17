@@ -56,7 +56,7 @@ public class MarkdownConverter extends RecipeMarkupBaseListener {
 		startBuffering();
 		write("\n#### ");
 		write(getText(ctx.name));
-		write("\n");
+		write(" {\n");
 	}
 
 	@Override
@@ -185,7 +185,8 @@ public class MarkdownConverter extends RecipeMarkupBaseListener {
 
 	@Override
 	public void exitCompDef(CompDefContext ctx) {
-		write("\n\n");
+		write("\n}\n\n");
+		step.set(0);
 	}
 
 	@Override

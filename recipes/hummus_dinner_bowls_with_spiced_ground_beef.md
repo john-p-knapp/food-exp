@@ -21,7 +21,7 @@
 
 ### Directions: 
 
-#### Quick Hummus
+#### Quick Hummus {
 1. Place **28 oz chickpeas** in a medium pot and cover with water by one inch. 
 2. Bring to a boil over high heat, then reduce heat to medium-low and simmer, undisturbed, until chickpeas start falling apart, about 20 minutes. 
 3. Reserve **1 cup cooking liquid** , then drain chickpeas. 
@@ -31,20 +31,23 @@
 7. With the motor running, stream in **1/4 cup olive oil** and process until combined. 
 8. Transfer to a bowl and drizzle with **olive oil** . 
 
+}
 
 
-#### Garnish
-9. In a bowl **2 cup chopped cherry tomato** , **1 cup chopped parsley leaves** , and **1 tbl lemon juice** . 
+#### Garnish {
+1. In a bowl **2 cup chopped cherry tomato** , **1 cup chopped parsley leaves** , and **1 tbl lemon juice** . 
+
+}
 
 
+#### Spice Mix {
+1. In a small dish combine: **1 tsp coriander** , **1/2 tsp pepper** , **1/2 tsp cinnamon** , and **1 tsp kosher salt** . 
 
-#### Spice Mix
-10. In a small dish combine: **1 tsp coriander** , **1/2 tsp pepper** , **1/2 tsp cinnamon** , and **1 tsp kosher salt** . 
+}
 
-
-11. Preheat a heavy skillet and add **1 tbl vegetable oil** 
-12. Pat beef dry and press into an even layer in the skillet. 
-13. Sprinkle beef with **spice mix** and cook, undisturbed, until a brown crust begins to form. 
-14. Flip and break beef into pieces. Continue to cook until just cooked through. 
-15. Spoon beef over **Quick Hummus** and top with **Garnish** . 
-16. Serve with **lemon wedges** and **aleppo pepper** . 
+1. Preheat a heavy skillet and add **1 tbl vegetable oil** 
+2. Pat beef dry and press into an even layer in the skillet. 
+3. Sprinkle beef with **spice mix** and cook, undisturbed, until a brown crust begins to form. 
+4. Flip and break beef into pieces. Continue to cook until just cooked through. 
+5. Spoon beef over **Quick Hummus** and top with **Garnish** . 
+6. Serve with **lemon wedges** and **aleppo pepper** . 
