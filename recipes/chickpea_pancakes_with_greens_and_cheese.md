@@ -20,6 +20,7 @@
 
 #### Batter {
 1. In a medium bowl whisk together: **1/2 cup chickpea flour** , **10 tbl water** , **1 tbl oil** . Let stand for 15 minutes to an hour to hydrate the flour. 
+
 }
 
 1. Preheat oven to 350 F. 
