@@ -7,7 +7,7 @@
 * 2.5 cup scallions
 * 1/2 cup ginger
 * 1/4 cup neutral oil
-* 1.5 tsp light soy sauce
+* 1.5 tsp soy sauce
 * 3/4 tsp sherry vinegar
 *  salt
 * 2 tbl ssamjang
@@ -28,7 +28,7 @@
 
 
 #### Ginger-Scallion Sauce
-3. Stir together **2.5 cup scallions** thinly sliced, **1/2 cup minced ginger** , **1/4 cup neutral oil** , **1.5 tsp light soy sauce** , **3/4 tsp sherry vinegar** , **salt** to taste. 
+3. Stir together **2.5 cup scallions** thinly sliced, **1/2 cup minced ginger** , **1/4 cup neutral oil** , **1.5 tsp soy sauce** , **3/4 tsp sherry vinegar** , **salt** to taste. 
 
 
 
