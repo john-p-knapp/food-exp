@@ -35,7 +35,7 @@
 
 
 #### Garnish {
-1. In a bowl **2 cup chopped cherry tomato** , **1 cup chopped parsley leaves** , and **1 tbl lemon juice** . 
+1. In a bowl combine **2 cup chopped cherry tomato** , **1 cup chopped parsley leaves** , and **1 tbl lemon juice** . 
 
 }
 

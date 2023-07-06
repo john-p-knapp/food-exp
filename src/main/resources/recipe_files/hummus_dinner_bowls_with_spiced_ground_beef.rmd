@@ -14,7 +14,7 @@ TITLE Hummus Dinner Bowls With Spiced Ground Beef and Tomatoes
 }
 
 {[Garnish]
-# In a bowl [2 cup [chopped] cherry tomato ], [1 cup [chopped] parsley leaves], and [ 1 tbl lemon juice].
+# In a bowl combine [2 cup [chopped] cherry tomato], [1 cup [chopped] parsley leaves], and [ 1 tbl lemon juice].
 }
 {[Spice Mix]
 # In a small dish combine: [1 tsp coriander], [1/2 tsp pepper], [1/2 tsp cinnamon], and [1 tsp kosher salt].
