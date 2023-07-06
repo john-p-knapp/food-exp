@@ -1,0 +1,16 @@
+TITLE Korean Beef and Avocado Rice Bowl
+
+# Make [2 cup rice[, cooked]] type of your choice.
+
+{[Sauce]
+# In a bowl combine: [4 cloves garlic[, chopped]], [1 tbl fresh ginger[, sliced]], [1/2 cup soy sauce], [2 tbl Gochujang], [1.5 tbl maple syrup].
+} 
+
+{[Korean Beef]  
+# Prepare [1 item red bell pepper[, sliced]] and [1 cup snow peas].
+# Hard sear [1.5 lbs ground beef] until deeply browned then and crumble; season with [black pepper] and [salt].
+# Add sliced peppers and snow peas. Suate until slightly softened.
+# Add $[Sauce] and simmer for 5 minutes to combine flavors.
+}
+
+# Serve with [1/4 cup green onions[, sliced]], [2 cup cilantro, chopped], [1/2 cup mango[, diced]], [1 cup diced avocado], and [2 tbl sesame seeds]
