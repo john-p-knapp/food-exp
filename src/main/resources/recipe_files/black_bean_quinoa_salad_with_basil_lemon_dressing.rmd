@@ -1,0 +1,11 @@
+TITLE Black Bean-Quinoa Salad with Basil-Lemon Dressing
+
+# Combine [1.5 cup quinoa] and [3 cup vegetable broth]in a saucepan; bring to a boil over medium-high heat. Cover, reduce heat, and simmer 15 minutes or until broth is absorbed and quinoa is tender. Remove from heat.
+# Press [14 oz firm tofu] and cut into quarter inch cubes. 
+# Saute tofu until lightly browned. Remove from heat; cool completely.
+
+{[Dressing]
+# In a bowl, combine [2 tbl olive oil], [1 tsp salt], [1 cup [chopped] basil], [3 tbl lemon juice], [2 tbl Dijon mustard], [1 tsp sugar], [2 tsp lemon zest], [1/2 tsp pepper], and [3 cloves garlic [, minced]]. Whisk to combine.
+}
+# In a large bowl combine quinioa and $[dressing]; stir to combine.
+# Add [10 oz edamame], [4 cup [chopped] tomato], [1/2 cup [sliced] green onions], [15 oz black beans], and [1/2 cup [chopped] carrot]. Stir.
