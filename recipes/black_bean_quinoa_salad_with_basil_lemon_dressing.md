@@ -29,5 +29,5 @@
 
 }
 
-1. In a large bowl combine quinioa and **dressing** ; stir to combine. 
+1. In a large bowl combine quinioa, tofu, and **dressing** ; stir to combine. 
 2. Add **10 oz edamame** , **4 cup chopped tomato** , **1/2 cup sliced green onions** , **15 oz black beans** , and **1/2 cup chopped carrot** . Stir. 

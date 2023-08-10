@@ -1,7 +1,7 @@
 TITLE Peruvian Chicken with Green Sauce
 
 {[Sauce]
-# Blend [3 item jalapeno] roughly chopped, [1 cup cilantro], [2 cloves garlic], [120 ml mayonnaise], [60 ml sour cream], [10 ml lime juice], [5 ml vinegar] until smooth
+# Blend [3 item jalapeno] roughly chopped, [2 item bunch cilantro], [2 cloves garlic], [120 ml mayonnaise], [60 ml sour cream], [10 ml lime juice], [5 ml vinegar] until smooth
 # With blender running stream in [30 ml olive oil]
 # Season with [black pepper] and [salt]
 # Transfer to a sealed container and refrigerate until ready to use.
