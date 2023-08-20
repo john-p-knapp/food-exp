@@ -6,7 +6,7 @@
 * 1 cup polenta
 * 1 tbl butter
 * 1/4 cup sun dried tomato
-* 2 cloves gasaucepanrlic
+* 2 cloves garlic
 * 1/2 cup vegetable broth
 * 1/2 tsp cumin
 * 15 oz black beans
@@ -21,7 +21,7 @@
 
 }
 
-1. Hydrate and chop **1/4 cup sun dried tomato** . And mince **2 cloves gasaucepanrlic** . 
+1. Hydrate and chop **1/4 cup sun dried tomato** . And mince **2 cloves garlic** . 
 2. Suate garlic until golden 
 3. Add **1/2 cup vegetable broth** , **1/2 tsp cumin** , and **15 oz black beans** . Simmer for 2 minutes. 
 4. Add **6 oz spinach** and simmer until just wilted. 
