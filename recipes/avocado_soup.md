@@ -3,7 +3,7 @@
 ### Ingredients: 
 * 12 oz silken tofu
 * 1 cup water
-* 2 cup chopped romaine lettuce
+* 2 cup romaine
 * 1 cup frozen green peas
 * 3 avocado
 * 3 tbl lime juice
@@ -18,7 +18,7 @@
 *  olive oil
 
 ### Directions: 
-1. In blender combine **12 oz silken tofu** , **1 cup water** , **2 cup chopped romaine lettuce** , **1 cup frozen green peas** , **3 avocado** , **3 tbl lime juice** , **3 tbl white wine vinegar** , **1 tsp salt** , **1/2 tsp black pepper** . 
+1. In blender combine **12 oz silken tofu** , **1 cup water** , **2 cup romaine** , **1 cup frozen green peas** , **3 avocado** , **3 tbl lime juice** , **3 tbl white wine vinegar** , **1 tsp salt** , **1/2 tsp black pepper** . 
 2. Blend until smooth. 
 
 #### Garnish {
