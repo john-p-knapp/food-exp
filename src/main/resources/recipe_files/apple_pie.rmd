@@ -1,0 +1,27 @@
+TITLE Apple Pie
+
+* Apple pie as made for Thanksgiving 2023
+
+{[Filling]
+# Peal and slice apples into quarter inch slices to create [775 g [sliced] apples]. 
+* About 7 large apples
+# In a large bowl combine apples with [115 g sugar], [1/4 tsp salt], [1/2 tsp cinnamon], [1/8 tsp nutmeg], [1 tbl lemon juice]. Stir.
+# Maccerate apples for 30 minutes.
+# Stir in [15 g tapioca starch]
+}
+
+{[Pie dough]
+* Gold medal blue label four
+# In a bowl combine [225 g flour], [4 g salt], [15 g sugar]. Stir well.
+# Cut [225 g butter] into 3/4 inch cubes and add to flour mix.
+# Crush butter cubes to form large flat layers.
+# Add [115 g cold water]. Mix to form dough.
+# Knead gently to combine.
+# On a floured surface roll into rectangle. 
+# Fold in thirds in one direction and then in half in the other.
+# Subdivide in half. Rollout and chill.
+} 
+
+# Fill the pie and crimp dough. Refrigerate for 30 minutes.
+# Preheat oven to 400 F.
+# Bake for until golden and filling reaches 195 F. 
