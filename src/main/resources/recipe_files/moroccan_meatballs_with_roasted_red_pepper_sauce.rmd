@@ -10,6 +10,6 @@ TITLE Moroccan Lentil Meatballs with Roasted Red Pepper Sauce
 # Bake for 20 minutes until lightly browned.
 }
 {[Roasted Red Pepper Sauce]
-# Combine and puree until smooth: [12 oz roasted red peppers], [1/4 cup olive oil], [2 tbl harissa], [1/2 tbl [minced] garlic], [1/2 tsp kosher salt] and [1/2 tsp black pepper].
+# Combine and puree until smooth: [12 oz roasted red peppers], [1/4 cup olive oil], [1 tbl harissa], [1/2 tbl [minced] garlic], [1/2 tsp kosher salt] and [1/2 tsp black pepper].
 }
 # Serve $[Lentil Meatballs] with $[Roasted Red Pepper Sauce]. Garnish with chopped parsley, if desired.

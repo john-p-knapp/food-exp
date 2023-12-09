@@ -17,7 +17,7 @@
 * 1/2 tsp black pepper
 * 12 oz roasted red peppers
 * 1/4 cup olive oil
-* 2 tbl harissa
+* 1 tbl harissa
 * 1/2 tbl garlic
 * 1/2 tsp kosher salt
 * 1/2 tsp black pepper
@@ -36,7 +36,7 @@
 
 
 #### Roasted Red Pepper Sauce {
-1. Combine and puree until smooth: **12 oz roasted red peppers** , **1/4 cup olive oil** , **2 tbl harissa** , **1/2 tbl minced garlic** , **1/2 tsp kosher salt** and **1/2 tsp black pepper** . 
+1. Combine and puree until smooth: **12 oz roasted red peppers** , **1/4 cup olive oil** , **1 tbl harissa** , **1/2 tbl minced garlic** , **1/2 tsp kosher salt** and **1/2 tsp black pepper** . 
 
 }
 
