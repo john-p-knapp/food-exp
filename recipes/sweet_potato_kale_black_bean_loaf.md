@@ -30,7 +30,7 @@
 
 1. Prepare **2 cup mashed sweet potato** . 
 2. Cook **1 cup green lentils** in **2 cup water** for 30 minutes. Lentils should be slightly overdone / tender to help bind the loaf. 
-3. Saute **2 cup chopped mushrooms** until starting to brown. Add **3 cloves minced garlic** and **2 cup kale** . Cook until wilted. 
+3. Saute **2 cup chopped mushrooms** until starting to brown. Add **3 cloves minced garlic** and **2 cup chopped kale** . Cook until wilted. 
 4. Combine sauteed vegetables, mashed sweet potato, **1 cup black beans** , **1 tbl chopped thyme** and lentils. 
 5. Add **1/2 cup oat flour** , **1/2 tsp aleppo pepper** , **1 tsp salt** , and **1/2 tsp pepper** , and mix until incorporated. 
 6. Spoon mixture into a parchment lined loaf pan. 
