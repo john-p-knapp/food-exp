@@ -8,7 +8,7 @@
 * 1/2 tsp cinnamon
 * 1/8 tsp nutmeg
 * 1 tbl lemon juice
-* 15 g tappioca flour
+* 15 g tapioca starch
 * 225 g flour
 * 4 g salt
 * 15 g sugar
@@ -22,7 +22,7 @@
 * About 7 large apples 
 2. In a large bowl combine apples with **115 g sugar** , **1/4 tsp salt** , **1/2 tsp cinnamon** , **1/8 tsp nutmeg** , **1 tbl lemon juice** . Stir. 
 3. Maccerate apples for 30 minutes. 
-4. Stir in **15 g tappioca flour** 
+4. Stir in **15 g tapioca starch** 
 
 }
 
