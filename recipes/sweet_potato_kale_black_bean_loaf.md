@@ -1,4 +1,4 @@
-# Sweet Potato, Kale, Black Bean Loaf with Tangy BBQ Maple Gastrique Glaze 
+# Sweet Potato, Kale, Black Bean Loaf with Tangy BBQ Maple Glaze 
 
 ### Ingredients: 
 * 3/4 cup ketchup
