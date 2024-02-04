@@ -1,0 +1,24 @@
+# Spaghetti Squash with Asparagus, Ricotta, Lemon, and Thyme 
+
+### Ingredients: 
+* 1.5 lbs spaghetti squash
+* 1/2 tbl olive oil
+* 1 lbs asparagus
+* 2 cloves garlic
+* 1/2 tbl olive oil
+* 3/4 cup ricotta
+* 1 tsp lemon zest
+* 3 tbl lemon juice
+* 1 tsp thyme
+* 1/2 tsp salt
+* 1/4 tsp pepper
+*  pine nuts
+
+### Directions: 
+1. Preheat to 375F. 
+2. Cut a **1.5 lbs spaghetti squash** lengthwise and scrape out the seeds. Brush the cut sides with **1/2 tbl olive oil** . Place cut-side down on one half of a rimmed baking sheet. Roast for 35 minutes. 
+3. Trim **1 lbs asparagus** and cut the stalks on a diagonal into 2-inch pieces. Peel and smash **2 cloves garlic** . 
+4. Remove the baking sheet with the squash. Add the asparagus to one side and toss with **1/2 tbl olive oil** . Place a garlic clove beneath each squash half. Return the baking sheet to the oven and roast until the asparagus is tender and starting to char, and the squash is easily pierced with a fork, about 10 minutes. 
+5. In a large bowl combine **3/4 cup ricotta** , **1 tsp lemon zest** , **3 tbl lemon juice** , **1 tsp thyme** , **1/2 tsp salt** , and **1/4 tsp pepper** . 
+6. Toast **pine nuts** for garnish. 
+7. Remove the baking sheet from the oven and carefully remove the garlic 

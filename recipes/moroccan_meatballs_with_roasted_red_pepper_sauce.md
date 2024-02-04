@@ -3,7 +3,6 @@
 ### Ingredients: 
 * 1/2 cup red lentils
 * 1.5 cup water
-* 1.5 cup cooked lentils
 * 3/4 cup breadcrumbs
 * 1/2 cup red onion
 * 1/4 cup parsley
