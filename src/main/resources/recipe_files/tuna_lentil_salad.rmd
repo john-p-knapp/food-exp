@@ -1,6 +1,6 @@
 TITLE Tuna Lentil Salad
 
-# In a pot combine: [1 cloves garlic[, minced]], [1 cup black lentils], [1 item bay leaf], [1/2 cup [diced] onion], and [4 cup water].
+# In a pot combine:{[1 cloves garlic[, minced]] [1 cup black lentils] [1 item bay leaf] [1/2 cup [diced] onion]  [4 cup water]}
 # Bring to a boil, reduce the heat and add salt to taste (about 1 teaspoon). Cover and simmer 25 minutes until the lentils are just tender. 
 # Remove the onion and bay leaf, and discard. Drain the lentils through a strainer set over a bowl.
 

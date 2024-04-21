@@ -21,7 +21,17 @@
 ### Directions: 
 
 #### Tapenade {
-1. In a small bowl combine: **28 oz diced tomatoes** , **1/2 cup finely chopped pitted kalamata olives** , **2 tbl chopped basil** , **1 tbl chopped parsley** , **3 tbl balsamic vinegar** , **1 tsp chopped oregano** , **1 tsp minced garlic** , and **1 tbl olive oil** . 
+1. In a small bowl combine:  
+**28 oz diced tomatoes**   
+**1/2 cup finely chopped pitted kalamata olives**   
+**2 tbl chopped basil**   
+**1 tbl chopped parsley**   
+**3 tbl balsamic vinegar**   
+**1 tsp chopped oregano**   
+**1 tsp minced garlic**   
+**1 tbl olive oil**   
+
+
 2. Let stand 15 minutes. 
 3. Add **1 oz crumbled feta cheese** . Adjust **salt** and **pepper** ; stir gently to combine. 
 

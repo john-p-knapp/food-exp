@@ -15,7 +15,7 @@
 ### Directions: 
 
 #### Antipasto Mix {
-1. In a bowl combine: **2 tbl olive oil** , **1/3 cup chopped marinated artichoke hearts** , **1/3 cup chopped salami** , **1/4 cup chopped pepperoncini** , and **2 tbl red-wine vinegar** , and **1 tbl chopped fresh oregano** 
+1. In a bowl combine, **2 tbl olive oil** , **1/3 cup chopped marinated artichoke hearts** , **1/3 cup chopped salami** , **1/4 cup chopped pepperoncini** , and **2 tbl red-wine vinegar** , and **1 tbl chopped fresh oregano** 
 
 }
 

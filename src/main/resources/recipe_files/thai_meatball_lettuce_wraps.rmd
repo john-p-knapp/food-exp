@@ -1,0 +1,30 @@
+TITLE Thai Meatball Lettuce Wraps
+{[Slaw]
+# In a bowl combine:{
+[14 oz cole slaw mix]
+[10 item basil leaves[, chiffonade]]
+[5 item mint leaves[, chiffonade]]
+[3 tbl cilantro[, chopped]]
+[1 item scallion[, sliced]]
+[1/4 cup rice vinegar]
+[5 tsp mayonnaise]
+[4 tsp sweet chili sauce]
+}
+}
+{[Meatballs Mixture]
+# In a large bowl combine:{
+[1.5 lbs ground pork]
+[4 item scallion[, sliced]]
+[1 tbl ginger[, minced]]
+[2 cloves garlic[, minced]]
+[1/2 tbl fish sauce]
+[1/2 tsp sriracha]
+[1 tsp salt]
+[2 tbl lime juice]
+}
+}
+
+# Preheat oven to 400F degrees.
+# On a baking sheet form [1 tbl $[Meatball Mixture]] into rough balls.
+# Bake for approximately 10 minutes. Check temperature for 155F degrees.
+# Serve on [romaine lettuce] with [sweet chili sauce]. 

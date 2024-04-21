@@ -1,4 +1,4 @@
-# Tofu Baisl Pesto Pasta 
+# Tofu Basil Pesto Pasta 
 
 ### Ingredients: 
 * 1 cup silken tofu

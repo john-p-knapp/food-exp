@@ -12,6 +12,11 @@
 
 ### Directions: 
 1. Cook **1 cup quinoa** using **1.5 cup water** . Let cool to room temperature. 
-2. In large bowl combine **1.5 cup halved cherry tomatoes** , **8 oz fresh mozzarella , diced** , and **1 cloves garlic ,minced** . Let marinate while quinoa cooks 
+2. In large bowl combine:  
+**1.5 cup halved cherry tomatoes**   
+**8 oz fresh mozzarella , diced**   
+**1 cloves garlic ,minced**   
+
+Let marinate while quinoa cooks 
 3. Roughly chop **1/2 cup basil** . 
 4. In a bowl combine the above with **2 tsp olive oil** and **2 tbl balsamic vinegar** . 

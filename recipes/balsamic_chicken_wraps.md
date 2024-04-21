@@ -21,7 +21,15 @@
 ### Directions: 
 
 #### Marinade {
-1. In a marinating dish or plastic bag combine: **1/2 cup minced parsley** , **1 tbl dried Italian seasoning** , **2 tbl olive oil** , **2 tbl balsamic vinegar** , **1 tsp black pepper** , **2 cloves garlic , minced** . 
+1. In a marinating dish or plastic bag combine:  
+**1/2 cup minced parsley**   
+**1 tbl dried Italian seasoning**   
+**2 tbl olive oil**   
+**2 tbl balsamic vinegar**   
+**1 tsp black pepper**   
+**2 cloves garlic , minced**   
+
+
 2. Trim **2 lbs chicken breasts** and merinate for 2 hours. 
 
 }

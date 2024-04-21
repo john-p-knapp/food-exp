@@ -4,7 +4,9 @@ recipe: titleEntry (linkEntry|note|compDef|instruction|tagEntry|imageEntry)+ ;
 
 compDef: LBRACE LBRACKET name+=WORD+ RBRACKET (instruction|note|imageEntry)+ RBRACE;
 
-instruction: HASH (dirText|measuredAddition|measuredCompRef|addition|compRef)+ ;
+instruction: HASH (dirText|combination|measuredAddition|measuredCompRef|addition|compRef)+ ;
+
+combination: 'combine:' LBRACE (measuredAddition|measuredCompRef|addition|compRef)+ RBRACE;
 
 measuredAddition: LBRACKET amount=NUMBER unit=('item'|'sprig'|'tsp'|'tbl'|'cup'|'lbs'|'oz'|'ml'|'g'|'dash'|'cloves'|'head'|'gallon') (LBRACKET prep+=WORD+ RBRACKET)? ingredient+=WORD+ (LBRACKET postprep+=WORD+ RBRACKET)? RBRACKET;
 measuredCompRef: LBRACKET amount=NUMBER unit=('item'|'sprig'|'tsp'|'tbl'|'cup'|'lbs'|'oz'|'ml'|'g'|'dash'|'cloves'|'head'|'gallon') compRef RBRACKET;
@@ -24,6 +26,7 @@ LINK: 'LINK';
 IMAGE: 'IMAGE';
 TAGS: 'TAGS';
 
+//PERCENT: '%';
 LBRACKET: '[';
 RBRACKET: ']';
 LBRACE: '{';

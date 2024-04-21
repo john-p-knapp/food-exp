@@ -22,7 +22,14 @@
 1. Make **2 cup rice , cooked** type of your choice. 
 
 #### Sauce {
-2. In a bowl combine: **4 cloves garlic , chopped** , **1 tbl ginger , sliced** , **1/2 cup soy sauce** , **2 tbl Gochujang** , **1.5 tbl maple syrup** . 
+2. In a bowl combine:  
+**4 cloves garlic , chopped**   
+**1 tbl ginger , sliced**   
+**1/2 cup soy sauce**   
+**2 tbl Gochujang**   
+**1.5 tbl maple syrup**   
+
+
 
 }
 

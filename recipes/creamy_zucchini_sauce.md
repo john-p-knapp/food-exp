@@ -29,10 +29,17 @@
 
 
 #### Sauce {
-1. Combine: **1 cup sour cream** , **2 cloves garlic minced** , **1 tbl tomato paste** , and **2 tbl chopped basil** in a medium skillet, stir, and bring to a simmer. Turn off the heat. 
-2. Add the baked zucchini to the cream-sauce and mix everything well. 
-3. Serve over **pasta** , if desired. 
-4. Garnish with chopped herbs, if desired. 
+1. In a skillet combine:  
+**1 cup sour cream**   
+**2 cloves garlic minced**   
+**1 tbl tomato paste**   
+**2 tbl chopped basil**   
+
+
+2. Stir, and bring to a simmer. Turn off the heat. 
+3. Add the baked zucchini to the cream-sauce and mix everything well. 
+4. Serve over **pasta** , if desired. 
+5. Garnish with chopped herbs, if desired. 
 
 }
 

@@ -26,7 +26,15 @@
 
 
 #### Spice Rub {
-1. In a small bowl combine: **2 tbl paprika** , **2 tsp sugar** , **1 tsp black pepper** , **1 tsp chopped sage** , **1 tsp chopped thyme** , **2 cloves garlic , minced** . 
+1. In a small bowl combine:  
+**2 tbl paprika**   
+**2 tsp sugar**   
+**1 tsp black pepper**   
+**1 tsp chopped sage**   
+**1 tsp chopped thyme**   
+**2 cloves garlic , minced**   
+
+
 
 }
 

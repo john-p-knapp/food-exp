@@ -11,6 +11,7 @@ import org.antlr.v4.runtime.tree.ParseTree;
 import org.antlr.v4.runtime.tree.TerminalNode;
 
 import recipemd.RecipeMarkupParser.AdditionContext;
+import recipemd.RecipeMarkupParser.CombinationContext;
 import recipemd.RecipeMarkupParser.CompDefContext;
 import recipemd.RecipeMarkupParser.CompRefContext;
 import recipemd.RecipeMarkupParser.DirTextContext;
@@ -32,10 +33,16 @@ public class MarkdownConverter extends RecipeMarkupBaseListener {
 		String name;
 	}
 
-	List<Ingredient> ingredientList = new ArrayList<>();
-	AtomicInteger step = new AtomicInteger();
 	private final Writer writer;
-	StringBuilder buffer;
+
+	private List<Ingredient> ingredientList = new ArrayList<>();
+	private AtomicInteger step = new AtomicInteger();
+	private StringBuilder buffer;
+	private boolean inCombineBlock = false;
+
+	private boolean skipRef;
+
+	boolean buffering = false;
 
 	public MarkdownConverter(Writer writer) {
 		this.writer = writer;
@@ -49,6 +56,14 @@ public class MarkdownConverter extends RecipeMarkupBaseListener {
 		write("**");
 		write(getText(ctx.ingredient));
 		write("** ");
+	}
+
+	@Override
+	public void enterCombination(CombinationContext ctx) {
+		inCombineBlock = true;
+		write("combine:");
+		softbreak();
+		super.enterCombination(ctx);
 	}
 
 	@Override
@@ -134,8 +149,6 @@ public class MarkdownConverter extends RecipeMarkupBaseListener {
 		write("** ");
 	}
 
-	private boolean skipRef;
-
 	@Override
 	public void enterMeasuredCompRef(MeasuredCompRefContext ctx) {
 		skipRef = true;
@@ -184,6 +197,19 @@ public class MarkdownConverter extends RecipeMarkupBaseListener {
 	}
 
 	@Override
+	public void exitAddition(AdditionContext ctx) {
+		if (inCombineBlock) {
+			softbreak();
+		}
+	}
+
+	@Override
+	public void exitCombination(CombinationContext ctx) {
+		inCombineBlock = false;
+		write("\n");
+	}
+
+	@Override
 	public void exitCompDef(CompDefContext ctx) {
 		write("\n}\n\n");
 		step.set(0);
@@ -191,7 +217,9 @@ public class MarkdownConverter extends RecipeMarkupBaseListener {
 
 	@Override
 	public void exitCompRef(CompRefContext ctx) {
-
+		if (inCombineBlock) {
+			softbreak();
+		}
 	}
 
 	@Override
@@ -201,7 +229,20 @@ public class MarkdownConverter extends RecipeMarkupBaseListener {
 
 	@Override
 	public void exitMeasuredAddition(MeasuredAdditionContext ctx) {
+		if (inCombineBlock) {
+			softbreak();
+		}
+	}
 
+	private void softbreak() {
+		write("  \n");
+	}
+
+	@Override
+	public void exitMeasuredCompRef(MeasuredCompRefContext ctx) {
+		if (inCombineBlock) {
+			softbreak();
+		}
 	}
 
 	@Override
@@ -252,8 +293,6 @@ public class MarkdownConverter extends RecipeMarkupBaseListener {
 		}
 		return sb.toString();
 	}
-
-	boolean buffering = false;
 
 	private void startBuffering() {
 

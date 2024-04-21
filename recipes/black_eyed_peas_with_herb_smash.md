@@ -37,7 +37,16 @@
 
 
 #### Herb Smash {
-1. In a food processor combine: **2 cup cilantro** , **2 green chiles** , **2 cloves garlic** , **1 oz shelled walnuts** , **1 tbl honey** , **1 tbl olive oil** , **1/2 lemon** . 
+1. In a food processor combine:  
+**2 cup cilantro**   
+**2 green chiles**   
+**2 cloves garlic**   
+**1 oz shelled walnuts**   
+**1 tbl honey**   
+**1 tbl olive oil**   
+**1/2 lemon**   
+
+
 2. Pulse until smooth. 
 3. Season with **salt** and **pepper** . 
 

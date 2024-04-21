@@ -1,10 +1,10 @@
 TITLE Creamy Avocado Soup
 
-# In blender combine [12 oz silken tofu], [1 cup water], [2 cup romaine], [1 cup frozen green peas], [3 item avocado], [3 tbl lime juice], [3 tbl white wine vinegar], [1 tsp salt], [1/2 tsp black pepper].
+# In blender combine:{ [12 oz silken tofu] [1 cup water] [2 cup romaine] [1 cup frozen green peas] [3 item avocado] [3 tbl lime juice] [3 tbl white wine vinegar] [1 tsp salt] [1/2 tsp black pepper]}
 # Blend until smooth.
 
 {[Garnish]
-# Chop and combine [1/4 cup tomato], [1/4 cup yellow bell pepper].
+# Chop and combine:{ [1/4 cup tomato] [1/4 cup yellow bell pepper]}
 # Slice and add [2 tbl scallions]. 
 # Season with [salt] and [pepper].
 }
