@@ -1,8 +1,7 @@
 TITLE Chocolate Creme Brulee
 
-# Set water bath for 182F
-# Separate [10 item egg yolks]. Reserve whites for another use.
-# Combine eggs and [6 oz sugar]. Whisk to combine.
+# Set water bath for 182Fd
+# Combine [10 item egg yolks] and [6 oz sugar]. Whisk to combine.
 # Heat [3.5 cup heavy cream] to 160F
 # Temper eggs by slowly whisking in hot cream.
 # Finely chop [8 oz dark chocolate].

@@ -5,17 +5,15 @@
 * 15 oz crushed tomatoes
 * 4 cloves garlic
 * 1/2 onion
-* 1/2 cup water
 * 1 tbl soy sauce
 * 1 chipotle chile
 * 1 tbl adobo sauce
 * 2 tsp chili powder
 * 2 tsp cumin
-* 2 tsp coriander
 * 1/2 tsp pepper
 * 1/2 tsp salt
+* 1/2 cup water
 * 4 tbl tahini paste
-* 2 oz dark chocolate squares
 * 1/2 onion
 * 1 red bell pepper
 * 1 cup zucchini
@@ -34,10 +32,25 @@
 2. Wash, dry, and poke holes into **4 sweet potatoes** . Place on a parchment-lined sheet pan and bake on the middle rack until tender in the center when you pierce with a fork. 
 
 #### Mole Sauce {
-3. Combine in a blender: **15 oz crushed tomatoes** , **4 cloves garlic** , **1/2 onion rough diced** , **1/2 cup water** , **1 tbl soy sauce** , **1 chipotle chile** , **1 tbl adobo sauce** , **2 tsp chili powder** , **2 tsp cumin** , **2 tsp coriander** , **1/2 tsp pepper** , **1/2 tsp salt** . Blend until smooth. 
-4. Place this Mole sauce in a medium pot, bring it to a simmer over medium-low heat, cover and cook over medium-low heat. 
-5. Cook until flavors meld and the onion is tempered. 
-6. Stir in **4 tbl tahini paste** and **2 oz dark chocolate squares** stir until melted and combined. Taste, adjust salt and sweetness. Turn heat off and set aside. 
+3. In a blender, combine:  
+**15 oz crushed tomatoes**   
+**4 cloves garlic**   
+**1/2 onion rough diced**   
+**1 tbl soy sauce**   
+**1 chipotle chile**   
+**1 tbl adobo sauce**   
+**2 tsp chili powder**   
+**2 tsp cumin**   
+**1/2 tsp pepper**   
+**1/2 tsp salt**   
+
+
+4. Blend until smooth. 
+5. Place this Mole sauce in a medium pot. 
+6. Add **1/2 cup water** to the blender jar and process. Add the liquid to the pot. 
+7. Bring mole to a simmer over medium-low heat, cover and cook over medium-low heat. 
+8. Cook until flavors meld and the onion is tempered. 
+9. Stir in **4 tbl tahini paste** stir until combined. Taste, adjust salt and sweetness. Turn heat off and set aside. 
 
 }
 

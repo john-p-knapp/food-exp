@@ -9,7 +9,7 @@
 * 3 lbs chicken thighs
 * 6 cloves garlic
 * 1 tbl cumin seeds
-*  salt
+* 1/2 tsp salt
 * 1/2 cup cilantro
 * 1 tbl Fish Sauce
 *  salt
@@ -27,7 +27,14 @@
 
 
 #### chile {
-1. Combine **3 lbs bone-in, skin-on chicken thighs** , **prep'd veg** , **6 cloves garlic** , **1 tbl cumin seeds** , toasted and ground, and a big pinch of **salt** in a pressure cooker. 
+1. In a pressure cooker combine:  
+**3 lbs bone-in, skin-on chicken thighs**   
+**prep'd veg**   
+**6 cloves garlic**   
+**1 tbl cumin seeds**   
+**1/2 tsp salt**   
+
+
 2. Heat over high heat until gently sizzling, then seal pressure cooker, bring to high pressure, and cook for 15 minutes. Release pressure. 
 3. Using tongs, transfer chicken pieces to a bowl and set aside. 
 4. Add **1/2 cup cilantro** and **1 tbl Fish Sauce** to remaining contents of pressure cooker. 

@@ -9,7 +9,8 @@ TITLE White Bean Salad with Tahini Dressing
 }
 
 {[Tahini Dressing]
-# In a bowl combine [2 tbl olive oil], [3 tbl tahini], [2 tbl lemon juice], [3 cloves [minced] garlic], [1/2 tsp salt], [1/4 tsp pepper].
+# In a bowl combine:{ [2 tbl olive oil] [3 tbl tahini] [2 tbl lemon juice] [3 cloves [minced] garlic] [1/2 tsp salt] [1/4 tsp pepper]}
+# Stir to until smooth. Thin with water as necessary.
 }
 
 {[Salad]

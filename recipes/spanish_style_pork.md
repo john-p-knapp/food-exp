@@ -19,8 +19,15 @@
 
 #### Brined Pork {
 1. Trim **1.5 lbs pork tenderloin** . 
-2. In a container combine **3 cup water** , **1/4 cup kosher salt** , **1/4 cup sugar** , **1/4 cup sherry vinegar** . Stir to disolve. 
-3. Brine for 1-3 hours. 
+2. In a container combine:  
+**3 cup water**   
+**1/4 cup kosher salt**   
+**1/4 cup sugar**   
+**1/4 cup sherry vinegar**   
+
+
+3. Stir to disolve. 
+4. Brine pork for 1-3 hours. 
 
 }
 

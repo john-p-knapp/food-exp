@@ -24,7 +24,16 @@
 ### Directions: 
 
 #### Sauce {
-1. Combine **3/4 cup ketchup** , **1/3 cup maple syrup** , **1.5 tsp chili powder** , **3/4 tsp chipotle** , **1 tsp smoked paprika** , **1 tsp onion powder** , **1 tsp garlic powder** 
+1. In a small bowl, combine:  
+**3/4 cup ketchup**   
+**1/3 cup maple syrup**   
+**1.5 tsp chili powder**   
+**3/4 tsp chipotle**   
+**1 tsp smoked paprika**   
+**1 tsp onion powder**   
+**1 tsp garlic powder**   
+
+
 
 }
 

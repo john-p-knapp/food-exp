@@ -42,7 +42,12 @@
 
 #### Spiced Beef {
 1. Pat **1 lbs ground beef** dry. 
-2. In a small bowl combine **1/2 tsp pepper** , **1/2 tsp cinnamon** , and **1 tsp salt** . 
+2. In a small bowl combine:  
+**1/2 tsp pepper**   
+**1/2 tsp cinnamon**   
+**1 tsp salt**   
+
+
 3. Heat a large skillet over high heat. Then press beef into an even layer in skillet. 
 4. Sprinkle beef with spice mixture. 
 5. Cook, undisturbed, until a crust begins to form. 

@@ -16,7 +16,7 @@ TITLE Spice Beef and Hummus
 
 {[Spiced Beef]
 # Pat [1 lbs ground beef] dry. 
-# In a small bowl combine [1/2 tsp pepper], [1/2 tsp cinnamon], and [1 tsp salt].
+# In a small bowl combine:{[1/2 tsp pepper] [1/2 tsp cinnamon] [1 tsp salt]}
 # Heat a large skillet over high heat. Then press beef into an even layer in skillet.
 # Sprinkle beef with spice mixture. 
 # Cook, undisturbed, until a crust begins to form. 

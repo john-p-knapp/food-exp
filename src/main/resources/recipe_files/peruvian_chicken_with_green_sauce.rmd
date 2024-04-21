@@ -10,8 +10,8 @@ TITLE Peruvian Chicken with Green Sauce
 
 
 {[Chicken]
-# spatchcock [1 item chicken]
-# Combine [20 g kosher salt], [15 g cumin], [15 g paprika], [2.5 g pepper], [3 cloves garlic] minced, [30 ml vinegar], [30 ml vegetable oil]
+# Spatchcock [1 item chicken]
+# In a bowl, combine:{[15 g kosher salt] [15 g cumin] [15 g paprika] [2.5 g pepper] [3 cloves garlic[, minced]] [30 ml vinegar] [30 ml vegetable oil]}
 # Spread mixture evenly over all surfaces of chicken.
 # For added stability, run a metal or wooden skewer horizontally through chicken, entering through one thigh, going through both breast halves, and exiting through other thigh. Tuck wing tips behind back.
 }

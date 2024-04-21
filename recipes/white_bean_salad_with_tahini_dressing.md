@@ -43,7 +43,16 @@
 
 
 #### Tahini Dressing {
-1. In a bowl combine **2 tbl olive oil** , **3 tbl tahini** , **2 tbl lemon juice** , **3 cloves minced garlic** , **1/2 tsp salt** , **1/4 tsp pepper** . 
+1. In a bowl combine:  
+**2 tbl olive oil**   
+**3 tbl tahini**   
+**2 tbl lemon juice**   
+**3 cloves minced garlic**   
+**1/2 tsp salt**   
+**1/4 tsp pepper**   
+
+
+2. Stir to until smooth. Thin with water as necessary. 
 
 }
 

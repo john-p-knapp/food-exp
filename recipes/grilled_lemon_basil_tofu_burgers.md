@@ -32,6 +32,17 @@
 
 3. Cut tofu crosswise into 6 slices. Pat each square dry with paper towels. Place tofu slices on a jelly-roll pan. Brush both sides of tofu slices with lemon juice mixture; reserve remaining juice mixture. Let tofu stand 1 hour. 
 4. Prepare grill. 
-5. Combine remaining **1 cloves garlic , minced** , **1/3 cup chopped olives** , **3 tbl sour cream** , and **3 tbl mayonnaise** in a small bowl; stir well. 
-6. Grill tofu for 3 minutes on each side. Brush tofu with the reserved juice mixture. 
-7. Serve with olive mixture. 
+
+#### Olive Spread {
+5. In a small bowl combine:  
+**1 cloves garlic , minced**   
+**1/3 cup chopped olives**   
+**3 tbl sour cream**   
+**3 tbl mayonnaise**   
+
+
+
+}
+
+1. Grill tofu for 3 minutes on each side. Brush tofu with the reserved juice mixture. 
+2. Serve with olive mixture. 

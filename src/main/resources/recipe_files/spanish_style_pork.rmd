@@ -2,8 +2,9 @@ TITLE Spanish-Style Brined Pork Tenderloin
 
 {[Brined Pork]
 # Trim [1.5 lbs pork tenderloin].
-# In a container combine [3 cup water], [1/4 cup kosher salt], [1/4 cup sugar], [1/4 cup sherry vinegar]. Stir to disolve.
-# Brine for 1-3 hours. 
+# In a container combine:{ [3 cup water] [1/4 cup kosher salt] [1/4 cup sugar] [1/4 cup sherry vinegar]}
+# Stir to disolve.
+# Brine pork for 1-3 hours. 
 }
  
 {[Spice Rub]

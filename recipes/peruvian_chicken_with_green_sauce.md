@@ -12,7 +12,7 @@
 *  black pepper
 *  salt
 * 1 chicken
-* 20 g kosher salt
+* 15 g kosher salt
 * 15 g cumin
 * 15 g paprika
 * 2.5 g pepper
@@ -33,8 +33,17 @@
 
 
 #### Chicken {
-1. spatchcock **1 chicken** 
-2. Combine **20 g kosher salt** , **15 g cumin** , **15 g paprika** , **2.5 g pepper** , **3 cloves garlic** minced, **30 ml vinegar** , **30 ml vegetable oil** 
+1. Spatchcock **1 chicken** 
+2. In a bowl, combine:  
+**15 g kosher salt**   
+**15 g cumin**   
+**15 g paprika**   
+**2.5 g pepper**   
+**3 cloves garlic , minced**   
+**30 ml vinegar**   
+**30 ml vegetable oil**   
+
+
 3. Spread mixture evenly over all surfaces of chicken. 
 4. For added stability, run a metal or wooden skewer horizontally through chicken, entering through one thigh, going through both breast halves, and exiting through other thigh. Tuck wing tips behind back. 
 
