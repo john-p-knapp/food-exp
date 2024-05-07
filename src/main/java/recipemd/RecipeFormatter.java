@@ -12,13 +12,14 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.io.Writer;
 
-import org.antlr.v4.runtime.ANTLRInputStream;
 import org.antlr.v4.runtime.BaseErrorListener;
 import org.antlr.v4.runtime.CharStream;
+import org.antlr.v4.runtime.CommonTokenFactory;
 import org.antlr.v4.runtime.CommonTokenStream;
 import org.antlr.v4.runtime.Lexer;
 import org.antlr.v4.runtime.RecognitionException;
 import org.antlr.v4.runtime.Recognizer;
+import org.antlr.v4.runtime.UnbufferedCharStream;
 import org.antlr.v4.runtime.tree.ParseTreeWalker;
 
 import recipemd.RecipeMarkupParser.RecipeContext;
@@ -41,9 +42,10 @@ public class RecipeFormatter {
 		System.out.println(outfile);
 		FileInputStream fis = new FileInputStream(recipeFile);
 
-		CharStream stream = new ANTLRInputStream(fis);
+		CharStream stream = new UnbufferedCharStream(fis);
 
 		Lexer lexer = new RecipeMarkupLexer(stream);
+		lexer.setTokenFactory(new CommonTokenFactory(true));
 
 		CommonTokenStream tokens = new CommonTokenStream(lexer);
 

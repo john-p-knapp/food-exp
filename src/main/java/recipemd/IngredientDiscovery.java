@@ -13,11 +13,11 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
-import org.antlr.v4.runtime.ANTLRInputStream;
 import org.antlr.v4.runtime.CharStream;
 import org.antlr.v4.runtime.CommonTokenStream;
 import org.antlr.v4.runtime.Lexer;
 import org.antlr.v4.runtime.Token;
+import org.antlr.v4.runtime.UnbufferedCharStream;
 import org.antlr.v4.runtime.tree.ParseTreeListener;
 import org.antlr.v4.runtime.tree.ParseTreeWalker;
 
@@ -74,7 +74,7 @@ public class IngredientDiscovery {
 	public void collectIngredients(File recipeFile, ParseTreeListener listener) throws IOException {
 
 		FileInputStream fis = new FileInputStream(recipeFile);
-		CharStream stream = new ANTLRInputStream(fis);
+		CharStream stream = new UnbufferedCharStream(fis);
 		Lexer lexer = new RecipeMarkupLexer(stream);
 
 		CommonTokenStream tokens = new CommonTokenStream(lexer);
