@@ -28,7 +28,6 @@
 2. In a small pot combine **1/2 cup red lentils** and **1.5 cup water** . Bring to a boil simmer 6 minutes. Drain. 
 3. In the bowl of a food processor, combine:  
 **1.5 cup cooked lentils**   
-  
 **3/4 cup breadcrumbs**   
 **1/2 cup roughly chopped red onion**   
 **1/4 cup parsley**   

@@ -55,7 +55,6 @@
 1. In a dish combine:  
 **1 lbs extra-large shrimp**   
 **1.5 tsp Chermoula**   
-  
 **1 dash Ras el Hanout**   
 
 

@@ -40,8 +40,6 @@ public class MarkdownConverter extends RecipeMarkupBaseListener {
 	private StringBuilder buffer;
 	private boolean inCombineBlock = false;
 
-	private boolean skipRef;
-
 	boolean buffering = false;
 
 	public MarkdownConverter(Writer writer) {
@@ -76,13 +74,11 @@ public class MarkdownConverter extends RecipeMarkupBaseListener {
 
 	@Override
 	public void enterCompRef(CompRefContext ctx) {
-		if (skipRef) {
-			skipRef = false;
-		} else {
-			write("**");
-			write(getText(ctx.name));
-			write("** ");
-		}
+
+		write("**");
+		write(getText(ctx.name));
+		write("** ");
+
 	}
 
 	@Override
@@ -151,7 +147,6 @@ public class MarkdownConverter extends RecipeMarkupBaseListener {
 
 	@Override
 	public void enterMeasuredCompRef(MeasuredCompRefContext ctx) {
-		skipRef = true;
 
 		write("**");
 		write(ctx.amount.getText());
@@ -161,7 +156,7 @@ public class MarkdownConverter extends RecipeMarkupBaseListener {
 			write(" ");
 		}
 
-		write(getText(ctx.compRef().name));
+		write(getText(ctx.name));
 
 		write("** ");
 		super.enterMeasuredCompRef(ctx);
