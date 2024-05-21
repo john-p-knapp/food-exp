@@ -16,7 +16,7 @@ TITLE Moroccan Lentil Meatballs with Roasted Red Pepper Sauce
 }
 
 {[Roasted Red Pepper Sauce]
-# In a blender combine: {[12 oz roasted red peppers][1/4 cup olive oil] [1 tbl harissa] [1/2 tbl [minced] garlic]
+# In a blender combine: {[12 oz roasted red peppers][1/4 cup olive oil] [1 tsp harissa] [1/2 tbl [minced] garlic]
  [1/2 tsp kosher salt] [1/2 tsp black pepper]}.
 # Process until smooth.
 }

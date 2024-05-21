@@ -29,4 +29,7 @@
 
 
 6. Toast **pine nuts** for garnish. 
-7. Remove the baking sheet from the oven and carefully remove the garlic 
+7. Remove the baking sheet from the oven and carefully remove the garlic from beneath the squash. Add to the ricotta and mix well. 
+8. Add the asparagus to the bowl. 
+9. When the squash is cool enough to handle but still warm, run a fork through the flesh to separate and remove the strands from the shell. Add to the ricotta mixture and stir to combine. 
+10. Garnish with pine nuts. 

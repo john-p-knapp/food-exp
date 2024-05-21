@@ -16,7 +16,7 @@
 * 1/2 tsp black pepper
 * 12 oz roasted red peppers
 * 1/4 cup olive oil
-* 1 tbl harissa
+* 1 tsp harissa
 * 1/2 tbl garlic
 * 1/2 tsp kosher salt
 * 1/2 tsp black pepper
@@ -52,7 +52,7 @@
 1. In a blender combine:  
 **12 oz roasted red peppers**   
 **1/4 cup olive oil**   
-**1 tbl harissa**   
+**1 tsp harissa**   
 **1/2 tbl minced garlic**   
 **1/2 tsp kosher salt**   
 **1/2 tsp black pepper**   
