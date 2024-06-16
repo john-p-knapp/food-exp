@@ -12,7 +12,7 @@
 * 1/2 tsp black pepper
 * 1/4 cup tomato
 * 1/4 cup yellow bell pepper
-* 2 tbl scallions
+* 2 tbl scallion
 *  salt
 *  pepper
 *  olive oil
@@ -38,7 +38,7 @@
 **1/4 cup yellow bell pepper**   
 
 
-4. Slice and add **2 tbl scallions** . 
+4. Slice and add **2 tbl scallion** . 
 5. Season with **salt** and **pepper** . 
 
 }

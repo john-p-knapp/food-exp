@@ -4,7 +4,7 @@
 * 1 pork shoulder
 * 1 cup sugar
 * 1 cup kosher salt
-* 2.5 cup scallions
+* 2.5 cup scallion
 * 1/2 cup ginger
 * 1/4 cup neutral oil
 * 1.5 tsp soy sauce
@@ -29,7 +29,7 @@
 
 
 #### Ginger-Scallion Sauce {
-1. Stir together **2.5 cup scallions** thinly sliced, **1/2 cup minced ginger** , **1/4 cup neutral oil** , **1.5 tsp soy sauce** , **3/4 tsp sherry vinegar** , **salt** to taste. 
+1. Stir together **2.5 cup scallion** thinly sliced, **1/2 cup minced ginger** , **1/4 cup neutral oil** , **1.5 tsp soy sauce** , **3/4 tsp sherry vinegar** , **salt** to taste. 
 
 }
 
