@@ -1,7 +1,7 @@
 # Marry Me Chicken 
 
 ### Ingredients: 
-* 2.25 lbs chicken breasts
+* 2.25 lbs chicken breast
 *  salt
 *  pepper
 * 1/4 cup flour
@@ -20,7 +20,7 @@
 *  basil
 
 ### Directions: 
-1. Slice **2.25 lbs chicken breasts** in half horizontally and pat dry. Season with **salt** and **pepper** . 
+1. Slice **2.25 lbs chicken breast** in half horizontally and pat dry. Season with **salt** and **pepper** . 
 2. Scatter **1/4 cup flour** on a large plate. 
 3. Dredge each piece of chicken and shake off the excess. Transfer the chicken to a sheet pan or large plate in a single layer. 
 4. In a large skillet heat **3 tbl olive oil** . Once hot, reduce heat to medium and add **3 tbl butter** . 

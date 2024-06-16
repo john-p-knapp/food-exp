@@ -1,9 +1,9 @@
 # Black Eyed Peas with Herb Smash 
 
 ### Ingredients: 
-* 1 leek, thinly sliced
+* 1 leek
 *  olive oil
-* 2 cloves garlic,thinly sliced
+* 2 cloves garlic
 * 1/4 tsp chile powder
 * 14 oz black eyed peas
 * 1 cup vegetable stock
@@ -25,8 +25,8 @@
 ### Directions: 
 
 #### Peas {
-1. In a large suacepan saute **1 leek, thinly sliced** in **olive oil** . 
-2. When the leeks are softened and sweet add **2 cloves garlic,thinly sliced** and **1/4 tsp chile powder** . 
+1. In a large suacepan saute **1 leek , thinly sliced** in **olive oil** . 
+2. When the leeks are softened and sweet add **2 cloves garlic ,thinly sliced** and **1/4 tsp chile powder** . 
 3. Add **14 oz black eyed peas** , **1 cup vegetable stock** , and **1/16 tsp nutmeg** . 
 4. Add juice of **1/2 lemon** and add the lemon hull to the pot. 
 5. Simmer for 10 minutes. 

@@ -4,13 +4,13 @@
 * 4 tbl peanut butter
 * 2 tbl honey
 * 2 tbl hot water
-*  1-1/2 soy sauce
+* 1/2 tbl soy sauce
 * 1 tbl rice vinegar
 * 1 tbl lime juice
 * 1 tsp sesame seeds
 * 1 tsp sesame oil
 * 1/4 tsp ground ginger
-* 1 cloves garlic,
+* 1 cloves garlic
 *  salt
 *  pepper
 * 2 chicken breast
@@ -30,13 +30,13 @@
 **4 tbl peanut butter**   
 **2 tbl honey**   
 **2 tbl hot water**   
-**1-1/2 soy sauce**   
+**1/2 tbl soy sauce**   
 **1 tbl rice vinegar**   
 **1 tbl lime juice**   
 **1 tsp toasted sesame seeds**   
 **1 tsp sesame oil**   
 **1/4 tsp ground ginger**   
-**1 cloves garlic, minded**   
+**1 cloves garlic , minced**   
 
 
 2. Whisk until smooth. 

@@ -7,7 +7,7 @@
 * 1 chipotle chile
 * 1 tbl adobo sauce
 * 2 tsp ground cumin
-* 2 bay leaves
+* 2 bay leaf
 * 6 cup water
 *  salt
 * 1 tsp apple cider vinegar
@@ -22,7 +22,7 @@
 **1 chipotle chile**   
 **1 tbl adobo sauce**   
 **2 tsp ground cumin**   
-**2 bay leaves**   
+**2 bay leaf**   
 **6 cup water**   
 
 

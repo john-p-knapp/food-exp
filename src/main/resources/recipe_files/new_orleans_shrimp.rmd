@@ -2,7 +2,7 @@ TITLE New Orleans Style Barbecued Shrimp with Cane Syrup Glaze
 
 
 {[Cane Syrup Glaze]
-# In a large saucepan combine:{[1/2 cup [sliced] green onions] [1/2 cup golden cane syrup]  [2 tbl butter] [1 tbl hot sauce]  [1 tbl Worcestershire sauce] [2 tsp paprika] [2 tsp dried thyme] [2 tsp dried oregano] [1/4 tsp cayanne pepper] [1/2 tsp salt] [1/2 tsp black pepper] [6 cloves garlic[, minced]] [2 item bay leaves]}
+# In a large saucepan combine:{[1/2 cup [sliced] green onions] [1/2 cup golden cane syrup]  [2 tbl butter] [1 tbl hot sauce]  [1 tbl Worcestershire sauce] [2 tsp paprika] [2 tsp dried thyme] [2 tsp dried oregano] [1/4 tsp cayanne] [1/2 tsp salt] [1/2 tsp black pepper] [6 cloves garlic[, minced]] [2 item bay leaf]}
 # Bring to a boil; reduce heat, and simmer 10 minutes. Cool to room temperature.
 }
 

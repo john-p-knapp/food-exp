@@ -15,7 +15,7 @@
 * 1 cloves garlic
 * 1 tsp ginger
 *  toasted sesame seeds
-* 1 scallion,
+* 1 scallion
 
 ### Directions: 
 1. Press **14 oz extra firm tofu** . 
@@ -29,4 +29,4 @@
 9. Cook scallion, **1 cloves minced garlic** , and **1 tsp finely chopped ginger** , stirring, until softened. 
 10. Return tofu to skillet. Pour in sauce and bring to a simmer. 
 11. Reduce heat to medium-low and cook, turning tofu occasionally and spooning sauce over, until sauce is reduced by about half. 
-12. Sprinkle with **toasted sesame seeds** and **1 scallion, thinly sliced** . 
+12. Sprinkle with **toasted sesame seeds** and **1 scallion , thinly sliced** . 

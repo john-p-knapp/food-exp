@@ -9,11 +9,11 @@
 * 2 tsp paprika
 * 2 tsp dried thyme
 * 2 tsp dried oregano
-* 1/4 tsp cayanne pepper
+* 1/4 tsp cayanne
 * 1/2 tsp salt
 * 1/2 tsp black pepper
 * 6 cloves garlic
-* 2 bay leaves
+* 2 bay leaf
 * 1.5 lbs shrimp
 
 ### Directions: 
@@ -28,11 +28,11 @@
 **2 tsp paprika**   
 **2 tsp dried thyme**   
 **2 tsp dried oregano**   
-**1/4 tsp cayanne pepper**   
+**1/4 tsp cayanne**   
 **1/2 tsp salt**   
 **1/2 tsp black pepper**   
 **6 cloves garlic , minced**   
-**2 bay leaves**   
+**2 bay leaf**   
 
 
 2. Bring to a boil; reduce heat, and simmer 10 minutes. Cool to room temperature. 

@@ -7,7 +7,7 @@
 * 2 tbl balsamic vinegar
 * 1 tsp black pepper
 * 2 cloves garlic
-* 2 lbs chicken breasts
+* 2 lbs chicken breast
 * 1.5 cup onion
 * 1 tbl rosemary
 * 28 oz cannellini beans
@@ -30,7 +30,7 @@
 **2 cloves garlic , minced**   
 
 
-2. Trim **2 lbs chicken breasts** and merinate for 2 hours. 
+2. Trim **2 lbs chicken breast** and merinate for 2 hours. 
 
 }
 

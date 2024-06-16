@@ -6,7 +6,7 @@ TITLE Momofuku's Bo Ssam Recipe
 }
 
 {[Ginger-Scallion Sauce]
-# Stir together [2.5 cup scallions] thinly sliced, [1/2 cup [minced] ginger], [1/4 cup neutral oil], [1.5 tsp soy sauce], [3/4 tsp sherry vinegar], [salt] to taste.
+# Stir together [2.5 cup scallion] thinly sliced, [1/2 cup [minced] ginger], [1/4 cup neutral oil], [1.5 tsp soy sauce], [3/4 tsp sherry vinegar], [salt] to taste.
 }
 
 {[Ssam Sauce]

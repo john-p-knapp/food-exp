@@ -13,7 +13,7 @@
 * 1/2 tsp pepper
 * 1/2 tsp salt
 * 1/2 cup water
-* 4 tbl tahini paste
+* 4 tbl tahini
 * 1/2 onion
 * 1 red bell pepper
 * 1 cup zucchini
@@ -50,7 +50,7 @@
 6. Add **1/2 cup water** to the blender jar and process. Add the liquid to the pot. 
 7. Bring mole to a simmer over medium-low heat, cover and cook over medium-low heat. 
 8. Cook until flavors meld and the onion is tempered. 
-9. Stir in **4 tbl tahini paste** stir until combined. Taste, adjust salt and sweetness. Turn heat off and set aside. 
+9. Stir in **4 tbl tahini** stir until combined. Taste, adjust salt and sweetness. Turn heat off and set aside. 
 
 }
 

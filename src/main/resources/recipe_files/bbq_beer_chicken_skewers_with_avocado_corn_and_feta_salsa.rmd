@@ -8,7 +8,7 @@ TITLE BBQ Beer Chicken Skewers with Avocado Corn and Feta Salsa
 }
 
 {[Chicken]
-# In a nonreactive container combine [2 lbs chicken breasts[, cut into bite-size chunks]] and a [1/2 cup BBQ Sauce].
+# In a nonreactive container combine [2 lbs chicken breast[, cut into bite-size chunks]] and a [1/2 cup BBQ Sauce].
 # Skewer and grill chicken.
 }
 

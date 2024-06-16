@@ -5,7 +5,7 @@ TITLE Creamy Avocado Soup
 
 {[Garnish]
 # Chop and combine:{ [1/4 cup tomato] [1/4 cup yellow bell pepper]}
-# Slice and add [2 tbl scallions]. 
+# Slice and add [2 tbl scallion]. 
 # Season with [salt] and [pepper].
 }
 

@@ -1,7 +1,7 @@
 # Mexican Chicken Casserole 
 
 ### Ingredients: 
-* 1.75 lbs chicken breasts
+* 1.75 lbs chicken breast
 * 4.5 oz green chiles
 * 1 cup chicken stock
 * 1 cup onion
@@ -15,7 +15,7 @@
 * 2 oz cheddar cheese
 
 ### Directions: 
-1. Poach **1.75 lbs chicken breasts** with **4.5 oz green chiles** and **1 cup chicken stock** 
+1. Poach **1.75 lbs chicken breast** with **4.5 oz green chiles** and **1 cup chicken stock** 
 2. Remove chicken from cooking liquid, reserving cooking liquid; cool chicken. 
 3. Shred meat and set aside. 
 4. Preheat oven to 350F. 

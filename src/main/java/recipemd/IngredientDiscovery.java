@@ -1,5 +1,6 @@
 package recipemd;
 
+import java.io.BufferedReader;
 import java.io.File;
 
 /*******************************************************************************
@@ -8,12 +9,16 @@ import java.io.File;
  *******************************************************************************/
 
 import java.io.FileInputStream;
+import java.io.FileReader;
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Collections;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
 import org.antlr.v4.runtime.CharStream;
+import org.antlr.v4.runtime.CommonTokenFactory;
 import org.antlr.v4.runtime.CommonTokenStream;
 import org.antlr.v4.runtime.Lexer;
 import org.antlr.v4.runtime.Token;
@@ -65,8 +70,36 @@ public class IngredientDiscovery {
 			collectIngredients(fileEntry, listener);
 		}
 
-		for (String s : listener.ingredients) {
-			System.out.println(s);
+		List<String> sortedList = new ArrayList<String>(listener.ingredients);
+		Collections.sort(sortedList);
+
+		Set<String> groceryStoreMapped = new HashSet<String>();
+		try {
+			BufferedReader reader = new BufferedReader(new FileReader("./src/main/resources/grocery_sort.csv"));
+
+			String line = reader.readLine();
+
+			while (line != null) {
+				String[] split = line.split(",");
+				if (split.length != 4) {
+					System.out.println("split error: " + line);
+				} else {
+					String key = split[0].toLowerCase();
+					groceryStoreMapped.add(key);
+				}
+
+				line = reader.readLine();
+			}
+
+			reader.close();
+		} catch (Exception e) {
+			throw new RuntimeException(e);
+		}
+
+		for (String s : sortedList) {
+			if (!groceryStoreMapped.contains(s)) {
+				System.out.println(s);
+			}
 
 		}
 	}
@@ -76,6 +109,7 @@ public class IngredientDiscovery {
 		FileInputStream fis = new FileInputStream(recipeFile);
 		CharStream stream = new UnbufferedCharStream(fis);
 		Lexer lexer = new RecipeMarkupLexer(stream);
+		lexer.setTokenFactory(new CommonTokenFactory(true));
 
 		CommonTokenStream tokens = new CommonTokenStream(lexer);
 		RecipeMarkupParser parser = new RecipeMarkupParser(tokens);

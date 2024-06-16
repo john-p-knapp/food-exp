@@ -14,7 +14,7 @@ TITLE White Bean Salad with Tahini Dressing
 }
 
 {[Salad]
-# In a large bowl combine:{[28 oz cannelli beans[, rinsed]] [1/2 cup shredded carrots] [1/2 cup diced celery] [1/2 cup diced red pepper] [2 tbl parsley] [1/2 cup [toasted] walnuts]}
+# In a large bowl combine:{[28 oz cannellini beans[, rinsed]] [1/2 cup [shredded] carrots] [1/2 cup [diced] celery] [1/2 cup [diced] red pepper] [2 tbl parsley] [1/2 cup [toasted] walnuts]}
 # Dress with $[Tahini Dressing].
 # Garnish with $[Pepitas].
 }

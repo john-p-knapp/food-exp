@@ -1,7 +1,7 @@
 # Jungle Tofu 
 
 ### Ingredients: 
-* 12 oz extra-firm tofu
+* 12 oz extra firm tofu
 * 1 red bell pepper
 * 2 cup haricots verts
 * 4 cup eggplant
@@ -14,7 +14,7 @@
 *  lime wedges
 
 ### Directions: 
-1. Press **12 oz extra-firm tofu** . 
+1. Press **12 oz extra firm tofu** . 
 2. Cut tofu into half inch cubes. 
 3. In a large pan, saute tofu until lightly browned, stirring occasionally. Remove from pan; keep warm. 
 4. Julienne **1 red bell pepper** , trim **2 cup haricots verts** , and cube **4 cup eggplant** . 

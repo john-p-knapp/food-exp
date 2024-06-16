@@ -1,7 +1,7 @@
 # Grilled Chicken and Roasted Red Pepper Sandwiches with Fontina Cheese 
 
 ### Ingredients: 
-* 1 lbs chicken breasts
+* 1 lbs chicken breast
 * 1 tbl lemon juice
 * 1 tbl dijon mustard
 * 2 tsp olive oil
@@ -20,7 +20,7 @@
 * 3 oz fontina cheese
 
 ### Directions: 
-1. Flatten **1 lbs chicken breasts** between 2 sheets of heavy-duty plastic wrap, and pound to 3/4-inch thickness using a meat mallet or rolling pin. 
+1. Flatten **1 lbs chicken breast** between 2 sheets of heavy-duty plastic wrap, and pound to 3/4-inch thickness using a meat mallet or rolling pin. 
 2. In a plastic bag combine:  
 **1 tbl lemon juice**   
 **1 tbl dijon mustard**   

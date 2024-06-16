@@ -7,7 +7,7 @@
 * 1/2 cup avocado
 * 1.5 tbl mayonnaise
 * 1 tsp lime juice
-* 2 tsp chipotle chiles in adobo sauce
+* 2 tsp chipotle chile in adobo sauce
 * 1/4 tsp salt
 * 1/4 tsp cumin
 * 1/4 tsp dried oregano
@@ -23,7 +23,7 @@
 **1/2 cup mashed avocado**   
 **1.5 tbl mayonnaise**   
 **1 tsp lime juice**   
-**2 tsp chopped chipotle chiles in adobo sauce**   
+**2 tsp chopped chipotle chile in adobo sauce**   
 **1/4 tsp salt**   
 **1/4 tsp cumin**   
 **1/4 tsp dried oregano**   

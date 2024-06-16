@@ -11,4 +11,4 @@ TITLE Spicy Braised Tofu
 # Cook scallion, [1 cloves [minced] garlic], and [1 tsp [finely chopped] ginger], stirring, until softened.
 # Return tofu to skillet. Pour in sauce and bring to a simmer. 
 # Reduce heat to medium-low and cook, turning tofu occasionally and spooning sauce over, until sauce is reduced by about half.
-# Sprinkle with [toasted sesame seeds] and [1 item scallion, [thinly sliced]].
+# Sprinkle with [toasted sesame seeds] and [1 item scallion [, thinly sliced]].

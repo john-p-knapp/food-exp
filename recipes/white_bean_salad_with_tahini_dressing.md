@@ -14,10 +14,10 @@
 * 3 cloves garlic
 * 1/2 tsp salt
 * 1/4 tsp pepper
-* 28 oz cannelli beans
-* 1/2 cup shredded carrots
-* 1/2 cup diced celery
-* 1/2 cup diced red pepper
+* 28 oz cannellini beans
+* 1/2 cup carrots
+* 1/2 cup celery
+* 1/2 cup red pepper
 * 2 tbl parsley
 * 1/2 cup walnuts
 
@@ -59,7 +59,7 @@
 
 #### Salad {
 1. In a large bowl combine:  
-**28 oz cannelli beans , rinsed**   
+**28 oz cannellini beans , rinsed**   
 **1/2 cup shredded carrots**   
 **1/2 cup diced celery**   
 **1/2 cup diced red pepper**   

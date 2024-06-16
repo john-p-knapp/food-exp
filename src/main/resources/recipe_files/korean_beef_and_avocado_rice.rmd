@@ -13,4 +13,4 @@ TITLE Korean Beef and Avocado Rice Bowl
 # Add $[Sauce] and simmer for 5 minutes to combine flavors.
 }
 
-# Serve with [1/4 cup green onions[, sliced]], [2 cup cilantro, chopped], [1/2 cup mango[, diced]], [1 cup diced avocado], and [2 tbl sesame seeds]
+# Serve with [1/4 cup green onions[, sliced]], [2 cup cilantro[, chopped]], [1/2 cup mango[, diced]], [1 cup [diced] avocado], and [2 tbl sesame seeds]

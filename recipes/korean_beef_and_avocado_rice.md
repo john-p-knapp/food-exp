@@ -13,9 +13,9 @@
 *  black pepper
 *  salt
 * 1/4 cup green onions
-* 2 cup cilantro, chopped
+* 2 cup cilantro
 * 1/2 cup mango
-* 1 cup diced avocado
+* 1 cup avocado
 * 2 tbl sesame seeds
 
 ### Directions: 
@@ -42,4 +42,4 @@
 
 }
 
-1. Serve with **1/4 cup green onions , sliced** , **2 cup cilantro, chopped** , **1/2 cup mango , diced** , **1 cup diced avocado** , and **2 tbl sesame seeds** 
+1. Serve with **1/4 cup green onions , sliced** , **2 cup cilantro , chopped** , **1/2 cup mango , diced** , **1 cup diced avocado** , and **2 tbl sesame seeds** 

@@ -7,7 +7,7 @@
 * 1 tbl fish sauce
 * 1 tbl lime juice
 * 2 tsp Sriracha
-* 1 tsp dry basil
+* 1 tsp dried basil
 * 1 tsp garlic powder
 * 1/2 tsp ginger
 * 1/4 tsp black pepper
@@ -23,7 +23,7 @@
 ### Directions: 
 
 #### Thai Peanut Pineapple Sauce {
-1. In a bowl combine **1/3 cup pineapple juice** , **1/4 cup soy sauce** , **1/4 cup brown sugar** , **1 tbl fish sauce** , **1 tbl lime juice** , **2 tsp Sriracha** , **1 tsp dry basil** , **1 tsp garlic powder** , **1/2 tsp ginger** , **1/4 tsp black pepper** . 
+1. In a bowl combine **1/3 cup pineapple juice** , **1/4 cup soy sauce** , **1/4 cup brown sugar** , **1 tbl fish sauce** , **1 tbl lime juice** , **2 tsp Sriracha** , **1 tsp dried basil** , **1 tsp garlic powder** , **1/2 tsp ginger** , **1/4 tsp black pepper** . 
 
 }
 

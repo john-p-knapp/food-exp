@@ -1,7 +1,7 @@
 TITLE Black Bean Soup
 
 # In a large pot combine:{ [1 lbs dried black beans][1 item yellow onion[, quartered]][5 cloves garlic[, smashed]]
-[1 item chipotle chile][1 tbl adobo sauce][2 tsp ground cumin][2 item bay leaves][6 cup water]}
+[1 item chipotle chile][1 tbl adobo sauce][2 tsp ground cumin][2 item bay leaf][6 cup water]}
 # Simmer 2 hours or until beans are tender
 # Remove the bay leaves.
 # Place the onion, chipotle, garlic, and 2 cups of beans in a blender and process until smooth. 
