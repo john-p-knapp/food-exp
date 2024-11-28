@@ -29,7 +29,7 @@
 1. Starting with **32 oz duck legs** , pull away and discard any excess fat. 
 2. With scissors, trim the excess skin near the bottom of the legs and around the edges, leaving at least a quarter-inch overhang of skin. 
 * The correct ratio is 2 tablespoons of herb salt to 1 pound of duck legs. 
-3. Rub about **1 tbl herb salt** , rubbing a little extra on the thicker parts and around the joint. 
+3. Rub about **herb salt** , rubbing a little extra on the thicker parts and around the joint. 
 4. Put the legs flesh side up in a single layer in a baking dish. Cover with plastic wrap, and refrigerate for 24 hours. 
 5. Rinse the legs under cold water and remove excess water. 
 6. Vaccum pack the duck. 

@@ -15,7 +15,7 @@ TITLE Duck Confit
 # Starting with [32 oz duck legs], pull away and discard any excess fat. 
 # With scissors, trim the excess skin near the bottom of the legs and around the edges, leaving at least a quarter-inch overhang of skin.
 * The correct ratio is 2 tablespoons of herb salt to 1 pound of duck legs. 
-# Rub about [1 tbl $[herb salt]], rubbing a little extra on the thicker parts and around the joint. 
+# Rub about $[herb salt], rubbing a little extra on the thicker parts and around the joint. 
 # Put the legs flesh side up in a single layer in a baking dish. Cover with plastic wrap, and refrigerate for 24 hours.
 # Rinse the legs under cold water and remove excess water.
 # Vaccum pack the duck.
