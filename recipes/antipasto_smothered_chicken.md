@@ -8,7 +8,7 @@
 * 2 tbl red wine vinegar
 * 1 tbl fresh oregano
 * 1 lbs chicken breast
-* 1/2 tsp ground pepper
+* 1/2 tsp pepper
 *  salt
 * 2 oz fresh mozzarella
 
@@ -20,7 +20,7 @@
 }
 
 1. Preeheat broiler. 
-2. Season **1 lbs chicken breast** with **1/2 tsp ground pepper** and **salt** . 
+2. Season **1 lbs chicken breast** with **1/2 tsp pepper** and **salt** . 
 3. In a large oven proof pan saute chicken until mostly cooked through. 
 4. Smother chicken with **Antipasto Mix** and top with **2 oz fresh mozzarella** . 
 5. Broil until chicken is cooked through and the cheese is melted. 

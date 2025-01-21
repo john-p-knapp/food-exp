@@ -5,7 +5,7 @@ TITLE Antipasto Smothered Chicken
 }
 
 # Preeheat broiler.
-# Season [1 lbs chicken breast] with [1/2 tsp ground pepper] and [salt].
+# Season [1 lbs chicken breast] with [1/2 tsp pepper] and [salt].
 # In a large oven proof pan saute chicken until mostly cooked through.
 # Smother chicken with $[Antipasto Mix] and top with [2 oz fresh mozzarella].
 # Broil until chicken is cooked through and the cheese is melted. 

@@ -6,7 +6,7 @@
 * 5 cloves garlic
 * 1 chipotle chile
 * 1 tbl adobo sauce
-* 2 tsp ground cumin
+* 2 tsp cumin
 * 2 bay leaf
 * 6 cup water
 *  salt
@@ -21,7 +21,7 @@
 **5 cloves garlic , smashed**   
 **1 chipotle chile**   
 **1 tbl adobo sauce**   
-**2 tsp ground cumin**   
+**2 tsp cumin**   
 **2 bay leaf**   
 **6 cup water**   
 

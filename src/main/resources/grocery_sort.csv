@@ -1,3 +1,5 @@
+allspice,isle,2,12
+allspice berries,isle,2,12
 anaheim,produce,1,0
 anaheim peppers,produce,1,0
 anjou pear,produce,1,0
@@ -11,6 +13,7 @@ basil,produce,1,0
 basil leaves,produce,1,0
 bell pepper,produce,1,0
 bibb lettuce,produce,1,0
+black peppercorns,isle,2,12
 brussels sprouts,produce,1,0
 butternut squash,produce,1,0
 carrot,produce,1,0
@@ -25,7 +28,9 @@ cilantro,produce,1,0
 corn,produce,1,0
 cucumber,produce,1,0
 cucumbers,produce,1,0
+cyanne,isle,2,12
 eggplant,produce,1,0
+fennel,produce,1,0
 fresh ginger,produce,1,0
 fresh oregano,produce,1,0
 garlic,produce,1,0
@@ -67,11 +72,13 @@ red pepper,produce,1,0
 romaine,produce,1,0
 romaine lettuce,produce,1,0
 rosemary,produce,1,0
+russet potato,produce,1,0
 sage,produce,1,0
 sage leaves,produce,1,0
 salad greens,produce,1,0
 savoy cabbage,produce,1,0
 scallion,produce,1,0
+scallions,produce,1,0
 seedless green grapes,produce,1,0
 seedless red grapes,produce,1,0
 shallot,produce,1,0

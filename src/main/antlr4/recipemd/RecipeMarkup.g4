@@ -8,8 +8,8 @@ instruction: HASH (dirText|combination|measuredAddition|measuredCompRef|addition
 
 combination: 'combine:' LBRACE (measuredAddition|measuredCompRef|addition|compRef)+ RBRACE;
 
-measuredAddition: LBRACKET amount=NUMBER unit=('item'|'sprig'|'tsp'|'tbl'|'cup'|'lbs'|'oz'|'ml'|'g'|'dash'|'cloves'|'head'|'gallon') (LBRACKET prep+=WORD+ RBRACKET)? ingredient+=WORD+ (LBRACKET postprep+=WORD+ RBRACKET)? RBRACKET;
-measuredCompRef: LBRACKET amount=NUMBER unit=('item'|'sprig'|'tsp'|'tbl'|'cup'|'lbs'|'oz'|'ml'|'g'|'dash'|'cloves'|'head'|'gallon') DOLLAR LBRACKET name+=WORD+ RBRACKET RBRACKET;
+measuredAddition: LBRACKET amount=NUMBER unit=('item'|'sprig'|'stalk'|'tsp'|'tbl'|'cup'|'lbs'|'oz'|'ml'|'g'|'dash'|'cloves'|'head'|'gallon') (LBRACKET prep+=WORD+ RBRACKET)? ingredient+=WORD+ (LBRACKET postprep+=WORD+ RBRACKET)? RBRACKET;
+measuredCompRef: LBRACKET amount=NUMBER unit=('item'|'sprig'|'stalk'|'tsp'|'tbl'|'cup'|'lbs'|'oz'|'ml'|'g'|'dash'|'cloves'|'head'|'gallon') DOLLAR LBRACKET name+=WORD+ RBRACKET RBRACKET;
 addition: LBRACKET ingredient+=WORD+ RBRACKET;
 compRef: DOLLAR LBRACKET name+=WORD+ RBRACKET;
 

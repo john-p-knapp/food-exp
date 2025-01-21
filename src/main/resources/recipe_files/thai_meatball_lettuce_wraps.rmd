@@ -1,7 +1,7 @@
 TITLE Thai Meatball Lettuce Wraps
 {[Slaw]
 # In a bowl combine:{
-[14 oz cole slaw mix]
+[14 oz coleslaw mix]
 [10 item basil leaves[, chiffonade]]
 [5 item mint leaves[, chiffonade]]
 [3 tbl cilantro[, chopped]]

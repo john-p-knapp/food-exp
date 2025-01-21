@@ -1,7 +1,7 @@
 # Thai Meatball Lettuce Wraps 
 
 ### Ingredients: 
-* 14 oz cole slaw mix
+* 14 oz coleslaw mix
 * 10 basil leaves
 * 5 mint leaves
 * 3 tbl cilantro
@@ -24,7 +24,7 @@
 
 #### Slaw {
 1. In a bowl combine:  
-**14 oz cole slaw mix**   
+**14 oz coleslaw mix**   
 **10 basil leaves , chiffonade**   
 **5 mint leaves , chiffonade**   
 **3 tbl cilantro , chopped**   

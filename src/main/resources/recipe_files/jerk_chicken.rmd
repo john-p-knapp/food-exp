@@ -6,7 +6,7 @@ TITLE Jerk Chicken
 [3 tbl fresh ginger[, roughly chopped]]
 [6 cloves garlic]
 [2 tbl thyme]
-[1 tbl ground allspice]
+[1 tbl allspice]
 [1 tsp nutmeg]
 [2 tbl brown sugar]
 [1/4 cup soy sauce]
@@ -16,7 +16,7 @@ TITLE Jerk Chicken
 [1 tbl salt]
 }
 # Blend until a semi-smooth paste. Add [1/4 cup olive oil], blend briefly.
-# Break down [1 item chicken into parts] marinate in paste for 24 hours.
+# Break down [1 item chicken] into parts marinate in paste for 24 hours.
 
 # If desired soak [1/4 cup allspice berries] and [2 cup bay leaves] in water overnight.
 # Prepare dual zone grill.

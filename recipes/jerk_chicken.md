@@ -6,7 +6,7 @@
 * 3 tbl fresh ginger
 * 6 cloves garlic
 * 2 tbl thyme
-* 1 tbl ground allspice
+* 1 tbl allspice
 * 1 tsp nutmeg
 * 2 tbl brown sugar
 * 1/4 cup soy sauce
@@ -15,7 +15,7 @@
 * 2 tsp pepper
 * 1 tbl salt
 * 1/4 cup olive oil
-* 1 chicken into parts
+* 1 chicken
 * 1/4 cup allspice berries
 * 2 cup bay leaves
 
@@ -26,7 +26,7 @@
 **3 tbl fresh ginger , roughly chopped**   
 **6 cloves garlic**   
 **2 tbl thyme**   
-**1 tbl ground allspice**   
+**1 tbl allspice**   
 **1 tsp nutmeg**   
 **2 tbl brown sugar**   
 **1/4 cup soy sauce**   
@@ -37,7 +37,7 @@
 
 
 2. Blend until a semi-smooth paste. Add **1/4 cup olive oil** , blend briefly. 
-3. Break down **1 chicken into parts** marinate in paste for 24 hours. 
+3. Break down **1 chicken** into parts marinate in paste for 24 hours. 
 4. If desired soak **1/4 cup allspice berries** and **2 cup bay leaves** in water overnight. 
 5. Prepare dual zone grill. 
 6. Scatter bay leaves and berries on the cool side of the grill. 

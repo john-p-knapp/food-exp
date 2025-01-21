@@ -5,7 +5,7 @@
 * 2 tbl light brown sugar
 * 2 bay leaf
 * 2 tbl thyme
-* 1/4 cup parsley leaves
+* 1/4 cup parsley
 * 1 tsp black peppercorns
 * 32 oz duck legs
 *  duck fat
@@ -18,7 +18,7 @@
 **2 tbl light brown sugar**   
 **2 bay leaf , broken into pieces**   
 **2 tbl chopped thyme**   
-**1/4 cup parsley leaves**   
+**1/4 cup parsley**   
 **1 tsp black peppercorns**   
 
 
