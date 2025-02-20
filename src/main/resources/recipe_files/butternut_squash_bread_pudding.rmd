@@ -7,12 +7,14 @@ TITLE Butternut Squash  Bread Pudding
 # Reduce oven temperature to 350F.
 # Meanwhile dice [1 cup onion] and saute until transulcent and tender.
 # Add [1 cloves garlic [, minced]] to the onion. Saute until fragrant.
-# Remove onion and garlic from head a cool slightly.  
-# In a large bowl combine: {[2 cup milk]
+# Remove onion and garlic from heat a cool slightly.  
+# In a large bowl combine: {
+	[2 cup milk]
     [2 oz [grated] parmigiano]
     [1/4 tsp pepper]
     [1/8 tsp nutmeg]
-    [6 item eggs]}
+    [6 item eggs]
+}
 # Mix well. 
 # Cut [8 oz multigrain bread] in one inch cubes. Roughly nine cups. 
 # Add onion mixture, bread, and roasted squash to the bowl. Mix and let stand for 10 minutes.
