@@ -1,23 +1,17 @@
  TITLE Tofu Larb
-    # Drain and press [28 oz extra-firm tofu]
+
+ # Drain and press [28 oz extra-firm tofu]
     
-    {[Rice Powder]
+ {[Rice Powder]
     # In a small skillet toast [3 tbl jasmine rice] until golden
     # Transfer to a morter and grind into a coarse powder.
-    }
+ }
+ 
+ {[Dressing]
+    # In a small bowl combine:{[4 tbl fresh lime juice][3 tbl brown sugar][2 tbl tamari][1 item bird's eye chili[, finely chopped]][1 item lemongrass[, finely chopped]][1 item shallot[, finely chopped]]}
+ }      
+
+# Chop [1/3 cup mint][1/3 cup thai basil][1/3 cup cilantro]
+# Combine [4 cup spinach], tofu, herbs. 
+# Top with $[Dressing], $[Rice Powder] and [1/4 cup crispy fried shallots]
     
-        3tablespoons uncooked glutinous (sticky) or 
-        
-        1tablespoon neutral oil, such as grapeseed or vegetable
-        1lemongrass stem, outer layer removed, tender stem finely chopped
-        1shallot, halved and thinly sliced
-        4makrut lime leaves (optional), thinly sliced
-        1cup mixed soft herbs, such as mint, Thai basil, basil, cilantro and chopped scallions
-        1teaspoon kosher salt, plus more as needed
-        1head butter lettuce, leaves separated
-        ¼cup store-bought crispy fried shallots or onions
-    For the Dressing
-        4tablespoons fresh lime juice (from about 2 limes)
-        3tablespoons dark or light brown sugar
-        2tablespoons soy sauce or tamari
-        ½teaspoon red-pepper flakes or ½ to 1 red chile, such as bird’s eye, finely chopped

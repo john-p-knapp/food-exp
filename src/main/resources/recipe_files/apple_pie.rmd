@@ -5,7 +5,7 @@ TITLE Apple Pie
 
 {[Filling]
 # Peal and slice apples into quarter inch slices. 
-# In a large bowl combine:{[775 g [sliced] apples] [115 g sugar] [1/4 tsp salt] [1/2 tsp cinnamon] [1/8 tsp nutmeg] [1 tbl lemon juice]}. 
+# In a large bowl combine:{[775 g [sliced] apples] [115 g sugar] [1/4 tsp salt] [1/2 tsp cinnamon] [1/8 tsp nutmeg] [1 tbl lemon juice]} 
 # Stir and maccerate apples for 30 minutes.
 # Stir in [15 g tapioca starch]
 }

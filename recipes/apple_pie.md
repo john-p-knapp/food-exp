@@ -28,7 +28,7 @@
 **1/8 tsp nutmeg**   
 **1 tbl lemon juice**   
 
-. 
+
 3. Stir and maccerate apples for 30 minutes. 
 4. Stir in **15 g tapioca starch** 
 

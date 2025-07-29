@@ -31,4 +31,4 @@
 . Refrigerate for 30 minutes. 
 2. Preheat oven to 400F. 
 3. Add **2 cup cherry tomatoes** to the baking dish. 
-4. Bake 
+4. Bake. 
