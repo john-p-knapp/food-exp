@@ -12,8 +12,9 @@ TITLE Coconut Chicken and Tomatoes
 [24 oz chicken breast]
 [2 tbl lime juice]
 [1.5 tsp salt]
-}. Refrigerate for 30 minutes.
+}
 
+# Refrigerate for 30 minutes.
 # Preheat oven to 400F.
 # Add [2 cup cherry tomatoes] to the baking dish.  
 # Bake.

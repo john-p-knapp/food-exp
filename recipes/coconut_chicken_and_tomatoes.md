@@ -28,7 +28,8 @@
 **2 tbl lime juice**   
 **1.5 tsp salt**   
 
-. Refrigerate for 30 minutes. 
-2. Preheat oven to 400F. 
-3. Add **2 cup cherry tomatoes** to the baking dish. 
-4. Bake. 
+
+2. Refrigerate for 30 minutes. 
+3. Preheat oven to 400F. 
+4. Add **2 cup cherry tomatoes** to the baking dish. 
+5. Bake. 
