@@ -3,13 +3,18 @@ package recipemd.dynalist.request;
 import java.util.List;
 import java.util.stream.Collectors;
 
-import lombok.AllArgsConstructor;
-
-@AllArgsConstructor
 public class DocumentMod {
-	String token;
-	String file_id;
-	List<Change> changes;
+
+	private final String token;
+	private final String file_id;
+	private final List<Change> changes;
+
+	public DocumentMod(String token, String file_id, List<Change> changes) {
+		super();
+		this.token = token;
+		this.file_id = file_id;
+		this.changes = changes;
+	}
 
 	public String getJSON() {
 		StringBuffer buffer = new StringBuffer();

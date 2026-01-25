@@ -1,12 +1,15 @@
 package recipemd.dynalist.request;
 
-import lombok.AllArgsConstructor;
-
-@AllArgsConstructor
 public class DocumentRequest {
-	
+
 	private String token;
 	private String file_id;
+
+	public DocumentRequest(String token, String file_id) {
+		super();
+		this.token = token;
+		this.file_id = file_id;
+	}
 
 	public String getJSON() {
 		StringBuffer buffer = new StringBuffer();
