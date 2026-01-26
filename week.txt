@@ -1,5 +1,1 @@
 always.rmd
-santa_fe_meatloaf.rmd
-thai_pineapple_peanut_chicken_satay.rmd
-bo_ssam.rmd
-spicy_tofu_burgers.rmd
