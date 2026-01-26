@@ -1,7 +1,7 @@
 # Tofu Larb 
 
 ### Ingredients: 
-* 28 oz extra-firm tofu
+* 28 oz extra firm tofu
 * 3 tbl jasmine rice
 * 4 tbl fresh lime juice
 * 3 tbl brown sugar
@@ -16,7 +16,7 @@
 * 1/4 cup crispy fried shallots
 
 ### Directions: 
-1. Drain and press **28 oz extra-firm tofu** 
+1. Drain and press **28 oz extra firm tofu** 
 
 #### Rice Powder {
 2. In a small skillet toast **3 tbl jasmine rice** until golden 

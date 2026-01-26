@@ -5,7 +5,7 @@
 *  oil
 * 1 tbl garlic
 * 1.5 tbl chili powder
-* 1 tbl minced garlic
+* 1 tbl garlic
 * 1.5 tsp cumin
 * 15 oz great northern beans
 * 1 tsp dried oregano

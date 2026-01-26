@@ -13,7 +13,7 @@
 * 1 tbl cumin
 * 1 tsp coriander
 * 4 cup chicken stock
-* 2 lbs boneless skinless chicken breast
+* 2 lbs chicken breast
 * 8 oz jack cheese
 * 1/2 cup cilantro
 * 2 tbl lime juice
@@ -31,7 +31,7 @@
 9. Add **1 tbl cumin** and **1 tsp coriander** . Bloom. 
 10. Add blended chili puree. Rinse blender with **4 cup chicken stock** and add to the pot. 
 11. Drain and rinse the beans. Add to the pot. 
-12. Add **2 lbs boneless skinless chicken breast** to the pot. Bring to a simmer. 
+12. Add **2 lbs chicken breast** to the pot. Bring to a simmer. 
 13. When the chicken reaches 150F remove it from the pot and set aside. 
 14. Continue to cook the beans until they are tender. Approximately one hour. 
 15. Remove 1.5 cups of the beans and liquid and blend until smooth return to the pot. 

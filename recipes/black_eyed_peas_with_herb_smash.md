@@ -15,7 +15,7 @@
 * 2 cup cilantro
 * 2 green chiles
 * 2 cloves garlic
-* 1 oz shelled walnuts
+* 1 oz walnuts
 * 1 tbl honey
 * 1 tbl olive oil
 * 1/2 lemon
@@ -41,7 +41,7 @@
 **2 cup cilantro**   
 **2 green chiles**   
 **2 cloves garlic**   
-**1 oz shelled walnuts**   
+**1 oz walnuts**   
 **1 tbl honey**   
 **1 tbl olive oil**   
 **1/2 lemon**   

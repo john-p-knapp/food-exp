@@ -10,11 +10,11 @@
 * 1/4 tsp red pepper flakes
 * 2 bay leaves
 * 4 strips lemon zest
-* 8 thyme sprigs
+* 8 sprig thyme
 * 1 cup chicken stock
 
 ### Directions: 
-1. **3 cup fennel** **12 chicken thighs** **1 cup coarsely chopped onion** **1 tbl finely chopped garlic** **1/4 cup dry white wine** **1 cup green olives** **1/4 tsp red pepper flakes** **2 bay leaves** **4 strips lemon zest** **8 thyme sprigs** **1 cup chicken stock** 
+1. **3 cup fennel** **12 chicken thighs** **1 cup coarsely chopped onion** **1 tbl finely chopped garlic** **1/4 cup dry white wine** **1 cup green olives** **1/4 tsp red pepper flakes** **2 bay leaves** **4 strips lemon zest** **8 sprig thyme** **1 cup chicken stock** 
 2. Olives, here big fleshy green Ascolanes from Italy, and fennel are an extraordinary pairing with chicken. In this one-pot dish, we use only the thighs, the most flavorful part of the chicken. 
 3. The seared chicken is braised in chicken stock on a bed of fennel, onion, and garlic, with strips of lemon zest. The stock picks up the lemon and fennel flavors and becomes concentrated and rich. Here the flavors are Mediterranean, but the technique itself can be taken in any number of seasoning directions. 
 4. Cut off the fennel stalks. Trim the bottom of the bulbs and peel back the Layers until you reach the core; reserve the core for another use. Discard any bruised layers, and cut the fennel into 2-by-1/2-inch batons. You need 3 cups fennel for this recipe; reserve any remaining fennel for another use. 
