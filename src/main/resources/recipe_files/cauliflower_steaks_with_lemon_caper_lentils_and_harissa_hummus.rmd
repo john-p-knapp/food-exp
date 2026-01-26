@@ -10,8 +10,8 @@ TITLE Cauliflower Steaks with Lemon-Caper Lentils and Harissa Hummus
 }
 
 {[Cauliflower Steaks]
-# Preheat oven to 425°F. 
-# Clean [1 item cauliflower] and cut into steaks. Place steaks and any stray florets on a rimmed baking sheet; Brush with [2 tbl oil], and season with [salt], and [pepper]. 
+# Preheat oven to 425F. 
+# Clean [1 head cauliflower] and cut into steaks. Place steaks and any stray florets on a rimmed baking sheet; Brush with [2 tbl oil], and season with [salt], and [pepper]. 
 # Bake for 15 minutes and then carefully flip the steaks; and bake for 10-15 minutes more. 
 # Brush with [2 tbl harissa]; bake for 5 minutes.
 }

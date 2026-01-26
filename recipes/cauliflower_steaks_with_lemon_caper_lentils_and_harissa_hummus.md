@@ -7,7 +7,7 @@
 * 2 tbl capers
 *  salt
 *  pepper
-* 1 cauliflower
+* 1 head cauliflower
 * 2 tbl oil
 *  salt
 *  pepper
@@ -36,8 +36,8 @@
 
 
 #### Cauliflower Steaks {
-1. Preheat oven to 425 F. 
-2. Clean **1 cauliflower** and cut into steaks. Place steaks and any stray florets on a rimmed baking sheet; Brush with **2 tbl oil** , and season with **salt** , and **pepper** . 
+1. Preheat oven to 425F. 
+2. Clean **1 head cauliflower** and cut into steaks. Place steaks and any stray florets on a rimmed baking sheet; Brush with **2 tbl oil** , and season with **salt** , and **pepper** . 
 3. Bake for 15 minutes and then carefully flip the steaks; and bake for 10-15 minutes more. 
 4. Brush with **2 tbl harissa** ; bake for 5 minutes. 
 

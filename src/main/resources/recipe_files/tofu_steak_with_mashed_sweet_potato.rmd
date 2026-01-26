@@ -1,0 +1,32 @@
+TITLE Tofu Steak with Mashed Sweet Potato
+
+{[Tofu]
+# Press [15 oz extra firm tofu] and slice into 8 slabs.
+
+# In a shallow dish that will hold the tofu combine:{
+[2 tbl tamari]
+[2 tbl maple syrup]
+[2 tbl mirin]
+[1 tbl toasted sesame oil]
+[1 tbl barbecue sauce]
+[1 tbl sriracha]
+[1 cloves garlic[, crushed]]
+[1 tsp garlic powder]
+[1/2 tsp liquid smoke]
+[1/2 tsp salt]
+[1/4 tsp freshly ground black pepper]
+}
+
+# Place tofu slices in the dish and toss to coat. Marinate for at least 15 minutes. 
+# Pan fry tofu. 
+}
+
+{[Sweet Potato Mash]
+# Peel and cube [2 lbs sweet potatoes].
+# Gently boil sweet potatoes until very tender.
+# Drain and add: [1 tsp salt], [1/4 cup milk], [3 tbl butter]. 
+# Mash and stir to combine. 
+# Season with [salt] and [pepper].
+}
+
+# Serve tofu over a bed of sweet potato mash. Brush tofu with extra marinade if desired.
