@@ -1,0 +1,24 @@
+TITLE Cauliflower Steaks with Lemon-Caper Lentils and Harissa Hummus
+
+
+{[Lentils] 
+# Rinse [1 cup black lentils]. 
+# In a medium saucepan, combine lentils and [3 cup vegetable broth]; bring to a boil. 
+# Reduce heat and simmer, partially covered, until lentils are soft, 30–40 minutes. 
+# Stir in [1 tbl lemon juice] and [2 tbl capers]. 
+# Season to taste with [salt] and [pepper].
+}
+
+{[Cauliflower Steaks]
+# Preheat oven to 425°F. 
+# Clean [1 item cauliflower] and cut into steaks. Place steaks and any stray florets on a rimmed baking sheet; Brush with [2 tbl oil], and season with [salt], and [pepper]. 
+# Bake for 15 minutes and then carefully flip the steaks; and bake for 10-15 minutes more. 
+# Brush with [2 tbl harissa]; bake for 5 minutes.
+}
+
+{[Harrisa Hummus]
+# In a food processor or blender combine:{[2 tbl harissa] [2 cloves garlic] [2 tbl lemon juice] [3 tbl oil] [1/2 tsp salt] [1/4 tsp pepper]} ; blend until smooth.
+}
+
+# Divide harissa hummus evenly among each of 4 plates. Top with lentils and cauliflower. Brush with additional [harissa] over cauliflower, if desired. 
+# Garnish with [1/4 cup mint], [1/4 cup pine nuts], and an extra drizzle of [olive oil].
