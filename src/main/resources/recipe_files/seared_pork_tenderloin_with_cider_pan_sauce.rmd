@@ -1,0 +1,20 @@
+TITLE Seared Pork Tenderloin with Cider Pan Sauce
+
+# Preheat the oven to 350F. Line a large rimmed baking sheet with aluminum foil; set aside.
+
+{[Glaze]
+# In a small bowl combine:{[1 tbl worcestershire sauce] [1/2 tsp [grated] garlic] [1 tbl avocado oil] [1 tbl coarse dijon mustard] [2 tsp [finely chopped] thyme] [1/2 tsp pepper]}
+# Whisk until smooth.
+}
+
+# Trim [2.5 lbs pork tenderloin]. Pat and season with [2 tsp salt] and [1/2 tsp pepper]; set aside.
+# Sear pork on all sides until well browned. Transfer to baking sheet. Do not wipe skillet.
+@ Brush with pork with $[glaze] and bake util rosy pink (135F). 
+
+# While the pork bakes, melt [1 tbl [cold] unsalted butter] in the reserved skillet over medium-low. Add [2 tbl [finely chopped] shallot], [2 item allspice], [2 item whole clove], [2 item juniper berries] (if using), [1 tsp thyme] and [1/4 tsp black pepper]. Cook, stirring constantly, until the shallot is softened, about 1 minute.
+
+# Add [3 tbl apple cider vinegar] and cook, scraping the bottom of the skillet to release any browned bits, until nearly evaporated. Add [1 cup apple cider], [1 tbl coarse dijon mustard] and [1/2 tsp salt].
+
+# Bring to a simmer over medium-high and cook, stirring occasionally, until the sauce thickens and reduces to roughly a third of its original volume, about 8 minutes. Remove from the heat; discard the whole spices. Vigorously stir in [1 tbl [finely chopped] chives] and [2 tbl [cold] unsalted butter] until the sauce is glossy and emulsified, about 1 minute.
+
+# Transfer the pork to a cutting board and cut into 1/2-inch-thick slices. Transfer to a platter and spoon the cider sauce over top. Garnish with additional chives.

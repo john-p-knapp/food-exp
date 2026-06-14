@@ -31,8 +31,15 @@ LINK https://source-url            (optional)
 
 - **Units are a closed set:** `item sprig stalk tsp tbl cup lbs oz ml g dash
   cloves head gallon`. Map web units: tablespoon→tbl, teaspoon→tsp, pound→lbs,
-  clove→cloves, pinch→dash. No `bunch / can / package / slice / to taste` —
+  clove→cloves, pinch→dash. No `bunch / package / slice / to taste` —
   rework, or use a bare unmeasured `[name]`.
+- **Keep volume as volume — never convert to weight.** A `cup` (or tsp/tbl)
+  measure maps straight to the `cup` unit; do NOT substitute a guessed gram/oz
+  weight. E.g. `4 cups baby arugula` → `[4 cup baby arugula]`, not `[3 oz ...]`.
+- **Cans → `oz` via the labeled size.** A can/jar is sized by the weight printed
+  on it, so map it to `oz` using that number, multiplying by the count.
+  E.g. `2 (14-ounce) cans cannellini beans` → `[28 oz cannellini beans]`;
+  `1 (15-ounce) can chickpeas` → `[15 oz chickpeas]`.
 - **Unit words are reserved keywords — never use them in prose.** The unit set
   above only tokenizes legally *inside* a bracketed amount. Writing one in
   directions text (e.g. `...and 3 tbl more flour`) fails to parse. So an
