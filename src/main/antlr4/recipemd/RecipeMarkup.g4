@@ -36,7 +36,7 @@ RBRACE: '}';
 DOLLAR: '$';
 STAR: '*';
 HASH : '#';
-NUMBER : ( DIGIT+ (. DIGIT+)?) | (DIGIT+ '/' DIGIT+);
+NUMBER : ( DIGIT+ ('.' DIGIT+)?) | (DIGIT+ '/' DIGIT+);
 
 WORD : (LETTER|DIGIT|PUNC)+ ;
 
