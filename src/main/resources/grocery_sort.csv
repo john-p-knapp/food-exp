@@ -1,5 +1,8 @@
 allspice,isle,2,12
+
+red pepper flake,isle,2,12
 allspice berries,isle,2,12
+arugula,produce,1,0
 anaheim,produce,1,0
 anaheim peppers,produce,1,0
 anjou pear,produce,1,0
@@ -28,11 +31,12 @@ cilantro,produce,1,0
 corn,produce,1,0
 cucumber,produce,1,0
 cucumbers,produce,1,0
+aleppo,isle,2,12
 cyanne,isle,2,12
 eggplant,produce,1,0
 fennel,produce,1,0
-fresh ginger,produce,1,0
-fresh oregano,produce,1,0
+ginger,produce,1,0
+oregano,produce,1,0
 garlic,produce,1,0
 ginger,produce,1,0
 grape tomatoes,produce,1,0
@@ -59,6 +63,7 @@ mango,produce,1,0
 mint,produce,1,0
 mint leaves,produce,1,0
 mushrooms,produce,1,0
+sweet onion,produce,1,0
 onion,produce,1,0
 oregano,produce,1,0
 parsley,produce,1,0
@@ -129,6 +134,7 @@ cannellini beans,isle,2,6
 chicken stock,isle,2,6
 chickpeas,isle,2,6
 green lentils,isle,2,6
+black lentils,isle,2,6
 kidney beans,isle,2,6
 marinated artichoke hearts,isle,2,6
 navy beans,isle,2,6
@@ -278,6 +284,7 @@ asiago cheese,dairy,3,0
 butter,dairy,3,0
 cheddar,dairy,3,0
 cheddar cheese,dairy,3,0
+monterey jack,dairy,3,0
 cottage cheese,dairy,3,0
 cream cheese,dairy,3,0
 egg,dairy,3,0
@@ -296,6 +303,7 @@ kalamata olives,dairy,3,0
 large eggs,dairy,3,0
 mexican cheese,dairy,3,0
 milk,dairy,3,0
+orange juice,dairy,3,0
 monterey jack cheese,dairy,3,0
 mozzarella cheese,dairy,3,0
 olives,dairy,3,0

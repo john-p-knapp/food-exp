@@ -13,7 +13,7 @@
 * 1/2 cup red onion
 * 1/4 cup mayonnaise
 * 1 tbl red wine vinegar
-* 1 tbl fresh orange juice
+* 1 tbl orange juice
 * 1/4 tsp salt
 *  salad greens
 * 1/4 cup peacans
@@ -36,7 +36,7 @@
 **1/2 cup thinly sliced red onion**   
 **1/4 cup mayonnaise**   
 **1 tbl red wine vinegar**   
-**1 tbl fresh orange juice**   
+**1 tbl orange juice**   
 **1/4 tsp salt**   
 
 

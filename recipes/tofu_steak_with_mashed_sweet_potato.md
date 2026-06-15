@@ -12,7 +12,7 @@
 * 1 tsp garlic powder
 * 1/2 tsp liquid smoke
 * 1/2 tsp salt
-* 1/4 tsp freshly ground black pepper
+* 1/4 tsp pepper
 * 2 lbs sweet potatoes
 * 1 tsp salt
 * 1/4 cup milk
@@ -35,7 +35,7 @@
 **1 tsp garlic powder**   
 **1/2 tsp liquid smoke**   
 **1/2 tsp salt**   
-**1/4 tsp freshly ground black pepper**   
+**1/4 tsp pepper**   
 
 
 3. Place tofu slices in the dish and toss to coat. Marinate for at least 15 minutes. 

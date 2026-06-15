@@ -4,7 +4,7 @@
 ### Ingredients: 
 * 14 oz extra firm tofu
 * 12 oz snap peas
-* 2 tbl fresh ginger
+* 2 tbl ginger
 * 2 cloves garlic
 * 1/2 cup cashew nuts
 * 1 tbl soy sauce
@@ -25,7 +25,7 @@
 #### Mis en place {
 1. Press **14 oz extra firm tofu** . 
 2. Trim **12 oz snap peas** . 
-3. Grate **2 tbl fresh ginger** and **2 cloves garlic** . 
+3. Grate **2 tbl ginger** and **2 cloves garlic** . 
 4. Toast and chop **1/2 cup cashew nuts** 
 5. In a small prep bowl combine:  
 **1 tbl soy sauce**   
@@ -44,4 +44,5 @@
 6. Heat **1 tbl oil** in the pan and cook the ginger and garlic until fragrant. 
 7. Pour in **14 oz coconut milk** , soy sauce mixture. Simmer, stirring frequently until the sauce reduces and its color deepens. It should coat a spoon. 
 8. Add tofu and cashews to the pan and combine. 
-9. Toss the snap peas with **1 tbl rice vinegar** , scallions, mint and 1/2 
+9. Toss the snap peas with **1 tbl rice vinegar** , scallions, mint and 1/2 tsp red pepper flakes. 
+10. Serve tofu with snap peas and rice. 

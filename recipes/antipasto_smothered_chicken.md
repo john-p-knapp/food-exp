@@ -6,7 +6,7 @@
 * 1/3 cup salami
 * 1/4 cup pepperoncini
 * 2 tbl red wine vinegar
-* 1 tbl fresh oregano
+* 1 tbl oregano
 * 1 lbs chicken breast
 * 1/2 tsp pepper
 *  salt
@@ -15,7 +15,7 @@
 ### Directions: 
 
 #### Antipasto Mix {
-1. In a bowl combine, **2 tbl olive oil** , **1/3 cup chopped marinated artichoke hearts** , **1/3 cup chopped salami** , **1/4 cup chopped pepperoncini** , and **2 tbl red wine vinegar** , and **1 tbl chopped fresh oregano** 
+1. In a bowl combine, **2 tbl olive oil** , **1/3 cup chopped marinated artichoke hearts** , **1/3 cup chopped salami** , **1/4 cup chopped pepperoncini** , and **2 tbl red wine vinegar** , and **1 tbl chopped oregano** 
 
 }
 

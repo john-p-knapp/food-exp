@@ -3,7 +3,7 @@
 ### Ingredients: 
 * 3 scotch bonnet peppers
 * 6 scallions
-* 3 tbl fresh ginger
+* 3 tbl ginger
 * 6 cloves garlic
 * 2 tbl thyme
 * 1 tbl allspice
@@ -23,7 +23,7 @@
 1. In a blender combine:  
 **3 scotch bonnet peppers , seeded**   
 **6 scallions , roughly chopped**   
-**3 tbl fresh ginger , roughly chopped**   
+**3 tbl ginger , roughly chopped**   
 **6 cloves garlic**   
 **2 tbl thyme**   
 **1 tbl allspice**   

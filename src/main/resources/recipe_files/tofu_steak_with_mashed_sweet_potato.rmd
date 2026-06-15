@@ -14,7 +14,7 @@ TITLE Tofu Steak with Mashed Sweet Potato
 [1 tsp garlic powder]
 [1/2 tsp liquid smoke]
 [1/2 tsp salt]
-[1/4 tsp freshly ground black pepper]
+[1/4 tsp pepper]
 }
 
 # Place tofu slices in the dish and toss to coat. Marinate for at least 15 minutes. 

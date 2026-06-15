@@ -16,13 +16,13 @@
 *  salt
 * 1 cup celery
 * 1 cup carrot
-* 1/3 cup sweet apple
+* 1/3 cup apple
 * 1/3 cup raisins
 * 1/2 cup oat flour
 * 3/4 cup breadcrumbs
 * 2 tsp thyme
 *  pepper
-*  allepo
+*  aleppo
 
 ### Directions: 
 
@@ -37,13 +37,13 @@
 4. Increase the oven temperature to 350F. 
 5. Whisk **3 tbl ground flax** with **1/2 cup water** in a small bowl and set aside. 
 6. Saute **3 cloves garlic , minced** and **1.5 cup diced sweet onion** until softened; season with **salt** . 
-7. Add **1 cup diced celery** , **1 cup grated carrot** , **1/3 cup peeled and grated sweet apple** and **1/3 cup raisins** , and saut about 5 minutes more. Remove from the heat. 
+7. Add **1 cup diced celery** , **1 cup grated carrot** , **1/3 cup peeled and grated apple** and **1/3 cup raisins** , and saute about 5 minutes more. Remove from the heat. 
 8. In a large mixing bowl combine:  
 **1/2 cup oat flour**   
 **3/4 cup breadcrumbs**   
 **2 tsp thyme**   
 **pepper**   
-**allepo**   
+**aleppo**   
 
 
 9. Add the cooked lentils, toasted nuts, flax mixture and sauteed vegetables; mix. 

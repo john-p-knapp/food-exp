@@ -2,10 +2,10 @@
 
 ### Ingredients: 
 * 3/4 cup coconut milk
-* 1.5 tbl fresh ginger
+* 1.5 tbl ginger
 * 1 cloves garlic
 * 1/2 tsp turmeric
-* 1/2 tsp allepo
+* 1/2 tsp aleppo
 * 1 tbl honey
 * 1/2 cup cilantro
 * 2 tsp lime zest
@@ -17,10 +17,10 @@
 ### Directions: 
 1. In a glass baking dish combine:  
 **3/4 cup coconut milk**   
-**1.5 tbl fresh ginger , grated**   
+**1.5 tbl ginger , grated**   
 **1 cloves garlic , grated**   
 **1/2 tsp turmeric**   
-**1/2 tsp allepo**   
+**1/2 tsp aleppo**   
 **1 tbl honey**   
 **1/2 cup chopped cilantro**   
 **2 tsp lime zest**   

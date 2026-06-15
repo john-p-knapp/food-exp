@@ -13,7 +13,7 @@
 *  olive oil
 *  salt
 * 1/2 cup white wine
-* 1/4 tsp allepo
+* 1/4 tsp aleppo
 *  eggs
 
 ### Directions: 
@@ -31,6 +31,6 @@
 7. Before serving, remove the thyme sprigs and gently warm the beans over low heat. 
 8. Prep **2 head kale** by washing and cutting into ribbons. 
 9. Saute kale with **olive oil** and **salt** until bright in color and starting to soften. 
-10. Add **1/2 cup white wine** and **1/4 tsp allepo** . Let the wine evaporate by roughly half. 
+10. Add **1/2 cup white wine** and **1/4 tsp aleppo** . Let the wine evaporate by roughly half. 
 11. Fry **eggs** (or preparation of your choosing). 
 12. Dish the beans into bowls, nestle a scoop of greens and an egg on top. 

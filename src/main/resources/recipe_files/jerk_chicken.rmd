@@ -3,7 +3,7 @@ TITLE Jerk Chicken
 # In a blender combine:{
 [3 item scotch bonnet peppers[, seeded]]
 [6 item scallions[, roughly chopped]]
-[3 tbl fresh ginger[, roughly chopped]]
+[3 tbl ginger[, roughly chopped]]
 [6 cloves garlic]
 [2 tbl thyme]
 [1 tbl allspice]

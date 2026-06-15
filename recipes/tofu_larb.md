@@ -3,7 +3,7 @@
 ### Ingredients: 
 * 28 oz extra firm tofu
 * 3 tbl jasmine rice
-* 4 tbl fresh lime juice
+* 4 tbl lime juice
 * 3 tbl brown sugar
 * 2 tbl tamari
 * 1 bird's eye chili
@@ -27,7 +27,7 @@
 
 #### Dressing {
 1. In a small bowl combine:  
-**4 tbl fresh lime juice**   
+**4 tbl lime juice**   
 **3 tbl brown sugar**   
 **2 tbl tamari**   
 **1 bird's eye chili , finely chopped**   

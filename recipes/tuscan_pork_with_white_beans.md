@@ -1,8 +1,8 @@
 # Tuscan Pork and White Beans 
 
 ### Ingredients: 
-* 1 lbs canillini beans
-* 2 tbl fresh sage
+* 1 lbs cannellini beans
+* 2 tbl sage
 * 4 tsp salt
 * 2 tsp ground fennel
 * 16 cloves garlic
@@ -11,10 +11,10 @@
 * 4 bay leaves
 
 ### Directions: 
-1. Pick over **1 lbs canillini beans** , cover with water, salt liberally. Let soak overnight. 
+1. Pick over **1 lbs cannellini beans** , cover with water, salt liberally. Let soak overnight. 
 2. Rinse beans and place in a large dutch oven; 
 3. In a bowl combine:  
-**2 tbl fresh sage , minced**   
+**2 tbl sage , minced**   
 **4 tsp salt**   
 **2 tsp ground fennel**   
 **16 cloves garlic , minced**   

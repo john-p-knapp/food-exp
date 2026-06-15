@@ -6,7 +6,7 @@
 * 2 cloves garlic
 * 1 cup cherry tomatoes
 * 1 tsp dried oregano
-* 1/2 tsp red chile flakes
+* 1/2 tsp red pepper flakes
 * 1 tsp salt
 * 1/4 cup olive oil
 * 1 lbs hot italian suasage
@@ -19,7 +19,7 @@
 3. On a sheet tray add sliced veg and combine:  
 **1 cup cherry tomatoes**   
 **1 tsp dried oregano**   
-**1/2 tsp red chile flakes**   
+**1/2 tsp red pepper flakes**   
 **1 tsp salt**   
 **1/4 cup olive oil**   
 
