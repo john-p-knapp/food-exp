@@ -4,7 +4,7 @@ TITLE Cauliflower Steaks with Lemon-Caper Lentils and Harissa Hummus
 {[Lentils] 
 # Rinse [1 cup black lentils]. 
 # In a medium saucepan, combine lentils and [3 cup vegetable broth]; bring to a boil. 
-# Reduce heat and simmer, partially covered, until lentils are soft, 30–40 minutes. 
+# Reduce heat and simmer, partially covered, until lentils are soft, 30-40 minutes. 
 # Stir in [1 tbl lemon juice] and [2 tbl capers]. 
 # Season to taste with [salt] and [pepper].
 }

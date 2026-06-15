@@ -7,10 +7,8 @@ into Markdown under `recipes/` and into a sorted Dynalist grocery list.
 ## Converting web recipes to .rmd
 
 When asked to convert a recipe into `.rmd`, write the file to
-`src/main/resources/recipe_files/<slug>.rmd` and then **stop**. Boundaries:
+`src/main/resources/recipe_files/<slug>.rmd`. Boundaries:
 
-- **Only write the `.rmd`.** Do NOT run the formatter or generate the `.md` —
-  a separate pipeline trigger handles the `.rmd`→`.md` conversion.
 - **Do NOT check or update `grocery_sort.csv`.** The maintainer does this
   explicitly, on request only.
 - **Prefer pasted recipe text.** Many recipe sites block automated fetches

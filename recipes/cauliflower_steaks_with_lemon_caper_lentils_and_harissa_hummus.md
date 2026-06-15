@@ -28,7 +28,7 @@
 #### Lentils {
 1. Rinse **1 cup black lentils** . 
 2. In a medium saucepan, combine lentils and **3 cup vegetable broth** ; bring to a boil. 
-3. Reduce heat and simmer, partially covered, until lentils are soft, 30–40 minutes. 
+3. Reduce heat and simmer, partially covered, until lentils are soft, 30-40 minutes. 
 4. Stir in **1 tbl lemon juice** and **2 tbl capers** . 
 5. Season to taste with **salt** and **pepper** . 
 
