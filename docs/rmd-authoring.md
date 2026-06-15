@@ -40,14 +40,17 @@ LINK https://source-url            (optional)
   on it, so map it to `oz` using that number, multiplying by the count.
   E.g. `2 (14-ounce) cans cannellini beans` → `[28 oz cannellini beans]`;
   `1 (15-ounce) can chickpeas` → `[15 oz chickpeas]`.
-- **Unit words are reserved keywords — never use them in prose.** The unit set
-  above only tokenizes legally *inside* a bracketed amount. Writing one in
-  directions text (e.g. `...and 3 tbl more flour`) fails to parse. So an
-  `X plus Y` quantity must be folded into a single bracketed amount: **combine
-  the two parts in the smaller unit** (1 tbl = 3 tsp; 1 cup = 16 tbl = 48 tsp).
-  Examples: `1 tablespoon plus 1 teaspoon` → `[4 tsp ...]`;
-  `1/2 cup plus 3 tablespoons` → `[11 tbl ...]`. If the sum isn't whole, express
-  it as a decimal (see next).
+- **Unit words read fine as ordinary text.** Words like `cup`, `head`, `g`,
+  `cloves` parse normally in directions prose and inside ingredient names
+  (e.g. "let the head rest", `[1 head lettuce]`, `[6 oz ground cloves]`). The
+  closed unit set is still enforced *only* in the `amount unit` slot — a bad
+  unit there (e.g. `[1 bunch kale]`) still fails to parse.
+- **A bracketed addition has exactly one `amount unit` slot.** So an `X plus Y`
+  quantity can't be two measures in one bracket — fold it into a single
+  bracketed amount by **combining the two parts in the smaller unit** (1 tbl =
+  3 tsp; 1 cup = 16 tbl = 48 tsp). Examples: `1 tablespoon plus 1 teaspoon` →
+  `[4 tsp ...]`; `1/2 cup plus 3 tablespoons` → `[11 tbl ...]`. If the sum isn't
+  whole, express it as a decimal (see next).
 - **Amount is ONE token, never a mixed number.** A bracketed amount must be a
   single value: an integer (`3`), a decimal (`1.5`), or a simple proper fraction
   (`1/2`, `2/3`, `1/4`). `1 1/2` is two tokens and will not parse.

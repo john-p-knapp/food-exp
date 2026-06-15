@@ -6,9 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.atomic.AtomicInteger;
 
-import org.antlr.v4.runtime.Token;
 import org.antlr.v4.runtime.tree.ParseTree;
-import org.antlr.v4.runtime.tree.TerminalNode;
 
 import recipemd.RecipeMarkupParser.AdditionContext;
 import recipemd.RecipeMarkupParser.CombinationContext;
@@ -24,6 +22,7 @@ import recipemd.RecipeMarkupParser.NoteContext;
 import recipemd.RecipeMarkupParser.RecipeContext;
 import recipemd.RecipeMarkupParser.TagEntryContext;
 import recipemd.RecipeMarkupParser.TitleEntryContext;
+import recipemd.RecipeMarkupParser.WordContext;
 
 public class MarkdownConverter extends RecipeMarkupBaseListener {
 
@@ -182,7 +181,7 @@ public class MarkdownConverter extends RecipeMarkupBaseListener {
 	@Override
 	public void enterTitleEntry(TitleEntryContext ctx) {
 		write("# ");
-		for (TerminalNode node : ctx.WORD()) {
+		for (WordContext node : ctx.word()) {
 			write(node.getText());
 			write(" ");
 		}
@@ -275,13 +274,13 @@ public class MarkdownConverter extends RecipeMarkupBaseListener {
 		}
 	}
 
-	private String getText(List<Token> tokens) {
-		Token t;
+	private String getText(List<WordContext> words) {
+		WordContext w;
 		StringBuilder sb = new StringBuilder();
-		int size = tokens.size();
+		int size = words.size();
 		for (int i = 0; i < size; i++) {
-			t = tokens.get(i);
-			sb.append(t.getText());
+			w = words.get(i);
+			sb.append(w.getText());
 			if (i < size - 1) {
 				sb.append(" ");
 			}

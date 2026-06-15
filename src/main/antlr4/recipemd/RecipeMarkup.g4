@@ -2,23 +2,25 @@ grammar RecipeMarkup ;
 
 recipe: titleEntry (linkEntry|note|compDef|instruction|tagEntry|imageEntry)+ ;
 
-compDef: LBRACE LBRACKET name+=WORD+ RBRACKET (instruction|note|imageEntry)+ RBRACE;
+compDef: LBRACE LBRACKET name+=word+ RBRACKET (instruction|note|imageEntry)+ RBRACE;
 
 instruction: HASH (dirText|combination|measuredAddition|measuredCompRef|addition|compRef)+ ;
 
 combination: 'combine:' LBRACE (measuredAddition|measuredCompRef|addition|compRef)+ RBRACE;
 
-measuredAddition: LBRACKET amount=NUMBER unit=('item'|'sprig'|'stalk'|'tsp'|'tbl'|'cup'|'lbs'|'oz'|'ml'|'g'|'dash'|'cloves'|'head'|'gallon') (LBRACKET prep+=WORD+ RBRACKET)? ingredient+=WORD+ (LBRACKET postprep+=WORD+ RBRACKET)? RBRACKET;
-measuredCompRef: LBRACKET amount=NUMBER unit=('item'|'sprig'|'stalk'|'tsp'|'tbl'|'cup'|'lbs'|'oz'|'ml'|'g'|'dash'|'cloves'|'head'|'gallon') DOLLAR LBRACKET name+=WORD+ RBRACKET RBRACKET;
-addition: LBRACKET ingredient+=WORD+ RBRACKET;
-compRef: DOLLAR LBRACKET name+=WORD+ RBRACKET;
+measuredAddition: LBRACKET amount=NUMBER unit=unitKw (LBRACKET prep+=word+ RBRACKET)? ingredient+=word+ (LBRACKET postprep+=word+ RBRACKET)? RBRACKET;
+measuredCompRef: LBRACKET amount=NUMBER unit=unitKw DOLLAR LBRACKET name+=word+ RBRACKET RBRACKET;
+addition: LBRACKET ingredient+=word+ RBRACKET;
+compRef: DOLLAR LBRACKET name+=word+ RBRACKET;
 
 note : STAR dirText;
-titleEntry: TITlE name=WORD+;
+titleEntry: TITlE name=word+;
 linkEntry: LINK url=WORD;
 imageEntry: IMAGE path=WORD;
-tagEntry: TAGS tags=WORD+;
-dirText: (NUMBER|WORD)+;
+tagEntry: TAGS tags=word+;
+dirText: (NUMBER|word)+;
+unitKw: 'item'|'sprig'|'stalk'|'tsp'|'tbl'|'cup'|'lbs'|'oz'|'ml'|'g'|'dash'|'cloves'|'head'|'gallon';
+word: WORD | unitKw ;
 
 // Lexer
 TITlE: 'TITLE';
@@ -42,7 +44,7 @@ WORD : (LETTER|DIGIT|PUNC)+ ;
 WS : [ \n\r\t]+ -> skip ;
 
 fragment PUNC
-	: ['.,():/\-;&];
+	: ['.,():/\-;&!];
 
 fragment LETTER
 	: [a-zA-Z_];

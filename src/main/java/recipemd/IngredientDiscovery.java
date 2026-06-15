@@ -21,7 +21,6 @@ import org.antlr.v4.runtime.CharStream;
 import org.antlr.v4.runtime.CommonTokenFactory;
 import org.antlr.v4.runtime.CommonTokenStream;
 import org.antlr.v4.runtime.Lexer;
-import org.antlr.v4.runtime.Token;
 import org.antlr.v4.runtime.UnbufferedCharStream;
 import org.antlr.v4.runtime.tree.ParseTreeListener;
 import org.antlr.v4.runtime.tree.ParseTreeWalker;
@@ -29,6 +28,7 @@ import org.antlr.v4.runtime.tree.ParseTreeWalker;
 import recipemd.RecipeMarkupParser.AdditionContext;
 import recipemd.RecipeMarkupParser.MeasuredAdditionContext;
 import recipemd.RecipeMarkupParser.RecipeContext;
+import recipemd.RecipeMarkupParser.WordContext;
 
 public class IngredientDiscovery {
 
@@ -46,13 +46,13 @@ public class IngredientDiscovery {
 			ingredients.add(getText(ctx.ingredient).toLowerCase());
 		}
 
-		private String getText(List<Token> tokens) {
-			Token t;
+		private String getText(List<WordContext> words) {
+			WordContext w;
 			StringBuilder sb = new StringBuilder();
-			int size = tokens.size();
+			int size = words.size();
 			for (int i = 0; i < size; i++) {
-				t = tokens.get(i);
-				sb.append(t.getText());
+				w = words.get(i);
+				sb.append(w.getText());
 				if (i < size - 1) {
 					sb.append(" ");
 				}

@@ -3,11 +3,10 @@ package recipemd.dynalist;
 import java.util.ArrayList;
 import java.util.List;
 
-import org.antlr.v4.runtime.Token;
-
 import recipemd.RecipeMarkupBaseListener;
 import recipemd.RecipeMarkupParser.AdditionContext;
 import recipemd.RecipeMarkupParser.MeasuredAdditionContext;
+import recipemd.RecipeMarkupParser.WordContext;
 
 public class IngredientCollector extends RecipeMarkupBaseListener {
 
@@ -42,13 +41,13 @@ public class IngredientCollector extends RecipeMarkupBaseListener {
 
 	}
 
-	private String getText(List<Token> tokens) {
-		Token t;
+	private String getText(List<WordContext> words) {
+		WordContext w;
 		StringBuilder sb = new StringBuilder();
-		int size = tokens.size();
+		int size = words.size();
 		for (int i = 0; i < size; i++) {
-			t = tokens.get(i);
-			sb.append(t.getText());
+			w = words.get(i);
+			sb.append(w.getText());
 			if (i < size - 1) {
 				sb.append(" ");
 			}
